@@ -10,8 +10,7 @@
   "repository": "/pikatea-docs",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src",
-    "docs:build": "vuepress build docs"
+    "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {

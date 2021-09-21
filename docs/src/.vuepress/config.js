@@ -45,6 +45,7 @@ module.exports = {
   `
     ]
   ],
+  base: '/pikatea-documentation/',
 
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
