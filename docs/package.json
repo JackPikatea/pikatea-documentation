@@ -1,0 +1,20 @@
+{
+  "name": "pikatea-docs",
+  "version": "0.0.1",
+  "description": "Documentation for Pikatea products and software",
+  "main": "index.js",
+  "authors": {
+    "name": "Jack Kester",
+    "email": "support@pikatea.com"
+  },
+  "repository": "/pikatea-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "docs:build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
