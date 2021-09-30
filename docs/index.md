@@ -3,7 +3,7 @@ home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: Documentation for Pikatea products and software
 actionText: Quick Start →
-actionLink: /guide/
+actionLink: /products/
 features:
 - title: Feature 1 Title
   details: Feature 1 Description

@@ -67,26 +67,82 @@ module.exports = {
         rel:false 
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Home',
+        link: '/'
       },
       {
         text: 'VuePress',
         link: 'https://v1.vuepress.vuejs.org'
       }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
+    // sidebar: {
+    //   '/products/': [
+    //     '', // this is your docs/README.md
+    
+    //     {
+    //       title: 'Products2',
+    //       collapsable: true,
+    //       children: [
+    //         'PikateaMacropadGB3/',
+    //         'PikateaMacropadGB3/pikatea-macropad-gb3-user-guide',
+    //         'PikateaMacropadGB3/pikatea-macropad-gb3-kit-assembly-guide',
+    //       ]
+    //     },
+    //     // {
+    //     //   title: 'Guides',
+    //     //   collapsable: false,
+    //     //   children: [
+    //     //     'guides/', // 'docs/guides/README.md' if you renamed before
+    //     //     'guides/firstApplication',              
+    //     //   ]
+    //     // },
+    //     // {
+    //     //   title: 'Media',
+    //     //   collapsable: false,
+    //     //   children: [
+    //     //     'media/', // 'docs/media/README.md' if you renamed before
+    //     //     'media/downloads/brochure',
+    //     //     'media/onlineResources/articles',
+    //     //     'media/onlineResources/videos', 
+    //     //   ]
+    //     // }
+    //   ],
+    
+    //   '/': [ // Your fallback (this is your landing page)
+    //     '' // this is your README.md (main)
+    //   ]       
+    // }
+    sidebar: [
+      {
+        title: 'Pikatea Macropad GB3',   // required
+        path: '/products/',      // optional, link of the title, which should be an absolute path and must exist
+        collapsable: true, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          ['/products/PikateaMacropadGB3/pikatea-macropad-gb3-user-guide', 'Pikatea Macropad GB3 User Guide'],
+          ['/products/PikateaMacropadGB3/pikatea-macropad-gb3-kit-assembly-guide', 'Pikatea Macropad GB3 Kit Assembly Guide'],
+        ]
+      },
+      {
+        title: 'Pikatea Macropad GB2',   // required
+        path: '/products/',      // optional, link of the title, which should be an absolute path and must exist
+        collapsable: true, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          ['/products/PikateaMacropadGB2/pikatea-macropad-gb2', 'Pikatea Macropad GB2 User Guide']
+        ]
+      },
+      {
+        title: 'Firmware Update Guide',   // required
+        path: '/guide/',      // optional, link of the title, which should be an absolute path and must exist
+        collapsable: true, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          ['/guide/', 'guide'],
+          ['/guide/using-vue', 'guide using vue'],
+        ]
+      },
+    ]
   },
 
   /**
