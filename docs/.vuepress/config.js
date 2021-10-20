@@ -114,22 +114,30 @@ module.exports = {
     // }
     sidebar: [
       {
-        title: 'Pikatea Macropad GB3',   // required
-        path: '/products/',      // optional, link of the title, which should be an absolute path and must exist
-        collapsable: true, // optional, defaults to true
+        title: 'Introduction',   // required
+        collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/products/PikateaMacropadGB3/pikatea-macropad-gb3-user-guide', 'Pikatea Macropad GB3 User Guide'],
-          ['/products/PikateaMacropadGB3/pikatea-macropad-gb3-kit-assembly-guide', 'Pikatea Macropad GB3 Kit Assembly Guide'],
+          ['/', 'Getting Started']
+          // ['contribute','Suggest Changes'],
+          // ['Need']
+        ]
+      },
+      {
+        title: 'Pikatea Macropad GB3',   // required
+        collapsable: false, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          ['/PikateaMacropadGB3/', 'Pikatea Macropad GB3 User Guide'],
+          ['/PikateaMacropadGB3/pikatea-macropad-gb3-kit-assembly-guide', 'Pikatea Macropad GB3 Kit Assembly Guide'],
         ]
       },
       {
         title: 'Pikatea Macropad GB2',   // required
-        path: '/products/',      // optional, link of the title, which should be an absolute path and must exist
-        collapsable: true, // optional, defaults to true
+        collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/products/PikateaMacropadGB2/pikatea-macropad-gb2', 'Pikatea Macropad GB2 User Guide']
+          ['/PikateaMacropadGB2/', 'Pikatea Macropad GB2 User Guide']
         ]
       },
       {
