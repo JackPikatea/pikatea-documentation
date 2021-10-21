@@ -141,12 +141,11 @@ module.exports = {
         ]
       },
       {
-        title: 'Firmware Update Guide',   // required
-        path: '/guide/',      // optional, link of the title, which should be an absolute path and must exist
-        collapsable: true, // optional, defaults to true
+        title: 'Other Guides',   // required
+        collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/guide/', 'guide'],
+          ['/guide/', 'Extra Pikatea Macropad Tips and Tricks'],
           ['/guide/using-vue', 'guide using vue'],
         ]
       },

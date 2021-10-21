@@ -107,7 +107,7 @@ Add the keycaps to your macropad and click the switches a bunch because it's fun
 ## Test the Macropad BEFORE mounting
 This is a very crucial step. The last thing you'd want to do is install your macropad only to realize you forgot to solder all the pins correctly. 
 
-**Follow the [Pikatea Macropad GB3 user guide]() but mount the device later after you've verified everything functions.**
+**Follow the [Pikatea Macropad GB3 user guide](./) but mount the device later after you've verified everything functions.**
 
 If everything works, Congrats! You did it!
 
