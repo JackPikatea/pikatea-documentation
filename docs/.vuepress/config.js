@@ -146,7 +146,7 @@ module.exports = {
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
           ['/guide/', 'Extra Pikatea Macropad Tips and Tricks'],
-          ['/guide/using-vue', 'guide using vue'],
+          ['/guide/firmware-download-and-update-guide', 'Firmware Downloads and Update Guide'],
         ]
       },
     ]

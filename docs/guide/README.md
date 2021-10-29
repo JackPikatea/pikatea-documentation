@@ -4,7 +4,7 @@ This is a collection of extra tips and tricks you can utilize to increase the fu
 
 This list is heavily curerated by the community of people who use Pikatea Macropads. Thank you! If you've got questions, ask us in Discord.
 
-## Controling a Smart device
+## Controling a Smart Device
 
 Use your Pikatea Macropad to control a smart device connected to your network. Toggle your LED lights or smart outlets. This relies on the service IFTTT or Push Bullet, so any device that works with those servies (Almost all smart devices) could be controlled!
 
@@ -28,7 +28,7 @@ This guide is for Windows but the concepts could be applied to Mac Or Linux
     5. Save the URL you used. we will be using it later.
 
 4. Install autohotkey and create a new script.
-    1. Install autohotkey and create a script. Give it a meaningful title like "smart lights". Right click and edit the script.
+    1. Install autohotkey and create a script. [view the guide for getting started with AHK](#installing-and-using-autohotkey). Give it a meaningful title like "smart lights". Right click and edit the script.
     2. replace the contents of the file with the following code
     ``` 
     #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
@@ -47,6 +47,58 @@ This guide is for Windows but the concepts could be applied to Mac Or Linux
 
 That's it! Now when you press the F24 key, AHK will send a web request to the URL and IFTTT will toggle the device.
 
-## doing something else
+## Focus a Program Before Activating a Macro
 
-yup
+Lots of programs only react to hotkeys and macros if the program is in focus. For example, Microsoft Teams mute only works if Microsoft Teams is the current active window. This Autohotkey script will focus the program you want before activing aditional commands.
+
+Install autohotkey and create a script. [View the guide for getting started with AHK](#installing-and-using-autohotkey). Give it a meaningful title. Right click and edit the script.
+
+Replace the code in the script with the following
+```
+F15::
+IfWinExist ahk_exe chrome.exe
+	winactivate ahk_exe chrome.exe
+else
+	run, "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+WinWait ahk_exe chrome.exe
+WinActivate ahk_exe chrome.exe
+WinWaitActive ahk_exe chrome.exe
+```
+### Some notes on the code
+1. Change **chrome.exe** to the program you would like to have focused
+2. This part will open the program if it is not already running. change the path to the program you want. Delete this section if you don't want this functionality
+```
+else
+	run, "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+```
+3. Change F15 to any F13-F24 you would like. This is the key that activates the program.
+
+Configure your macropad so that one of the keys is F15 or the matching F key the program needs.
+
+now, if the script is running, and the button is pressed, the program should become active.
+
+### Add more commands after activating the program
+Bringing a window into focus isn't super useful unless it's followed by some action. There is two ways to do that. First and the simplest is by configuring a macro on the device and the second and more complicated is by adding "Send" commands to the AutoHotKey script.
+
+Configure a macro like this to first activate the window and then send the hotkey. Add a delay to give the script enouch time to focus the window.
+
+INSERT IMAGE
+
+or, add more commands to the end of the AHK script. The [Send Command](https://www.autohotkey.com/docs/commands/Send.htm) is the most useful in this senario.
+
+## Installing and Using AutoHotKey
+
+Lots of these extra tips and tricks use the program [AutoHotKey](https://www.autohotkey.com/) (AHK for short) which is a free program that makes manipulating windows a lot easier.
+
+Go to [the Autohotkey Website](https://www.autohotkey.com/) and download and install the current version.
+
+Autohotkey (AHK) relies on what they call scripts. To create a new AHK script, right click in your file explorer and select "new" and then "AutoHotKey Script". 
+![img](/assets/ExtraTipsAndTricks/AHK-context-menu.png)
+
+This will create a text file which you can edit by right clicking and selecting "open with" and then selecting "notepad" or a different text editor.
+![img](/assets/ExtraTipsAndTricks/AHK-edit-file.png)
+
+To run the script, just double click on it. An icon should appear in the icon try. Right clicking on that will give you the option to stop the script, reload it and other options.
+![img](/assets/ExtraTipsAndTricks/AHK-tray-menu.png)
+
+You can find the offical documenation for AHK at [https://www.autohotkey.com](https://www.autohotkey.com/) but this should give you enough info to get started.
