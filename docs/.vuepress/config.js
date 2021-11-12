@@ -133,20 +133,30 @@ module.exports = {
         ]
       },
       {
-        title: 'Pikatea Macropad GB2',   // required
-        collapsable: false, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
-        children: [
-          ['/PikateaMacropadGB2/', 'Pikatea Macropad GB2 User Guide']
-        ]
-      },
-      {
         title: 'Other Guides',   // required
         collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
           ['/guide/', 'Extra Pikatea Macropad Tips and Tricks'],
           ['/guide/firmware-download-and-update-guide', 'Firmware Downloads and Update Guide'],
+        ]
+      },
+      {
+        title: 'Pikatea Macropad GB2',   // required
+        collapsable: false, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          ['/PikateaMacropadGB2/', 'Pikatea Macropad GB2 User Guide'],
+          ['/PikateaMacropadGB2/pikatea-macropad-gb2-kit-assembly-guide', 'Pikatea Macropad GB3 Kit Assembly Guide'],
+        ]
+      },
+      {
+        title: 'Macropad1x5',   // required
+        collapsable: false, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          ['/Macropad1x5/', 'Macropad1x5 User Guide'],
+          ['/Macropad1x5/macropad1x5-kit-assembly-guide', 'Macropad1x5 Kit Assembly Guide'],
         ]
       },
     ]
