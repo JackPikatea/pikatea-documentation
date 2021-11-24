@@ -4,17 +4,62 @@ This is a collection of extra tips and tricks you can utilize to increase the fu
 
 This list is heavily curerated by the community of people who use Pikatea Macropads. Thank you! If you've got questions, ask us in Discord.
 
+## Controlling Music
+
+Setup 1 button to play/pause music, 1 to skip to the next song and 1 to go back to the previous song. This is configured by default for Pikatea Macropad GB3
+
 ## Muting Your Microphone Globally
 
 Muting your microphone globally is very handly since you do not have to configure program specific hotkeys.
-### Windows
+#### Windows
 Use [**Microsoft PowerToys**](https://docs.microsoft.com/en-us/windows/powertoys/) or [**SoundSwitch**](https://soundswitch.aaflalo.me/)
 
 We recommend using Microsoft PowerToys since it comes with a host of other features and updates regularly.
 
-### Mac OS X
+#### Mac OS X
 
 Use Automater and [follow this guide](https://medium.com/macoclock/how-in-the-bleep-do-i-mute-my-mic-anywhere-on-macos-d2fa1185b13) 
+
+## Software Audio Mixer - deej Alternative
+
+Control the volume of programs independly of each other to get the perfect sound mix. This is a completly software alternative to deej, no flashing or firmware change is required.
+
+#### Download NirCmd
+Download NirCmd from [https://www.nirsoft.net/utils/nircmd.html](https://www.nirsoft.net/utils/nircmd.html). Nirsoft's website is kinda hard to navigate. The download is at the bottom of the page. 
+
+Copy the "NirCmd.exe" executable to your C:/Windows directory. You'll need admin permisions
+
+#### Setup AutoHotKey
+Install autohotkey and create a script. [View the guide for getting started with AHK](#installing-and-using-autohotkey). Give it a meaningful title. Right click and edit the script.
+
+Replace everything in the script with this. Change **spotify.exe** and the **F Key** used to whatever you like.
+```
+RemoveToolTip:
+SetTimer, RemoveToolTip, Off
+ToolTip
+return
+
+;repeat this section for as many programs as you want to control
+;change the executable and F key needed
+F15 & Volume_Down::
+    Run, nircmd changeappvolume spotify.exe -0.05
+    return
+F15 & Volume_Up::
+    Run, nircmd changeappvolume spotify.exe +0.05
+    return
+F15::
+ToolTip,Music     ;change this to something meaningful
+SetTimer, RemoveToolTip, 1000
+Return
+```
+
+#### Configure Macropad
+
+The script is setup to work when F15 and Volume Up/Down is pressed so configure a button to press F15 and the knob to control system volume.
+
+Run the script and test it out. Once you are happy with the result, compile it an place it in the startup folder so that the script runs everytime your computer starts
+
+
 
 ## Controling a Smart Device
 
@@ -76,7 +121,7 @@ WinWait ahk_exe chrome.exe
 WinActivate ahk_exe chrome.exe
 WinWaitActive ahk_exe chrome.exe
 ```
-### Some notes on the code
+#### Some notes on the code
 1. Change **chrome.exe** to the program you would like to have focused
 2. This part will open the program if it is not already running. change the path to the program you want. Delete this section if you don't want this functionality
 ```
@@ -89,7 +134,7 @@ Configure your macropad so that one of the keys is F15 or the matching F key the
 
 now, if the script is running, and the button is pressed, the program should become active.
 
-### Add more commands after activating the program
+#### Add more commands after activating the program
 Bringing a window into focus isn't super useful unless it's followed by some action. There is two ways to do that. First and the simplest is by configuring a macro on the device and the second and more complicated is by adding "Send" commands to the AutoHotKey script.
 
 Configure a macro like this to first activate the window and then send the hotkey. Add a delay to give the script enouch time to focus the window.
