@@ -102,3 +102,5 @@ To run the script, just double click on it. An icon should appear in the icon tr
 ![img](/assets/ExtraTipsAndTricks/AHK-tray-menu.png)
 
 You can find the offical documenation for AHK at [https://www.autohotkey.com](https://www.autohotkey.com/) but this should give you enough info to get started.
+
+<Footer/>

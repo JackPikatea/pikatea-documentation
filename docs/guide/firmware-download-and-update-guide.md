@@ -47,3 +47,5 @@ With linux you can download a compatible firmware and flash it directly with avr
 avrdude -p atmega32u4 -c avr109 -P /dev/ttyACM0 -U flash:w:macropad1x5_vial.hex:i
 
 Make sure to enter the correct port and path to the .hex on your machine. Prepending sudo or adjusting the udev rules may be required. You only need to flash the firmware once and can use Vial from then on.
+
+<Footer/>

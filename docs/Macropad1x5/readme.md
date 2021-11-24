@@ -1,6 +1,6 @@
 # Macropad1x5 Kit by LS Keyboards And Pikatea User Guide
 ### Introduction
-This guide will walk you through using your Macropad1x5! If you havn't assembled your macropad yet, follow the [Assembly Guide](https://www.pikatea.com/pages/macropad1x5-kit-by-ls-keyboards-and-pikatea-assembly-guide) first and then come back here.
+This guide will walk you through using your Macropad1x5! If you havn't assembled your macropad yet, follow the [Assembly Guide](/Macropad1x5/macropad1x5-kit-assembly-guide.html) first and then come back here.
 ### Mounting
 Mounting can be done with screws or the doubled sided tape. Align the Macropad to the underside of your desk or monitor and press firmly for 10 seconds or more if needed. The bond will grow stronger over time. Be careful not to cover up any monitor buttons. 
 
@@ -8,7 +8,7 @@ Note: It's good practice to secure the USB cable with a cable tie or similar so 
 ### Programming and Usage
 Since this macropad is a kit, the firmware you choose is ultimately up to you. However, we do have precompile VIAL firmware which we strongly recommend using. Follow the Firmware Update Guide if you haven't already flashed the firmware to your device. 
 
-Follow the [VIAL Programming Guide](https://www.pikatea.com/pages/vial-programming-guide) if you need help configuring your device.
+Follow the [VIAL Programming Guide](https://get.vial.today/manual/) if you need help configuring your device.
 ### Example Uses
 This is a list I've generated of useful ways and programs to use the Macropad1x5 with. These are just examples. In reality, the possibilities are endless. Suggest more use cases on the [discord channel](https://www.pikatea.com/discord)
 
@@ -23,3 +23,5 @@ This is a list I've generated of useful ways and programs to use the Macropad1x5
 The Macropad1x5 is compatible with QMK and VIA and VIAL firmware
 
 [Pikatea QMK Fork](https://github.com/JackPikatea/qmk_firmware) - Use this fork to create your own firmware powered by QMK. The fork also contains a keymap and settings file to compile a firmware that is compatible with VIA.
+
+<Footer/>

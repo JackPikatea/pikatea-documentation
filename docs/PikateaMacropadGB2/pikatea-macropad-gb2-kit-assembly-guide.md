@@ -98,3 +98,5 @@ Re-solder the top side of the 15-pin header circled. The pins are soldered from 
 ![](https://cdn.shopify.com/s/files/1/0322/9637/0235/files/InkedPXL_20201214_202426021_LI_071a6618-4994-41a5-8c71-5aa7d6c4d27f_480x480.jpg?v=1608063980)
 
 Please email support if you have any other issues in regards to the assembly process.
+
+<Footer/>

@@ -71,47 +71,10 @@ module.exports = {
         link: '/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Discord',
+        link: 'https://www.pikatea.com/discord'
       }
     ],
-    // sidebar: {
-    //   '/products/': [
-    //     '', // this is your docs/README.md
-    
-    //     {
-    //       title: 'Products2',
-    //       collapsable: true,
-    //       children: [
-    //         'PikateaMacropadGB3/',
-    //         'PikateaMacropadGB3/pikatea-macropad-gb3-user-guide',
-    //         'PikateaMacropadGB3/pikatea-macropad-gb3-kit-assembly-guide',
-    //       ]
-    //     },
-    //     // {
-    //     //   title: 'Guides',
-    //     //   collapsable: false,
-    //     //   children: [
-    //     //     'guides/', // 'docs/guides/README.md' if you renamed before
-    //     //     'guides/firstApplication',              
-    //     //   ]
-    //     // },
-    //     // {
-    //     //   title: 'Media',
-    //     //   collapsable: false,
-    //     //   children: [
-    //     //     'media/', // 'docs/media/README.md' if you renamed before
-    //     //     'media/downloads/brochure',
-    //     //     'media/onlineResources/articles',
-    //     //     'media/onlineResources/videos', 
-    //     //   ]
-    //     // }
-    //   ],
-    
-    //   '/': [ // Your fallback (this is your landing page)
-    //     '' // this is your README.md (main)
-    //   ]       
-    // }
     sidebar: [
       {
         title: 'Introduction',   // required
@@ -137,7 +100,7 @@ module.exports = {
         collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/guide/', 'Extra Pikatea Macropad Tips and Tricks'],
+          ['/guide/', 'Extra Pikatea Macropad Tips, Tricks, and Ideas'],
           ['/guide/firmware-download-and-update-guide', 'Firmware Downloads and Update Guide'],
         ]
       },
@@ -147,7 +110,7 @@ module.exports = {
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
           ['/PikateaMacropadGB2/', 'Pikatea Macropad GB2 User Guide'],
-          ['/PikateaMacropadGB2/pikatea-macropad-gb2-kit-assembly-guide', 'Pikatea Macropad GB3 Kit Assembly Guide'],
+          ['/PikateaMacropadGB2/pikatea-macropad-gb2-kit-assembly-guide', 'Pikatea Macropad GB2 Kit Assembly Guide'],
         ]
       },
       {

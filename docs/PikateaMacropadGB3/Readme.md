@@ -70,3 +70,5 @@ Vial isn't detecting the device!
 Sometimes the device doesn't work as expected. If this is the case, we can do a replacement/repair up to 3 months after receiving your device.
 
 Have some advice or need more help? Let us know on [Discord](https://www.pikatea.com/discord) or through our [Contact Us](https://www.pikatea.com/pages/contact-us) form.
+
+<Footer/>
