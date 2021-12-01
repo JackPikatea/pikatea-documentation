@@ -24,42 +24,59 @@ Use Automater and [follow this guide](https://medium.com/macoclock/how-in-the-bl
 
 Control the volume of programs independly of each other to get the perfect sound mix. This is a completly software alternative to deej, no flashing or firmware change is required.
 
-#### Download NirCmd
-Download NirCmd from [https://www.nirsoft.net/utils/nircmd.html](https://www.nirsoft.net/utils/nircmd.html). Nirsoft's website is kinda hard to navigate. The download is at the bottom of the page. 
+You'll need to install two programs to do this, **AutoHotKey**, and **NirCmd**.
 
-Copy the "NirCmd.exe" executable to your C:/Windows directory. You'll need admin permisions
+#### Download NirCmd
+Download the 64-bit version of NirCmd from [https://www.nirsoft.net/utils/nircmd.html](https://www.nirsoft.net/utils/nircmd.html). The download is at the bottom of the page. 
+
+(Note: Like all good Windows utilities, the website looks like something from 1995...)
+
+Copy the "NirCmd.exe" executable in the zip file you downloaded to your C:/Windows directory. You'll need admin permisions
 
 #### Setup AutoHotKey
-Install autohotkey and create a script. [View the guide for getting started with AHK](#installing-and-using-autohotkey). Give it a meaningful title. Right click and edit the script.
+Install autohotkey and create a script. [View the guide for getting started with AHK](#installing-and-using-autohotkey). Give it a meaningful title. Let's configure the macropad before editing the script.
 
-Replace everything in the script with this. Change **spotify.exe** and the **F Key** used to whatever you like.
+#### Configure the Macropad
+
+The setup for the pad is simple. Map every key to something you won't ever use. I like setting the five keys on my macropad to F13, F14... and so on. These are essentially dummy keystrokes, and their only function is to be caught by our AutoHotKey script.
+
+As for the knob, you can either map it to volume up/down or dummy keystrokes, depending on whether you want the knob to control system volume when you don't have anything pressed or not. I'm going to go with volume up/down for this script.
+
+#### Edit AutoHotKey Script
+
+Right click and edit the script you created ealier. Go ahead and remove everything that is already there.
+
+First place this at the top of the file.
 ```
-RemoveToolTip:
-SetTimer, RemoveToolTip, Off
-ToolTip
-return
+#NoEnv
+#Warn
+#SingleInstance, Force
+#MaxHotkeysPerInterval 2000
+```
 
-;repeat this section for as many programs as you want to control
-;change the executable and F key needed
+And then the useful bit.
+
+```
+F13 & Volume_Down:: Run, nircmd changeappvolume firefox.exe -0.05
+F13 & Volume_Up::Run, nircmd changeappvolume firefox.exe +0.05
+```
+
+In the above script, holding the F13 key (i.e. whichever key we mapped on the pad to send F13) and turning the knob (volume down or up, again, like we've set it on the pad), will trigger a the nircmd command to change the application volume for firefox.exe by an interval of 0.05.
+
+Copy and paste for each key, changing the application name each time to suit. You can also do multiple apps at once. The 'return' at the end just closes off the command, so don't forget to include it!
+
+```
 F15 & Volume_Down::
-    Run, nircmd changeappvolume spotify.exe -0.05
-    return
+	Run, nircmd changeappvolume spotify.exe -0.05
+	Run, nircmd changeappvolume winamp.exe -0.05
+	Run, nircmd changeappvolume itunes.exe -0.05
+return
 F15 & Volume_Up::
-    Run, nircmd changeappvolume spotify.exe +0.05
-    return
-F15::
-ToolTip,Music     ;change this to something meaningful
-SetTimer, RemoveToolTip, 1000
-Return
+	Run, nircmd changeappvolume spotify.exe +0.05
+	Run, nircmd changeappvolume winamp.exe +0.05
+	Run, nircmd changeappvolume itunes.exe +0.05
+return
 ```
-
-#### Configure Macropad
-
-The script is setup to work when F15 and Volume Up/Down is pressed so configure a button to press F15 and the knob to control system volume.
-
-Run the script and test it out. Once you are happy with the result, compile it an place it in the startup folder so that the script runs everytime your computer starts
-
-
 
 ## Controling a Smart Device
 
@@ -152,11 +169,13 @@ Go to [the Autohotkey Website](https://www.autohotkey.com/) and download and ins
 Autohotkey (AHK) relies on what they call scripts. To create a new AHK script, right click in your file explorer and select "new" and then "AutoHotKey Script". 
 ![img](/assets/ExtraTipsAndTricks/AHK-context-menu.png)
 
-This will create a text file which you can edit by right clicking and selecting "open with" and then selecting "notepad" or a different text editor.
+This will create a text file with an extension (.ahk) which you can edit by right clicking and selecting "open with" and then selecting "notepad" or a different text editor.
 ![img](/assets/ExtraTipsAndTricks/AHK-edit-file.png)
 
 To run the script, just double click on it. An icon should appear in the icon try. Right clicking on that will give you the option to stop the script, reload it and other options.
 ![img](/assets/ExtraTipsAndTricks/AHK-tray-menu.png)
+
+Place the script in your windows startup folder so that it runs automatically when you turn on your computer.
 
 You can find the offical documenation for AHK at [https://www.autohotkey.com](https://www.autohotkey.com/) but this should give you enough info to get started.
 
