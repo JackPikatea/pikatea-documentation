@@ -49,13 +49,7 @@ This is a list I've generated of useful ways and programs to use the Pikatea Mac
 **Monitor Control** - Use MultiMonitorTool or MonitorSwitcher to make switching monitor configurations easy. Combine it with your macropad to make it even easier!
 
 ## deej Software Usage
-The Pikatea Macropad works with deej but some simple programming in the Arduino environment will be required. deej is an open-source hardware volume mixer for Windows and Linux PCs. It lets you use real-life sliders (or in this case, your Pikatea Macropad) to seamlessly control the volumes of different apps (such as your music player, the game you're playing, and your voice chat session) without having to stop what you're doing.
-
-*Important note: deej is a 3rd-party program. The macropad uses a rotary encoder - which isn't officially supported with deej - and as such might not interact super-intuitively with config options such as "noise_reduction"*
-
-Setting up your macropad to work with deej requires a little bit of programming. Don't be intimidated, every step is outlined and detailed to make it as easy as possible. If you have questions, ask on discord! We are happy to assist.
-
-[Follow this guide to get started with using deej]()
+As of December 2021 we no longer support deej. Please [refer to this guide](/guide/#software-audio-mixer-deej-alternative) in regards to controlling the audio of indiviaul programs independantly.
  
 ## QMK and VIA Programming
 The Pikatea Macropad is compatible with QMK and VIA firmware.
