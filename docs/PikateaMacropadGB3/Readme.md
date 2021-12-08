@@ -32,7 +32,7 @@ More information on all the features can be found on [the Offical Vial usage gui
 
 
 ## Example Uses
-This is a list I've generated of useful ways and programs to use the Pikatea Macropad with. This is just an example. In reality, the possibilities are endless. Suggest more use cases on the discord channel
+This is a list I've generated of useful ways and programs to use the Pikatea Macropad with. These are just examples. We also have some [more advanced tips and tricks here](/guide/)
 
 **Music control** - My favorite way to use the Pikatea Macropad. I usually configure 3 buttons for Play/Pause, Next, and Previous songs. The knob is used to control volume. This works well with Spotify. Pair with Toastify for an even better experience.
 
