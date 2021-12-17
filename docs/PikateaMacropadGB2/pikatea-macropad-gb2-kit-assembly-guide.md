@@ -1,5 +1,8 @@
 # Pikatea Macropad GB2 Kit Assembly Guide
 ### Introduction
+
+**This is probably not the page you are looking for! We stopped selling the GB2 in 2020.** 
+
 Congratulations on receiving your Pikatea Macropad Kit. This guide will walk you through the assembly process. Please email support if you have any questions.
 ### What's in the Box
 ![](https://cdn.shopify.com/s/files/1/0322/9637/0235/files/PXL_20201214_200914850_600x600.jpg?v=1607999171)
