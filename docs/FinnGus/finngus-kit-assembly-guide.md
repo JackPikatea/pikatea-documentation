@@ -37,7 +37,7 @@ You will need everything that comes with the kit as well as a few other items. T
 - Philips head screw driver
 - Allen wrenches (1.5mm (included) and 2.5mm)
 - Flush cut snips
-- about 3-4 hours time
+- About 3-4 hours time
 
 Now that you have everything you need, lets get started!
 
@@ -58,15 +58,21 @@ With the case section assembled, set it aside for now.
 
 ## Prepare The PCB
 
-The PCB is the most complicated part so we've broken it down into partial steps
+The PCB is the most complicated part so we've broken it down into 6 partial steps. Please pay special attention to the details on these steps. I'd recommend reading through this entire section before getting started. It's important to be as carefuly as possible to not scratch the PCB and damage it. Take your time!
+
+1. Flash The Firmware
+2. Solder In The I/O Chip and Pro Micro
+3. Solder in the Diodes
+4. Solder In The Encoder
+5. Screw In The Stabilizers
+6. Verify And Test
 
 #### 1. Flash The Firmware
 
 Let's start with flashing the firmware onto the included Pro Micro to make sure that is working. Plug it into your computer using a USB-C cable.
 
-We already have a [generic guide for flashing firmware](/firmware-download-and-update-guide.html) which is here. Follow that guide and use the FinnGus firmware which can be downloaded from that page. Since there is no reset button on the pro micro, reset the device by connecting the pins RESET and GND with a metal object (a bent paper clip works well)
+We already have a [generic guide for flashing firmware](/firmware-download-and-update-guide.html) which is here. Follow that guide and use the FinnGus firmware which can be downloaded from that page. Since there is no reset button on the Pro Micro, reset the device by connecting the pins RESET and GND with a metal object (a bent paper clip works well). [Download and install Vial](https://get.vial.today) and make sure your computer recognizes the device as a FinnGus before moving on.
 ![](/assets/FinnGus/DSC08955.JPG)
-[Download and install Vial](https://get.vial.today) and make sure your computer recognizes the device as a FinnGus before moving on.
 
 #### 2. Solder In The I/O Chip And Pro Micro
 
@@ -80,7 +86,7 @@ Place the Pro Micro socket into the PCB like shown and solder it into place. Be 
 ![](/assets/FinnGus/corners.png)
 ![](/assets/FinnGus/full_pro_micro_socket.png)
 
-Place the Pro Micro UPSIDE DOWN with the components facing away from you. Insert legs from the included diodes into each hole and use flush cuts to snip the excess off. Finally solder the cut diodes legs to the Pro Micro. 
+Place the Pro Micro **UPSIDE DOWN** with the components facing away from you. Insert legs from the included diodes into each hole and use flush cuts to snip the excess off. Finally solder the cut diodes legs to the Pro Micro. 
 
 ![](/assets/FinnGus/insert_diodes.png)
 ![](/assets/FinnGus/show_pro_micro.png)
@@ -97,64 +103,71 @@ Insert the I/O expansion chip into the DIP socket. Pay special attention to the 
 
 1. Bend the diode and insert it into the PCB being careful it is the correct orientation. The black bar on the diode matches with the thicker white bar on the PCB. 
 ![](/assets/FinnGus/DSC08961.JPG)
-2. After the diode is inserted bend the leads outwards so it stay in place. Repeat steps 1 and 2 for each diode
+2. After the diode is inserted, bend the leads outwards so it stays in place. Repeat steps 1 and 2 for each diode.
 ![](/assets/FinnGus/DSC08965.JPG)
 3. Finally after each diode has been inserted, solder each one.
 ![](get from screen grab)
 4. Bend the diodes legs straight and use flush cuts to them off. Be careful not to scratch the PCB when doing this.
-![](get from screen grab)
+![](/assets/FinnGus/DSC08973.JPG)
 
 #### 4. Solder In The Encoder
 
-Flip the PCB to the front side facing you. Insert the rotary encoder into the footprint as shown. Make sure the encoder is as perpendicular as possible before soldering the connections.  
-![](done)
-![](done)
+Flip the PCB to the front side facing you. Insert the rotary encoder into the footprint as shown. Make sure the encoder is as perpendicular as possible before soldering the connections. It might help to use a box or the edge of a table.
+![](/assets/FinnGus/DSC08981.JPG)
+![](/assets/FinnGus/DSC08988.JPG)
 
 #### 5. Screw In The Stabilizers
 
-Install the stabilizers. They usually screw in but some might clip in. TODO link to stabilizer tutorial 
-![](done)
+Install the PCB mounted stabilizers. They usually screw in but some might clip in. Below are a few links that explain keyboard stabilizers and how to install them.
+- [Stabilizers](https://keyboard.university/100-courses/stabilizers-lcjf2)
+- [Uisng Screw-in Stabilizers](https://keyboard.university/guides/using-screw-in-stabilizers-7nxj6)
+
+![](/assets/FinnGus/DSC08969.JPG)
 
 #### 6. Verify And Test
 
-While not strickly necessary. I like to test the PCB at this point before I solder in the switches.
+While not strickly necessary, I like to test the PCB at this point before I solder in the switches. It's much easier to fix issues now if they come up.
 
-Plug in the keyboard. Open Vial and select the keyboard in the top drop down menu. From there select the **matrix tester** tab. This will show you every keypress. Test each key by using a metal object and connecting the switch pads together. 
-![](done)
-![](grab screenshot. maybe.)
+Plug in the PCB. Open Vial and select the keyboard in the top drop down menu. From there, select the **Matrix Tester** tab. This will show you every keypress. Test each key by using a metal object and connecting the switch pads together. 
+![](/assets/FinnGus/FinnGus_matrx_tester.png)
+![](/assets/FinnGus/DSC08989.JPG)
 
 ---------------------
 
 ## Install The Switches Into The Top Plate
 
 Insert the switches you'd like to use with the LEDs facing south
-![](done)
+![](/assets/FinnGus/DSC08994.JPG)
+![](/assets/FinnGus/DSC08997.JPG)
 Check that all the pins are not bent and facing straight up.
-![](done)
-Make sure they line up with the layout you'd like to use. Dry fit the PCB to make sure everything lines up/works.  Make sure you haven't forgotten the stabilizers. Be as careful as possible to not scratch the PCB with the switch leads.
+![](/assets/FinnGus/DSC0899_2.JPG)
+Make sure they line up with the layout you'd like to use. Dry fit the PCB to make sure everything lines up/works. Be as careful as possible to not scratch the PCB with the switch leads.
 
 ----------------------
 
 ## Solder 1/2 Of The Corner Switches
 
-Make sure you havn't forgetten the stabilizers!
-
 The next step is to solder the PCB to the switches but it's recommended to do it in a particular way.
 
-Start with 1 switch in the "corners" of the PCB. Solder only 1 lead (1 out of 2). The goal is to make sure the PCB is siting up against the back of each switch before moving on.
+Start with 1 switch in the "corners" of the PCB. Solder only 1 lead (1 out of 2). The goal is to ensure the PCB is siting up against the back of each switch before moving on. 
+
+Use a large box (we recommend the box the kit came in) to help support the device and allow the enocder to not interfere.
+
+(as you can see, we don't have pictures of this process. If you'd like to take a few pictures to help improve the guide that would be amazing!)
 
 -----------------------
 
 ## Solder The Switches
 
-After the PCB is in place and up against the switches, solder the rest of the switches. I like to solder half of each switch first and then come back and finish each switch
+After the PCB is in place and up against the switches, solder the rest of the switches. I like to solder half of each switch first and then come back and finish each switch. 
 
 ----------------------
 
-## Screw In The Encoder Section Of The PCB
+## Reinforce The Encoder
 
-The Encoder is not PCB mounted so that section of the PCB has to be supported. Use the include M3x6mm socket head screws and screw the PCB to the case near the encoder as shown below
-![](done)
+The encoder is not plate mounted so that section of the PCB has to be supported. Use the included M3x6mm socket head screws and screw the PCB to the case near the encoder as shown below. Use a large box (we recommend the box the kit came in) to help support the device and allow the enocder to not interfere.
+![](/assets/FinnGus/DSC09008.JPG)
+![](/assets/FinnGus/DSC09009.JPG)
 
 -------------------
 
@@ -162,33 +175,38 @@ The Encoder is not PCB mounted so that section of the PCB has to be supported. U
 
 Use the Allen wrench included to bring the set screw inside the knob so that it barely pokes through the internal hole. Place the knob on the encoder shaft so that the set screw interfaces with the flat part of the encoder shaft. After it is in place, tighten the set screw.  **Be careful not to over tighten with the 3D printed knobs or it will strip. Error on the side of too loose since it can be tightened later.**
 
-![](done)
-![](done)
+![](/assets/FinnGus/DSC09015.JPG)
+![](/assets/FinnGus/DSC09016.JPG)
+![](/assets/FinnGus/DSC09017.JPG)
 
 --------------------
 
 ## Install The Keycaps
 
 Install the keycaps. Below is the default key layout.
-![](done)
+![](/assets/FinnGus/DSC09023.JPG)
 
 ---------------------
 
 ## Test
 
-Open Vial and navigate to the matrix tester one last time. Press every key and make sure they all work.
+Plug in the keyboard, open Vial and navigate to the matrix tester one last time. Press every key and make sure they all work.
 
 -------------------------
 
-# Install The Clear Backplate
+## Install The Clear Backplate
 
-Remove the protective paper from the clear acrylic backplate. Flip the FinnGus so the backside is facing you and use the M3x8mm button socket heads.
+After you've verified that everything works, install the clear back acrylic backplate. Remove the protective paper from the clear acrylic backplate. Flip the FinnGus so the backside is facing you and use the M3x8mm button socket heads to screw it in. Use a box again so that all the weight is not on the encoder/knob. Be careful not to over tighten the acrylic or it might crack.
+
+![](/assets/FinnGus/DSC09034.JPG)
+![](/assets/FinnGus/DSC09035.JPG)
+![](/assets/FinnGus/DSC09038.JPG)
 
 ------------------------
 
 ## Enjoy
 
-That's it! You've Done it! Congratulations! Head on over to the user guide to get an idea of how to use VIAL and program your keyboard to your liking!
+That's it! You've Done it! Congratulations! Head on over to the user guide to get an idea of how to use VIAL and program your keyboard to how you like!
 
 ----------------------
 
