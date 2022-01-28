@@ -2,6 +2,8 @@
 
 Congrats on receiving your FinnGus Keyboard Kit. This guide will walk you through the process of assembling your device! Also, due to the DIY nature of this hobby, as soon as a soldering iron touches or other modifications happen to the board, I am no longer able to issue a refund/replacement. Please refer to the terms and conditions listed on my site for more info.
 
+If you choose to hotswap this with Mil-Max sockets, please see some tips at the bottom of the guide before getting started.
+
 --------------
 ## What's in the Box
 ![](/assets/FinnGus/DSC09052.jpg)
@@ -209,6 +211,12 @@ After you've verified that everything works, install the clear back acrylic back
 That's it! You've Done it! Congratulations! Head on over to the user guide to get an idea of how to use VIAL and program your keyboard to how you like!
 
 ----------------------
+
+## Mil-Maxing Tips
+
+Making this board hotswappable with Mil-Max sockets is possible but the PCB is not specifically designed with this in mind. Other than the area around the encoder the PCB is supported by only the switches and not the case. When install/replacing switches I would first recommend removing the clear backplate, adding foam (the pink bubble wrap we use for packaing works well) and then re installing the backplate. Then install the switches. Finally remove the backplate again, remove the foam and then reinstall the backplate. I know this is tediuous but it's a reliable way to get good results.
+
+![](/assets/FinnGus/milmax.jpg)
 
 ## Troubleshooting
 
