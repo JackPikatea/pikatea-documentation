@@ -109,8 +109,7 @@ module.exports = {
         collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/FinnGus/finngus-kit-assembly-guide', 'FinnGus Keyboard Kit Assembly Guide'],
-          ['/FinnGus/', 'FinnGus Keyboard User Guide'],
+          ['/FinnGus/finngus-kit-assembly-guide', 'FinnGus Keyboard Kit Assembly and User Guide'],
         ]
       },
       {

@@ -6,7 +6,7 @@ If you choose to hotswap this with Mil-Max sockets, please see some tips at the 
 
 --------------
 ## What's in the Box
-![](/assets/FinnGus/DSC09052names.jpg)
+![](/assets/FinnGus/DSC09052names.JPG)
 - A - (1) 3D Printed Head
 - A - (1) 3D Printed Middle
 - A - (1) 3D Printed Tail
@@ -208,7 +208,7 @@ After you've verified that everything works, install the clear back acrylic back
 
 ## Enjoy
 
-That's it! You've Done it! Congratulations! Head on over to the user guide to get an idea of how to use VIAL and program your keyboard to how you like!
+That's it! You've Done it! Congratulations! Now it's time to use Vial to program the keyboard to how you like. If you need help using Vial, head on over to [the Vial documentation](https://get.vial.today/manual/first-use.html)
 
 ----------------------
 
