@@ -6,7 +6,7 @@ If you choose to hotswap this with Mil-Max sockets, please see some tips at the 
 
 --------------
 ## What's in the Box
-![](/assets/FinnGus/DSC09052.jpg)
+![](/assets/FinnGus/DSC09052names.jpg)
 - A - (1) 3D Printed Head
 - A - (1) 3D Printed Middle
 - A - (1) 3D Printed Tail
