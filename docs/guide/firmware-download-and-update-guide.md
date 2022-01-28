@@ -1,11 +1,14 @@
 # Firmware Download and Update Guide
-This guide will walk you through the process of upgrading or flashing firmware on your Pikatea device. The QMK_Toolbox runs only on Windows. for Linux (and MacOS) have a look at the pointers at the bottom of this page.
+This guide will walk you through the process of upgrading or flashing firmware on your Pikatea device. The QMK_Toolbox runs only on Windows and Mac OS X. For Linux, have a look at the pointers at the bottom of this page.
 
 ## Download Firmware
 The firmware download page contains updated firmware files for all Pikatea products. Download the firmware you'd like (.hex file) and remember where it is downloaded.
 
 #### Pikatea Macropad GB3
 - [Vial (beta 0.4) Compatible Firmware](https://www.mediafire.com/file/mxun6eyc24xwnub/pikatea_pikatea_macropad_gb3_vial(0.4).hex/file)
+
+#### FinnGus Keyboard Kit
+- [Vial (beta 0.4) Compatible Firmware](https://www.mediafire.com/file/glirj4nxkplk4p2/pikatea_finn_gus_via%25280.4%2529.hex/file)
 
 #### Macropad1x5
 - [Version 0.4 (encoder left)](https://www.mediafire.com/file/jdh4rx5e19usfcq/macropad1x5_rev1_vial%25280.4%2529.hex/file) and [Version 0.4 (encoder right)](https://www.mediafire.com/file/b9mnj5y3pgnff4z/macropad1x5_rev1_vial%25280.4%2529_flipped.hex/file) (compatible with Vial beta 0.4)
@@ -30,11 +33,7 @@ It should look something like this:
 Image
 
 ## Flash Firmware
-Connect the device to the computer. Wait for the computer to recognize the device and then press the reset button which is the small button located on the back of the device.
-
-
-
-QMK_Toolbox will recognize the device and start flashing the firmware. If you have issues, try restarting QMK_Toolbox and trying again. Don't forget to select Auto-Flash.
+Connect the device to the computer. Your device might start flashing automatically. Wait for the computer to recognize the device and then press the reset button which is usually the small button located on the back of the device. The device will disconnect and then reconnect in DFU mode. QMK_Toolbox will recognize the device in DFU mode and start flashing the firmware. If you have issues, try restarting QMK_Toolbox and trying again. If auto-flash is giving you issues, you can manually click flash. Just do so when the device has been reset and is in DFU mode.
 
 If you use linux, try holding down the reset button as you plug in the device instead.
 
@@ -47,5 +46,8 @@ With linux you can download a compatible firmware and flash it directly with avr
 avrdude -p atmega32u4 -c avr109 -P /dev/ttyACM0 -U flash:w:macropad1x5_vial.hex:i
 
 Make sure to enter the correct port and path to the .hex on your machine. Prepending sudo or adjusting the udev rules may be required. You only need to flash the firmware once and can use Vial from then on.
+
+### Firmware Repo
+Most of our firmware is compiled with Vial-QMK. Our fork is located here [https://github.com/JackPikatea/vial-qmk](https://github.com/JackPikatea/vial-qmk). It is backwards compatible with QMK.
 
 <Footer/>
