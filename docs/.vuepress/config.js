@@ -96,6 +96,15 @@ module.exports = {
         ]
       },
       {
+        title: 'Pikatea Macropad FK1',   // required
+        collapsable: false, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          ['/PikateaMacropadFK1/', 'Pikatea Macropad FK1 User Guide'],
+          ['/PikateaMacropadFK1/pikatea-macropad-fk1-kit-assembly-guide', 'Pikatea Macropad FK1 Kit Assembly Guide'],
+        ]
+      },
+      {
         title: 'Other Guides',   // required
         collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
