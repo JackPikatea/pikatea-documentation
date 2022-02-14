@@ -41,6 +41,13 @@ Use the screws that were included in the kit for mounting to attach your macropa
 ![](/assets/FK1/fk1-assembly-5-box.jpg)
 ![](/assets/FK1/fk1-assembly-4-box.jpg)
 
+## Flash the Pro Micro
+
+Flashing the firmware onto the included Pro Micro to make sure that is working. Plug it into your computer using a USB-C cable.
+
+We already have a [generic guide for flashing firmware](/firmware-download-and-update-guide.html) which is here. Follow that guide and use the FK1 firmware which can be downloaded from that page. Since there is no reset button on the Pro Micro, reset the device by connecting the pins RESET and GND with a metal object (a bent paper clip works well). [Download and install Vial](https://get.vial.today) and make sure your computer recognizes the device as a FK1 before moving on.
+![](/assets/FinnGus/DSC08955.JPG)
+
 ## Prepare the Circuit Board
 
 **Read this whole section before soldering.**

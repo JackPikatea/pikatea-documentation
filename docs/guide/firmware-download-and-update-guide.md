@@ -5,10 +5,13 @@ This guide will walk you through the process of upgrading or flashing firmware o
 The firmware download page contains updated firmware files for all Pikatea products. Download the firmware you'd like (.hex file) and remember where it is downloaded.
 
 #### Pikatea Macropad GB3
-- [Vial (beta 0.4) Compatible Firmware](https://www.mediafire.com/file/mxun6eyc24xwnub/pikatea_pikatea_macropad_gb3_vial(0.4).hex/file)
+- [Vial (beta 0.4) Compatible Firmware](https://www.mediafire.com/file/7mamo9o2fq3ppoi/pikatea_macropad_gb3_vial%25280.4.1%2529.hex/file)
+
+#### Pikatea Macropad FK1
+- [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/zu7i697ych99yyn/pikatea_macropad_fk1_vial%25280.4.1%2529.hex/file)
 
 #### FinnGus Keyboard Kit
-- [Vial (beta 0.4) Compatible Firmware](https://www.mediafire.com/file/glirj4nxkplk4p2/pikatea_finn_gus_via%25280.4%2529.hex/file)
+- [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/glirj4nxkplk4p2/pikatea_finn_gus_via%25280.4%2529.hex/file)
 
 #### Macropad1x5
 - [Version 0.4 (encoder left)](https://www.mediafire.com/file/jdh4rx5e19usfcq/macropad1x5_rev1_vial%25280.4%2529.hex/file) and [Version 0.4 (encoder right)](https://www.mediafire.com/file/b9mnj5y3pgnff4z/macropad1x5_rev1_vial%25280.4%2529_flipped.hex/file) (compatible with Vial beta 0.4)
