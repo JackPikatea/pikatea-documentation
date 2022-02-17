@@ -1,7 +1,10 @@
 
 # Pikatea Macropad FK1 Assembly Guide
 
-Congratulations on receiving your Pikatea Macropad FK1. This guide will walk you through the assembly process. Please email support or ask on Disocrd if you have any questions.
+Congratulations on receiving your Pikatea Macropad FK1. This guide will walk you through the assembly process. Please make sure the read through the entire thing before getting started. Please email support or ask on Disocrd if you have any questions.
+
+Here is a video for those that prefer it.
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/i-vZ7Uzu6m4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ## What's in the Box
 ![](/assets/FK1/fk1-assembly-1.jpg)
@@ -36,10 +39,10 @@ The mechanical keyboard switches need to be installed in a specific orientation.
 ## Setup the Soldering Jig
 Use a cardboard box (we recommend the box your kit came in) and tape one of the flaps so that it is at a 30 degree angle. Don't worry about this being precise or elegant, we are only using this to keep the macropad in the correct orientation for soldering without damaging the top plate surface.
 
-Use the screws that were included in the kit for mounting to attach your macropad to your angled cardboard surface. Place something heavy in the box like a book or a mug to make sure it doesn't tip over while soldering.
+Use the screws that were included in the kit for mounting to attach your macropad to your angled cardboard surface. **do NOT use the second hole or the screw will be stuck after soldering the pro micro.** Place something heavy in the box like a book or a mug to make sure it doesn't tip over while soldering.
 
 ![](/assets/FK1/fk1-assembly-5-box.jpg)
-![](/assets/FK1/fk1-assembly-4-box.jpg)
+![](/assets/FK1/fk1-assembly-4-box-warning.jpg)
 
 ## Flash the Pro Micro
 
