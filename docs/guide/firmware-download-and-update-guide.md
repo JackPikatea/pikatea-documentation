@@ -5,7 +5,7 @@ This guide will walk you through the process of upgrading or flashing firmware o
 The firmware download page contains updated firmware files for all Pikatea products. Download the firmware you'd like (.hex file) and remember where it is downloaded.
 
 #### Pikatea Macropad GB3
-- [Vial (beta 0.4) Compatible Firmware](https://www.mediafire.com/file/qls8zqhsx0pzh34/pikatea_macropad_gb3_b_vial%25280.4.1%2529.hex/file)
+- [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/qls8zqhsx0pzh34/pikatea_macropad_gb3_b_vial%25280.4.1%2529.hex/file)
 
 #### Pikatea Macropad FK1
 - [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/zu7i697ych99yyn/pikatea_macropad_fk1_vial%25280.4.1%2529.hex/file)
@@ -18,7 +18,7 @@ The firmware download page contains updated firmware files for all Pikatea produ
 
 #### Pikatea Macropad GB2
 - [Standard Pikatea Firmware (Version 1.2.2 - 2/15/2021)](https://www.mediafire.com/file/ixdowfvxu5u9arz/Pikatea_Macropad_GB2_1.2.2b.hex/file) The firmware that ships with the device. It utilizes the SD card to dictate what each button will do.
-- [Vial (beta 0.4) Compatible firmware](https://www.mediafire.com/file/i5qtsjoob69zugv/pikatea_pikatea_macropad_gb2_vial%25280.4%2529.hex/file) Firmware that works with Vial 0.4
+- [Vial (beta 0.4.1) Compatible firmware](https://www.mediafire.com/file/7jfv6a17mhp7sou/pikatea_macropad_gb2_b_vial%25280.4.1%2529.hex/file) Firmware that works with Vial 0.4
 
 #### Pikatea Macropad GB1
 - [Vial (beta 0.4) Compatible Firmware](https://www.mediafire.com/file/gtfzovxh4sm5yal/pikatea_pikatea_macropad_gb1_via%25280.4%2529.hex/file)
