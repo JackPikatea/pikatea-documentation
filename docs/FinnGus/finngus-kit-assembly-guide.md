@@ -95,11 +95,12 @@ Place the Pro Micro **UPSIDE DOWN** with the components facing away from you. In
 
 Place the DIP socket into the PCB like shown and solder it into place. Like the Pro Micro socket, make sure it is flush.
 
-![](waiting on shipment)
+![](/assets/FinnGus/IOsocket.jpg)
+
 
 Insert the I/O expansion chip into the DIP socket. Pay special attention to the orientation. The indent/mark should be facing towards the north part of the board.
 
-![](waiting on shipment)
+![](/assets/FinnGus/IOchip.jpg)
 
 #### 3. Solder In The Diodes
 
