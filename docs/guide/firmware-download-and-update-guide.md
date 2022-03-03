@@ -8,7 +8,7 @@ The firmware download page contains updated firmware files for all Pikatea produ
 - [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/qls8zqhsx0pzh34/pikatea_macropad_gb3_b_vial%25280.4.1%2529.hex/file)
 
 #### Pikatea Macropad FK1
-- [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/zu7i697ych99yyn/pikatea_macropad_fk1_vial%25280.4.1%2529.hex/file)
+- [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/k3an8jcda7b9u1p/pikatea_macropad_fk1_b_vial%25280.4.1%2529.hex/file)
 
 #### FinnGus Keyboard Kit
 - [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/glirj4nxkplk4p2/pikatea_finn_gus_via%25280.4%2529.hex/file)
