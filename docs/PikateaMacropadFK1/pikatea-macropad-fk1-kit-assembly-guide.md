@@ -44,7 +44,7 @@ Use the screws that were included in the kit for mounting to attach your macropa
 ![](/assets/FK1/fk1-assembly-5-box.jpg)
 ![](/assets/FK1/fk1-assembly-4-box-warning.jpg)
 
-## Flash the Pro Micro
+## **Flash the Pro Micro**
 
 You will want to flash the Pro Micro before any soldering to make sure that it works. Plug it into your computer using a USB-C cable.
 
