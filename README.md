@@ -2,4 +2,6 @@
 
 Pikatea documentation site for products and software
 
-## Test commit
+https://docs.pikatea.com
+
+All contributers get a $5 dollar gift card to use on the store!

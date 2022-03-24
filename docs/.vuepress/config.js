@@ -122,6 +122,14 @@ module.exports = {
         ]
       },
       {
+        title: 'Downloads and Files',   // required
+        collapsable: false, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          ['/DownloadsAndFiles/downloadable-files', 'Downloadable Files'],
+        ]
+      },
+      {
         title: 'Pikatea Macropad GB2',   // required
         collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
