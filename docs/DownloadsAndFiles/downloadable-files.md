@@ -1,6 +1,6 @@
 # Downloadable Files
 
-This page is the main hub for downloadings all the files we offer as well as links to github repos we have. These files are provided under 
+This page is a hub for downloadings all the files we offer as well as links to github repos we have. These files are provided under 
 
 
 ## Firmware Files
