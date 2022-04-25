@@ -8,6 +8,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Trust My Directory
+      run: |
+          apt-get update
+          apt-get install -y git
+          export GIT_CEILING_DIRECTORIES=/__w # don't work
     - uses: actions/checkout@v2
 
     - name: Generate static vuepress files
@@ -22,7 +27,6 @@ jobs:
         cd docs/.vuepress/dist
         git init
         git add -A
-        git config --global --add safe.directory /github/workspace/docs/.vuepress/dist
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -m 'deploy'
