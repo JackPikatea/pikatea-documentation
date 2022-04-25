@@ -45,6 +45,7 @@ Connect the device to the computer. Your device might start flashing automatical
 
 or
 
+
 ![](/assets/ExtraTipsAndTricks/pro-micro-reset.jpg)
 
 
