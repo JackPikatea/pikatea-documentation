@@ -5,13 +5,16 @@ This guide will walk you through the process of upgrading or flashing firmware o
 The firmware download page contains updated firmware files for all Pikatea products. Download the firmware you'd like (.hex file) and remember where it is downloaded.
 
 #### Pikatea Macropad GB3
-- [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/qls8zqhsx0pzh34/pikatea_macropad_gb3_b_vial%25280.4.1%2529.hex/file)
+- [Vial (beta 0.4.2) Compatible Firmware](https://www.mediafire.com/file/qp7iv42ndt82j77/pikatea_macropad_gb3_c_vial%25280.4.2%2529.hex/file)
 
 #### Pikatea Macropad FK1
 - [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/k3an8jcda7b9u1p/pikatea_macropad_fk1_b_vial%25280.4.1%2529.hex/file)
 
 #### FinnGus Keyboard Kit
 - [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/glirj4nxkplk4p2/pikatea_finn_gus_via%25280.4%2529.hex/file)
+
+#### Pikatea Macropad R26
+- [Vial (beta 0.4.2) Compatible Firmware](https://www.mediafire.com/file/6a12z4t1fccxczm/pikatea_pikatea_macropad_r26_kit_a_vial%25280.4.2%2529.hex/file)
 
 #### Macropad1x5
 - [Version 0.4 (encoder left)](https://www.mediafire.com/file/jdh4rx5e19usfcq/macropad1x5_rev1_vial%25280.4%2529.hex/file) and [Version 0.4 (encoder right)](https://www.mediafire.com/file/b9mnj5y3pgnff4z/macropad1x5_rev1_vial%25280.4%2529_flipped.hex/file) (compatible with Vial beta 0.4)
@@ -33,14 +36,24 @@ After downloading QMK_Toolbox, open it and make sure the following settings are 
 3. Click "open" to set the local file to the firmware downloaded earlier (.hex file)
 It should look something like this:
 
-Image
+![](/assets/ExtraTipsAndTricks/qmk_toolbox.png)
 
 ## Flash Firmware
-Connect the device to the computer. Your device might start flashing automatically. Wait for the computer to recognize the device and then press the reset button which is usually the small button located on the back of the device. The device will disconnect and then reconnect in DFU mode. QMK_Toolbox will recognize the device in DFU mode and start flashing the firmware. If you have issues, try restarting QMK_Toolbox and trying again. If auto-flash is giving you issues, you can manually click flash. Just do so when the device has been reset and is in DFU mode.
+Connect the device to the computer. Your device might start flashing automatically. Wait for the computer to recognize the device. Press the reset button which is usually the small button located on the back of the device or connect the RST and GND pins on the Pro Micro if your device uses one.
 
-If you use linux, try holding down the reset button as you plug in the device instead.
+![](/assets/ExtraTipsAndTricks/gb3_reset.webp)
 
-That's it! 
+or
+
+![](/assets/ExtraTipsAndTricks/pro-micro-reset.jpg)
+
+
+The device will disconnect and then reconnect in DFU mode. QMK_Toolbox will recognize the device in DFU mode and start flashing the firmware. If you have issues, try restarting QMK_Toolbox and trying again. Try several times, sometimes devices can have a hard time going into DFU mode. If auto-flash is giving you issues, you can manually click flash. Just do so when the device has been reset and is in DFU mode. If you use linux, try holding down the reset button as you plug in the device instead.
+
+That's it! You should have a result that looks like one of the following 2 images.
+
+![](/assets/ExtraTipsAndTricks/flash1.png)
+![](/assets/ExtraTipsAndTricks/flash2.png)
 
 
 ### Linux instructions

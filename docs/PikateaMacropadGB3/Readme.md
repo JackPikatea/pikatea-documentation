@@ -34,19 +34,21 @@ More information on all the features can be found on [the Offical Vial usage gui
 ## Example Uses
 This is a list I've generated of useful ways and programs to use the Pikatea Macropad with. These are just examples. We also have some [more advanced tips and tricks here](/guide/)
 
-**Music control** - My favorite way to use the Pikatea Macropad. I usually configure 3 buttons for Play/Pause, Next, and Previous songs. The knob is used to control volume. This works well with Spotify. Pair with Toastify for an even better experience.
+- **Music control** - My favorite way to use the Pikatea Macropad. I usually configure 3 buttons for Play/Pause, Next, and Previous songs. The knob is used to control volume. This works well with Spotify. Pair with Toastify for an even better experience.
 
-**Screenshots** - Configure a macro to press Menu+Shift+s to open up the screenshot tool on Windows 10.
+- **Muting Your Microphone Globally** - Use [**Microsoft PowerToys**](https://docs.microsoft.com/en-us/windows/powertoys/) or [**SoundSwitch**](https://soundswitch.aaflalo.me/) to mute your microphone with a key press.
 
-**SoundSwitch** - This is an amazing computer program that makes it very easy to switch audio devices with a macro or hotkey.
+- **Screenshots** - Configure a macro to press Menu+Shift+s to open up the screenshot tool on Windows 10.
 
-**In conjunction with AutoHotkey** - AutoHotkey is a powerful scripting language that can do automated tasks. It can be triggered by a hotkey press so it's perfect to use with the Pikatea Macropad.
+- **[SoundSwitch](https://soundswitch.aaflalo.me/) (PC) or [SoundSource](https://rogueamoeba.com/soundsource/) (Mac)** - This is an amazing computer program that makes it very easy to switch audio devices with a macro or hotkey.
 
-**Streaming** - Configure OBS or other streaming platforms to change scenes or camera angles. We like to have a button to blank the display.
+- **In conjunction with [AutoHotkey](https://autohotkey.com)** - AutoHotkey is a powerful scripting language that can do automated tasks. It can be triggered by a hotkey press so it's perfect to use with the Pikatea Macropad.
 
-**Video Editing** - Program the knob to press the correct keys to move the timeline back and forth for any video editing program. 
+- **Streaming** - Configure OBS or other streaming platforms to change scenes or camera angles. We like to have a button to blank the display.
 
-**Monitor Control** - Use MultiMonitorTool or MonitorSwitcher to make switching monitor configurations easy. Combine it with your macropad to make it even easier!
+- **Video Editing** - Program the knob to press the correct keys to move the timeline back and forth for any video editing program. 
+
+- **Monitor Control** - Use MultiMonitorTool or MonitorSwitcher to make switching monitor configurations easy. Combine it with your macropad to make it even easier!
 
 ## deej Software Usage
 As of December 2021 we no longer support deej. Please [refer to this guide](/guide/#software-audio-mixer-deej-alternative) in regards to controlling the audio of indiviaul programs independantly.

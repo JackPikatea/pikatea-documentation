@@ -96,6 +96,15 @@ module.exports = {
         ]
       },
       {
+        title: 'Pikatea Macropad R26 Desktop',   // required
+        collapsable: false, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          ['/PikateaMacropadR26/', 'Pikatea Macropad R26 Desktop User Guide'],
+          ['/PikateaMacropadR26/pikatea-macropad-r26-desktop-kit-assembly-guide', 'Pikatea Macropad R26 Desktop Kit Assembly Guide'],
+        ]
+      },
+      {
         title: 'Pikatea Macropad FK1',   // required
         collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
