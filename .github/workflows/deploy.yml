@@ -20,13 +20,12 @@ jobs:
 
     - name: Init new repo in dist folder and commit generated files
       run: |
-        git config --global --add safe.directory /github/workspace/docs/.vuepress/dist
         cd docs/.vuepress/dist
         git init
         git add -A
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git config --global --add safe.directory
+        git config --global --add safe.directory /github/workspace/docs/.vuepress/dist
         git commit -m 'deploy'
         
 
