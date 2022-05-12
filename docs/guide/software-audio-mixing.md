@@ -4,7 +4,9 @@ Control the volume of programs independly of each other to get the perfect sound
 
 ## Method 1 - Midi-Mixer
 
-Use the Midi firmware and "Midi-mixer" together to control software audio independantly. Video on this coming soon.
+Use the Midi firmware and "Midi-mixer" together to control software audio independantly. Control up to 8 sources with each encoder.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/wpA1vrWgPRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ## Method 2 - Volume Squard
 

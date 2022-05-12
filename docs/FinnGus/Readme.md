@@ -8,7 +8,7 @@ If you havn't assembled your FinnGus yet, follow the [Assembly Guide](/FinnGus/f
 ## Programming and Usage
 
 #### VIAL
-If you've followed the assembly guide correctly, Vial firmware should be loaded onto your FinnGus. Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version (Currently Beta 0.4.2).
+If you've followed the assembly guide correctly, Vial firmware should be loaded onto your FinnGus. Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version (Currently Beta 0.5.2).
 
 After Vial is installed, open the program.
 
@@ -16,17 +16,17 @@ Make sure your device is connected, and click "refresh". The program will automa
 
 **More information on VIAL can be found on [the offical Vial usage guide](https://get.vial.today/manual/)**
 
-TODO update this image with a screenshot of the current FinnGus Firmware
+<!-- TODO update this image with a screenshot of the current FinnGus Firmware -->
 ![img](/assets/GB3/pikatea-macropad-gb3-vial.png)
 
 #### VIA
 Via compatible firmware and matching .json files are pre-compiled and available to download.
 
-TODO (actually convert the VIAL firmware to VIA lol)
+<!-- TODO (actually convert the VIAL firmware to VIA)
 
 TODO (Add a screenshot here)
 
-TODO (Add these files to the docs)
+TODO (Add these files to the docs) -->
 
 ## Example Uses for the Macro (tail) Keys
 <MacroUsesKeyboard/>

@@ -13,7 +13,7 @@ More mounting tape can be bought on our store in sets of 4 and shipped in an env
 ***Note: It's good practice to secure the USB cable with a cable tie or similar so that if the cord gets pulled the macropad is not effected.***
 
 ## Programming and Usage
-If you've followed the assembly guide correctly, Vial firmware should be loaded onto your macropad. Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version (Currently Beta 0.4.2).
+If you've followed the assembly guide correctly, Vial firmware should be loaded onto your macropad. Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version (Currently Beta 0.5.2).
 
 After Vial is installed, open the program.
 

@@ -116,11 +116,13 @@ module.exports = {
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
           ['/guide/muting-microphone-globally', 'Muting Microphone Globally'],
+          ['/guide/type-out-a-phrase', 'Type Out A Phrase'],
           ['/guide/controlling-obs', 'Control OBS with Encoder/Knob'],
           ['/guide/controlling-music', 'Controlling Music'],
           ['/guide/software-audio-mixing', 'Software Audio Mixing'],
           ['/guide/focus-a-program-before-activating', 'Focus A Program Before Activating A Macro'],
           ['/guide/interfacing-with-photoshop', 'Interfacing With Photoshop'],
+          ['/guide/control-lightroom', 'Interfacing With Lightroom'],
           ['/guide/scrubbing-a-timeline', 'Scrubbing A Video Timeline'],
           ['/guide/ahk', 'Installing And Using AutoHotKey'],
           ['/guide/controlling-a-smart-device', 'Controlling A Smart Device']

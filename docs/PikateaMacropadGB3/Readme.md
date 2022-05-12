@@ -20,7 +20,7 @@ More mounting tape can be bought on our store in sets of 4.
 
 ## Programming and Usage
 #### Vial
-Vial compatible firmware is already loaded onto your macropad. Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version (Currently Beta 0.4.2).
+Vial compatible firmware is already loaded onto your macropad. Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version (Currently Beta 0.5.2).
 
 After Vial is installed, open the program.
 

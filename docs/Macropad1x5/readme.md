@@ -1,7 +1,7 @@
 # Macropad1x5 Kit by LS Keyboards And Pikatea User Guide
 This guide will walk you through using your Macropad1x5! If you havn't assembled your macropad yet, follow the [Assembly Guide](/Macropad1x5/macropad1x5-kit-assembly-guide.html) first and then come back here.
 
-TODO (Add an image and basic links/info about the macropad)
+<!-- TODO (Add an image and basic links/info about the macropad) -->
 ## Mounting
 Mounting can be done with the included screws or the doubled sided tape. Place 1 of the 2 included mounting strips on the macropad and remove the protective covering. Align the Macropad to the underside of your desk, monitor or other surface and press firmly for 10 seconds or more if needed. The bond will grow stronger over time. Be careful not to cover up any monitor buttons.
 
@@ -11,7 +11,7 @@ More mounting tape can be bought on our store in sets of 4 and shipped in an env
 ## Programming and Usage
 Since this macropad is a kit, the firmware you choose is ultimately up to you. However, we do have precompile VIAL firmware which we strongly recommend using. Follow the Firmware Update Guide if you haven't already flashed the firmware to your device. 
 
-Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version (Currently Beta 0.4.2).
+Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version (Currently Beta 0.5.2).
 
 After Vial is installed, open the program.
 

@@ -8,7 +8,7 @@ If you havn't assembled your macropad yet, follow the [Assembly Guide](/PikateaM
 ## Programming and Usage
 
 #### VIAL
-If you've followed the assembly guide correctly, Vial firmware should be loaded onto your macropad. Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version (Currently Beta 0.4.2).
+If you've followed the assembly guide correctly, Vial firmware should be loaded onto your macropad. Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version (Currently Beta 0.5.2).
 
 After Vial is installed, open the program.
 
@@ -16,11 +16,14 @@ Make sure your device is connected, and click "refresh". The program will automa
 
 **More information on VIAL can be found on [the offical Vial usage guide](https://get.vial.today/manual/)**
 
-TODO update this image with a screenshot of the current R26 firmware
+<!-- TODO update both images with a screenshot of the current R26 firmware -->
+
 ![img](/assets/GB3/pikatea-macropad-gb3-vial.png)
 
 #### VIA
-Via compatible firmware and matching .json files which are pre-compiled will be available to download soon.
+Via compatible firmware and matching .json files are pre-compiled and available to download. [View and follow the firmmware update guide here](/DownloadsAndFiles/firmware-download-and-update-guide.html#download-firmware)
+
+![img](/assets/GB3/via.png)
 
 ## Example Uses
 <Uses/>

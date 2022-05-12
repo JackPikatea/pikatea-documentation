@@ -33,8 +33,8 @@ Bringing a window into focus isn't super useful unless it's followed by some act
 
 Configure a macro like this to first activate the window and then send the hotkey. Add a delay to give the script enouch time to focus the window.
 
-INSERT IMAGE TODO
+<!-- INSERT IMAGE TODO -->
 
 or, add more commands to the end of the AHK script. The [Send Command](https://www.autohotkey.com/docs/commands/Send.htm) is the most useful in this senario.
 
-TODO add example code
+<!-- TODO add example code -->
