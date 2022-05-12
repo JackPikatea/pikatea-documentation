@@ -72,7 +72,7 @@ Now flip the board to solder the encoder. Use flush cutters to trim the button l
 
 ![](https://cdn.shopify.com/s/files/1/0322/9637/0235/files/2021-07-04_13.11.12_crop_1024x1024.jpg?v=1625397310)
 ### Test the Electronics(Very Important!!!)
-Before permanently fixing the PCB to the case by soldering the switches, you should test the electronics. Follow [this guide](/guide/firmware-download-and-update-guide.html) to download and flash the firmware to the microcontroller. In case the Pro Micro's LED lights up, but nothing is recognized by the computer, eg in the device manager in Windows, try a different cable and/or make sure the one you are using transmits data. We've seen a few cases where cables from power banks were 'charge-only' and thus didn't work.
+Before permanently fixing the PCB to the case by soldering the switches, you should test the electronics. Follow [this guide](/DownloadsAndFiles/firmware-download-and-update-guide.html) to download and flash the firmware to the microcontroller. In case the Pro Micro's LED lights up, but nothing is recognized by the computer, eg in the device manager in Windows, try a different cable and/or make sure the one you are using transmits data. We've seen a few cases where cables from power banks were 'charge-only' and thus didn't work.
 
 Then connect the Pro Micro to a computer using a USB cable and simulate keypresses by shorting two switch pads on the PCB with a wire or tweezers. The computer should register the keypresses 1, 2, 3 and 4 for the buttons. Turning the encoder should change the volume. Pressing the encoder button should mute the volume. The macropad should automatically be recognized in Vial and show the keymap.
 
