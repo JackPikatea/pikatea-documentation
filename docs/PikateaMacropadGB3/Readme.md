@@ -33,13 +33,9 @@ Make sure your device is connected, and click "refresh". The program will automa
 ![img](/assets/GB3/pikatea-macropad-gb3-vial.png)
 
 #### VIA
-Via compatible firmware and matching .json files are pre-compiled and available to download.
+Via compatible firmware and matching .json files are pre-compiled and available to download. [View and follow the firmmware update guide here](/DownloadsAndFiles/firmware-download-and-update-guide.html#download-firmware)
 
-TODO (actually convert the VIAL firmware to VIA lol)
-
-TODO (Add a screenshot here)
-
-TODO (Add these files to the docs)
+![img](/assets/GB3/via.png)
 
 ## Example Uses
 <Uses/>

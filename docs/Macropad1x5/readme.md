@@ -19,8 +19,9 @@ Make sure your device is connected, and click "refresh". The program will automa
 
 **More information on VIAL can be found on [the offical Vial usage guide](https://get.vial.today/manual/)**
 
-TODO (update the image to be the correct one)
+
 ![img](/assets/GB3/pikatea-macropad-gb3-vial.png)
+
 ## Example Uses
 
 <Uses/>

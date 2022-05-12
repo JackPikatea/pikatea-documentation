@@ -6,22 +6,22 @@ The firmware download page contains updated firmware files for all Pikatea produ
 
 #### Pikatea Macropad GB3
 - [Vial (beta 0.4.2) Compatible Firmware](https://www.mediafire.com/file/qp7iv42ndt82j77/pikatea_macropad_gb3_c_vial%25280.4.2%2529.hex/file)
-- Via compatible firmware and matching .json file
-- Midi Firmware for use with Midi-mixer
+- [Via compatible firmware](https://www.mediafire.com/file/uau2mxdvogdaofu/pikatea_pikatea_macropad_gb3_via.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/x7uswsdzao9sw2i/gb3via.json/file)
+- [Via compatible Midi Firmware](https://www.mediafire.com/file/zj2g6me7ew22551/pikatea_pikatea_macropad_gb3_midi.hex/file) for use with [Midi-mixer](https://www.midi-mixer.com/) and matching Via keymap [.json file](https://www.mediafire.com/file/x7uswsdzao9sw2i/gb3via.json/file)
 
 #### Pikatea Macropad FK1
 - [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/k3an8jcda7b9u1p/pikatea_macropad_fk1_b_vial%25280.4.1%2529.hex/file)
-- Via compatible firmware and matching .json file
-- Midi Firmware for use with Midi-mixer
+- Via compatible firmware and matching .json file (TO BE ADDED)
+- Via compatible Midi Firmware for use with Midi-mixer (TO BE ADDED)
 
 #### FinnGus Keyboard Kit
 - [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/glirj4nxkplk4p2/pikatea_finn_gus_via%25280.4%2529.hex/file)
-- Via compatible firmware and matching .json file
+- Via compatible firmware and matching .json file (TO BE ADDED)
 
 #### Pikatea Macropad R26
 - [Vial (beta 0.4.2) Compatible Firmware](https://www.mediafire.com/file/6a12z4t1fccxczm/pikatea_pikatea_macropad_r26_kit_a_vial%25280.4.2%2529.hex/file)
-- Via compatible firmware and matching .json file
-- Midi Firmware for use with Midi-mixer
+- Via compatible firmware and matching .json file (TO BE ADDED)
+- Via compatible Midi Firmware for use with Midi-mixer (TO BE ADDED)
 
 #### Macropad1x5
 - [Version 0.4 (encoder left)](https://www.mediafire.com/file/jdh4rx5e19usfcq/macropad1x5_rev1_vial%25280.4%2529.hex/file) and [Version 0.4 (encoder right)](https://www.mediafire.com/file/b9mnj5y3pgnff4z/macropad1x5_rev1_vial%25280.4%2529_flipped.hex/file) (compatible with Vial beta 0.4)

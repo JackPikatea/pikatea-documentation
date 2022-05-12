@@ -1,10 +1,10 @@
-### Software Audio Mixing
+# Software Audio Mixing
 
 Control the volume of programs independly of each other to get the perfect sound mix. 
 
 ## Method 1 - Midi-Mixer
 
-TODO
+Use the Midi firmware and "Midi-mixer" together to control software audio independantly. Video on this coming soon.
 
 ## Method 2 - Volume Squard
 

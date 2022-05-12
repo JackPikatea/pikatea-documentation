@@ -1,4 +1,4 @@
-### Focus a Program Before Activating a Macro
+# Focus a Program Before Activating a Macro
 
 Lots of programs only react to hotkeys and macros if the program is in focus. For example, Microsoft Teams mute only works if Microsoft Teams is the current active window. This Autohotkey script will focus the program you want before activing aditional commands.
 

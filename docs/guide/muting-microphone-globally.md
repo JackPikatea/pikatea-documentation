@@ -1,4 +1,4 @@
-### Muting Your Microphone Globally
+# Muting Your Microphone Globally
 
 Muting your microphone globally is very handly since you do not have to configure program specific hotkeys.
 #### Windows

@@ -90,6 +90,7 @@ module.exports = {
           // link to the assembly guide at the top of this page since every customer needs it.
           ['/FinnGus/', 'FinnGus Keyboard Kit'],
           ['/PikateaMacropadFK1/', 'Pikatea Macropad FK1'],
+          ['/PikateaMacropadCustom/', 'Pikatea Macropad Custom'],
           ['/PikateaMacropadGB2/', 'Pikatea Macropad GB2'],
           ['/Macropad1x5/', 'Macropad1x5']
           // ['contribute','Suggest Changes'],
@@ -115,10 +116,13 @@ module.exports = {
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
           ['/guide/muting-microphone-globally', 'Muting Microphone Globally'],
+          ['/guide/controlling-obs', 'Control OBS with Encoder/Knob'],
           ['/guide/controlling-music', 'Controlling Music'],
           ['/guide/software-audio-mixing', 'Software Audio Mixing'],
           ['/guide/focus-a-program-before-activating', 'Focus A Program Before Activating A Macro'],
-          ['/guide/ahk', 'Installing and Using AutoHotKey'],
+          ['/guide/interfacing-with-photoshop', 'Interfacing With Photoshop'],
+          ['/guide/scrubbing-a-timeline', 'Scrubbing A Video Timeline'],
+          ['/guide/ahk', 'Installing And Using AutoHotKey'],
           ['/guide/controlling-a-smart-device', 'Controlling A Smart Device']
         ]
       },
@@ -127,8 +131,6 @@ module.exports = {
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          // TODO build this out/refactor the headers
-          // TODO separate this into 3 parts
           ['/DownloadsAndFiles/firmware-download-and-update-guide', 'Firmware Downloads and Update Guide'],
           ['/DownloadsAndFiles/downloadable-files', 'Downloadable Files'],
         ]

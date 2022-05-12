@@ -3,7 +3,7 @@ Congratulations on receiving your Pikatea Macropad R26 Desktop! This quick guide
 
 If you havn't assembled your macropad yet, follow the [Assembly Guide](/PikateaMacropadR26/pikatea-macropad-r26-desktop-kit-assembly-guide.html) first and then come back here.
 
-TODO (add an image of the R26 desktop)
+![img](/assets/R26/DSC09499.jpg)
 
 ## Programming and Usage
 
@@ -20,9 +20,7 @@ TODO update this image with a screenshot of the current R26 firmware
 ![img](/assets/GB3/pikatea-macropad-gb3-vial.png)
 
 #### VIA
-Via compatible firmware and matching .json files are pre-compiled and available to download.
-TODO (Add a screenshot here)
-TODO (Add these files to the docs)
+Via compatible firmware and matching .json files which are pre-compiled will be available to download soon.
 
 ## Example Uses
 <Uses/>

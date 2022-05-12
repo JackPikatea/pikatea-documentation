@@ -1,4 +1,4 @@
-## Controling a Smart Device
+# Controling a Smart Device
 
 Use your Pikatea Macropad to control a smart device connected to your network. Toggle your LED lights or smart outlets. This relies on the service IFTTT or Push Bullet, so any device that works with those servies (Almost all smart devices) could be controlled!
 

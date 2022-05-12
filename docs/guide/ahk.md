@@ -1,4 +1,4 @@
-## AHK or AutoHotKey
+# AHK or AutoHotKey
 AHK is cool and useful.
 
 ## Installing and Using AutoHotKey
