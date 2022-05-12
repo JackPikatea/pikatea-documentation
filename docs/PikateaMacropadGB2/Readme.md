@@ -2,7 +2,7 @@
 ### Introduction
 Congratulations on receiving your Pikatea Macropad GB2! This quick guide will walk you through how to use it.
 
-For Macropads bought in 2020, [Follow this guide](/guide/firmware-download-and-update-guide.html) to update the firmware to version 1.2
+For Macropads bought in 2020, [Follow this guide](/DownloadsAndFiles/firmware-download-and-update-guide.html) to update the firmware to version 1.2
 ### What's in the Box
 - (1) Pikatea Macropad GB2
 - (1) micro SD card
@@ -164,13 +164,13 @@ The Pikatea Macropad is compatible with QMK, VIA and VIAL firmware.
 
 VIAL is a great choice for configuring your macropad. VIAL is an open source program that makes it easy to configure the device with a simple interface. (macros that include delays are not possible with VIAL currently)
 ![](https://cdn.shopify.com/s/files/1/0322/9637/0235/files/Screenshot_2021-03-09_094517_480x480.png?v=1615304742)
-To use VIAL, update the firmware on the device with the VIAL compatible firmware. [The guide for updating firmware is here](/guide/firmware-download-and-update-guide.html). Download VIAL from [get.vial.today](https://get.vial.today/).
+To use VIAL, update the firmware on the device with the VIAL compatible firmware. [The guide for updating firmware is here](/DownloadsAndFiles/firmware-download-and-update-guide.html). Download VIAL from [get.vial.today](https://get.vial.today/).
 
 After updating the device with VIAL compatible firmware and installing VIAL, connect the device, open VIAL and click "refresh". VIAL should recognize the device and you can easily configure the buttons with the interface.
 
 [Pikatea QMK Fork](https://github.com/JackPikatea/qmk_firmware) - Use this fork to create your own firmware powered by QMK.
 
-A pre-built QMK VIA compatible firmware is available to download and is outlined in the [firmware update guide here](/guide/firmware-download-and-update-guide.html).
+A pre-built QMK VIA compatible firmware is available to download and is outlined in the [firmware update guide here](/DownloadsAndFiles/firmware-download-and-update-guide.html).
 ### Troubleshooting
 Sometimes the device doesn't work as expected or doesn't seem to work at all. If this is the case, we can do a replacement/repair up to 3 months after receiving your device.
 

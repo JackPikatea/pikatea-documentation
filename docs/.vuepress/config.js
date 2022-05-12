@@ -77,85 +77,62 @@ module.exports = {
     ],
     sidebar: [
       {
-        title: 'Introduction',   // required
+        title: 'Using Your Device',   // required
         collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/', 'Getting Started']
+          //getting started should contain an introduction and an "index" for other guides
+          ['/', 'Getting Started'],
+          // device specific guides here with a template at the top or bottom of each page
+          ['/PikateaMacropadGB3/', 'Pikatea Macropad GB3'],
+          // link to the assembly guide at the top of this page since every customer needs it.
+          ['/PikateaMacropadR26/', 'Pikatea Macropad R26 Desktop'],
+          // link to the assembly guide at the top of this page since every customer needs it.
+          ['/FinnGus/', 'FinnGus Keyboard Kit'],
+          ['/PikateaMacropadFK1/', 'Pikatea Macropad FK1'],
+          ['/PikateaMacropadGB2/', 'Pikatea Macropad GB2'],
+          ['/Macropad1x5/', 'Macropad1x5']
           // ['contribute','Suggest Changes'],
           // ['Need']
         ]
       },
       {
-        title: 'Pikatea Macropad GB3',   // required
-        collapsable: false, // optional, defaults to true
+        title: 'Build Guides',   // required
+        collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/PikateaMacropadGB3/', 'Pikatea Macropad GB3 User Guide'],
-          ['/PikateaMacropadGB3/pikatea-macropad-gb3-kit-assembly-guide', 'Pikatea Macropad GB3 Kit Assembly Guide'],
+          ['/PikateaMacropadR26/pikatea-macropad-r26-desktop-kit-assembly-guide', 'Pikatea Macropad R26'],
+          ['/FinnGus/finngus-kit-assembly-guide', 'Pikatea Keyboard FinnGus'],
+          ['/PikateaMacropadFK1/pikatea-macropad-fk1-kit-assembly-guide', 'Pikatea Macropad FK1'],
+          ['/PikateaMacropadGB3/pikatea-macropad-gb3-kit-assembly-guide', 'Pikatea Macropad GB3'],
+          ['/Macropad1x5/macropad1x5-kit-assembly-guide', 'Macropad5x1'],
+          ['/PikateaMacropadGB2/pikatea-macropad-gb2-kit-assembly-guide', 'Pikatea Macropad GB2']
         ]
       },
       {
-        title: 'Pikatea Macropad R26 Desktop',   // required
-        collapsable: false, // optional, defaults to true
+        title: 'Example Macros and Uses',   // required
+        collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/PikateaMacropadR26/', 'Pikatea Macropad R26 Desktop User Guide'],
-          ['/PikateaMacropadR26/pikatea-macropad-r26-desktop-kit-assembly-guide', 'Pikatea Macropad R26 Desktop Kit Assembly Guide'],
+          ['/guide/muting-microphone-globally', 'Muting Microphone Globally'],
+          ['/guide/controlling-music', 'Controlling Music'],
+          ['/guide/software-audio-mixing', 'Software Audio Mixing'],
+          ['/guide/focus-a-program-before-activating', 'Focus A Program Before Activating A Macro'],
+          ['/guide/ahk', 'Installing and Using AutoHotKey'],
+          ['/guide/controlling-a-smart-device', 'Controlling A Smart Device']
         ]
       },
       {
-        title: 'Pikatea Macropad FK1',   // required
-        collapsable: false, // optional, defaults to true
+        title: 'Firmware, Software, and Downloads',   // required
+        collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/PikateaMacropadFK1/', 'Pikatea Macropad FK1 User Guide'],
-          ['/PikateaMacropadFK1/pikatea-macropad-fk1-kit-assembly-guide', 'Pikatea Macropad FK1 Kit Assembly Guide'],
-        ]
-      },
-      {
-        title: 'Other Guides',   // required
-        collapsable: false, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
-        children: [
-          ['/guide/', 'Extra Pikatea Macropad Tips, Tricks, and Ideas'],
-          ['/guide/firmware-download-and-update-guide', 'Firmware Downloads and Update Guide'],
-        ]
-      },
-      {
-        title: 'FinnGus Keyboard Kit',   // required
-        collapsable: false, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
-        children: [
-          ['/FinnGus/finngus-kit-assembly-guide', 'FinnGus Keyboard Kit Assembly and User Guide'],
-        ]
-      },
-      {
-        title: 'Downloads and Files',   // required
-        collapsable: false, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
-        children: [
+          // TODO build this out/refactor the headers
+          // TODO separate this into 3 parts
+          ['/DownloadsAndFiles/firmware-download-and-update-guide', 'Firmware Downloads and Update Guide'],
           ['/DownloadsAndFiles/downloadable-files', 'Downloadable Files'],
         ]
-      },
-      {
-        title: 'Pikatea Macropad GB2',   // required
-        collapsable: false, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
-        children: [
-          ['/PikateaMacropadGB2/', 'Pikatea Macropad GB2 User Guide'],
-          ['/PikateaMacropadGB2/pikatea-macropad-gb2-kit-assembly-guide', 'Pikatea Macropad GB2 Kit Assembly Guide'],
-        ]
-      },
-      {
-        title: 'Macropad1x5',   // required
-        collapsable: false, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
-        children: [
-          ['/Macropad1x5/', 'Macropad1x5 User Guide'],
-          ['/Macropad1x5/macropad1x5-kit-assembly-guide', 'Macropad1x5 Kit Assembly Guide'],
-        ]
-      },
+      }
     ]
   },
 
