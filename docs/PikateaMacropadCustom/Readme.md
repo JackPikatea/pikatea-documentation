@@ -31,10 +31,10 @@ Make sure your device is connected, and click "refresh". The program will automa
 <!-- TODO Update this image with the correct one -->
 ![img](/assets/GB3/pikatea-macropad-gb3-vial.png)
 
-#### VIA
+<!-- #### VIA
 
 TODO
-Via compatible firmware and matching .json files which are pre-compiled will be available to download soon.
+Via compatible firmware and matching .json files which are pre-compiled will be available to download soon. -->
 
 ## Example Uses
 <Uses/>
@@ -54,8 +54,5 @@ Vial isn't detecting the device!
 Sometimes the device doesn't work as expected. If this is the case, we can do a replacement/repair up to 3 months after receiving your device.
 
 Have some advice or need more help? Let us know on [Discord](https://www.pikatea.com/discord) or through our [Contact Us](https://www.pikatea.com/pages/contact-us) form.
-
-## Deej software
-We used to support Deej but have since fazed it out of our firmware. If you want info on this, please ask in our [Discord](https://www.pikatea.com/discord) server.
 
 <Footer/>
