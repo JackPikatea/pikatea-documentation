@@ -73,10 +73,6 @@ The headers need to be trimmed or the backplate will not fit. Cut the longer sid
 ![](/assets/R26/DSC00126.JPG)
 ![](/assets/R26/DSC00127.JPG)
 
-### Test The Pro Micro Again
-Doesn't hurt to test it again. Plug in the pro micro and make sure it is recognized in Vial as a Pikatea Macropad R26.
-
-![](/assets/R26/DSC00123.JPG)
 ### Solder The Pro Micro
 With the Pro Micro confirmed to be working, let's go ahead and install it. Please pay special attention to the orienation of the Pro Micro. Insert the headers with the "cut" side facing you. Place the Pro Micro on top as shown.
 
@@ -88,12 +84,16 @@ Use a rubber band to hold it in place and solder the 4 corners of each side.
 ![](/assets/R26/DSC00133.JPG)
 ![](/assets/R26/DSC00134.JPG)
 
-Remove the rubber band and solder the header closest to the encoder/knob hole. The other side is not necessary. With that, the PCB is done!
+Remove the rubber band and solder both sides of the header closest to the encoder/knob hole. The other header is not necessary. With that, the PCB is done! Verify with the pictures below.
 
 ![](/assets/R26/DSC00136.JPG)
 ![](/assets/R26/DSC00137.JPG)
 
 A side note: You may be wondering why we are only soldering 1 side and using diodes. This PCB is actually universal for undermounting (similar to the FK1). That means we can only use 1 side of the Pro Micro which is also why we also are using diodes.
+
+### Test The Pro Micro Again
+Test it again before soldering in switches. Plug in the pro micro and make sure it is recognized in Vial as a Pikatea Macropad R26. Connect each switch pins with a metal device and verify they all work before soldering the switches.
+![](/assets/R26/DSC00123.JPG)
 
 ## Install The Switches
 Press the switches into the FR4 plate. Make sure the orientation is correct. 
