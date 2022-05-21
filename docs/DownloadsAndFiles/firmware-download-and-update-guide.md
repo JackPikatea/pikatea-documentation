@@ -1,6 +1,8 @@
 # Firmware Download and Update Guide
 This guide will walk you through the process of upgrading or flashing firmware on your Pikatea device. The QMK_Toolbox runs only on Windows and Mac OS X. For Linux, have a look at the pointers at the bottom of this page.
 
+<!-- TODO video guide on flashing your device -->
+
 ## Download Firmware
 The firmware download page contains updated firmware files for all Pikatea products. Download the firmware you'd like (.hex file) and remember where it is downloaded.
 

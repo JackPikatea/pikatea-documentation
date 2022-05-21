@@ -93,7 +93,6 @@ A side note: You may be wondering why we are only soldering 1 side and using dio
 
 ### Test The Pro Micro Again
 Test it again before soldering in switches. Plug in the pro micro and make sure it is recognized in Vial as a Pikatea Macropad R26. Connect each switch pins with a metal device and verify they all work before soldering the switches.
-![](/assets/R26/DSC00123.JPG)
 
 ## Install The Switches
 Press the switches into the FR4 plate. Make sure the orientation is correct. 
