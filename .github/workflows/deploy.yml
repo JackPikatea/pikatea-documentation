@@ -25,8 +25,8 @@ jobs:
         git add -A
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m 'deploy'
         git config --global --add safe.directory /github/workspace/docs/.vuepress/dist
+        git commit -m 'deploy'
         
     - name: work around permission issue
       run: git config --global --add safe.directory /github/workspace/docs/.vuepress/dist
