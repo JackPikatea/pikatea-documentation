@@ -2,17 +2,21 @@
 
 Control the volume of programs independly of each other to get the perfect sound mix. 
 
-## Method 1 - Midi-Mixer
+## Method 1 - Actual Solution Power Mixer
+
+Use the software from [actualsolution called power mixer](https://actualsolution.com/power-mixer/). It's a paid program ($17.95) but includes a free trial and is definitly worth the price. Setup your macropad to switch between layers with buttons so that the knob activates different hotkeys. 
+
+## Method 2 - Midi-Mixer
 
 Use the Midi firmware and "Midi-mixer" together to control software audio independantly. Control up to 8 sources with each encoder.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wpA1vrWgPRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-## Method 2 - Volume Squard
+## Method 3 - Volume Squard
 
 Download Volume Squared [Volume²](https://github.com/irzyxa/Volume2), downloading the right one for install. Download and follow the installation instructions. Once you do that, load up the settings of the app. In the main window, to get the most accurate volume control set the "Control Method" to Logarithmic, with the steps being 100. On top it will have a selection for the audio device you want to use, setting that to whatever you decide to control the volume from. That will be set to Windows Default as default. There is a selection you can do for "Change Volume For", which if set to application list, you press the gear, and add programs either via the process that is running or by navigating to the file location. This will then change the default windows volume changing over to the program you have selected. Once you do that, to change windows volume as a whole, hold down shift + use the volume knob. This will now allow you to ocntrol the volume off apps separate when they are opened up.
 
-## Method 3 - AHK and NirCmd
+## Method 4 - AHK and NirCmd
 
 You'll need to install two programs to do this, **AutoHotKey**, and **NirCmd**.
 
