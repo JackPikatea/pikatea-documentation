@@ -1,9 +1,13 @@
-# Pikatea Macropad R26 Desktop Kit Assembly Guide (round 1)
-Congratulations on receiving your Pikatea Macropad R26 Desktop Kit. This guide will walk you through the assembly process. Please email support or ask on Disocrd if you have any questions. **This is for the round 1 macropad which does not include LED support.**
+# Pikatea Macropad R26 Desktop Kit Assembly Guide
+Congratulations on receiving your Pikatea Macropad R26 Desktop Kit. This guide will walk you through the assembly process. Please email support or ask on Disocrd if you have any questions.
 
 Here is a video for those that prefer it.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/H_TdUE3AGE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+## looking for the Round 1 Assembly Guide?
+This assembly guide is for round 2 macropad (shipped in August 2022). If you are looking for round 1 (the R26 without LED support), you can find it here.
+[R26 round 1 guide](/PikateaMacropadR26/pikatea-macropad-r26-desktop-kit-assembly-guide.html)
 
 ## What's in the Box
 ![Image of items](/assets/R26/DSC00103.JPG)
