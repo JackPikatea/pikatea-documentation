@@ -1,7 +1,7 @@
 
 # Pikatea Macropad GB3 Assembly Guide
 
-Congratulations on receiving your Pikatea Macropad GB3 Kit. This guide will walk you through the assembly process. Please email support or ask on Disocrd if you have any questions.
+Congratulations on receiving your Pikatea Macropad GB3 Kit. This guide will walk you through the assembly process. Please email support or ask on Discord if you have any questions.
 
 ## What's in the Box
 ![](/assets/GB3/gb3-assembly-1.jpg)

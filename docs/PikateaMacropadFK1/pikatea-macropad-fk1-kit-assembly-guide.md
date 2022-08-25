@@ -1,7 +1,7 @@
 
 # Pikatea Macropad FK1 Assembly Guide
 
-Congratulations on receiving your Pikatea Macropad FK1. This guide will walk you through the assembly process. Please make sure the read through the entire thing before getting started. Please email support or ask on Disocrd if you have any questions.
+Congratulations on receiving your Pikatea Macropad FK1. This guide will walk you through the assembly process. Please make sure the read through the entire thing before getting started. Please email support or ask on Discord if you have any questions.
 
 Here is a video for those that prefer it.
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/i-vZ7Uzu6m4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

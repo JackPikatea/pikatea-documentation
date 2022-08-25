@@ -1,7 +1,7 @@
 
-# Pikatea Macropad GB3 Assembly Guide
+# Pikatea Macropad GB4 Assembly Guide
 
-Congratulations on receiving your Pikatea Macropad GB3 Kit. This guide will walk you through the assembly process. Please email support or ask on Disocrd if you have any questions.
+Congratulations on receiving your Pikatea Macropad GB4 Kit. This guide will walk you through the assembly process. Please email support or ask on Discord if you have any questions.
 
 ## What's in the Box
 ![](/assets/GB3/gb3-assembly-1.jpg)
@@ -107,7 +107,7 @@ Add the keycaps to your macropad and click the switches a bunch because it's fun
 ## Test the Macropad BEFORE mounting
 This is a very crucial step. The last thing you'd want to do is install your macropad only to realize you forgot to solder all the pins correctly. 
 
-**Follow the [Pikatea Macropad GB3 user guide](/PikateaMacropadGB3/) but mount the device later after you've verified everything functions.**
+**Follow the [Pikatea Macropad GB4 user guide](/PikateaMacropadGB4/) but mount the device later after you've verified everything functions.**
 
 If everything works, Congrats! You did it!
 
