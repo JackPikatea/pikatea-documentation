@@ -84,6 +84,7 @@ module.exports = {
           //getting started should contain an introduction and an "index" for other guides
           ['/', 'Getting Started'],
           // device specific guides here with a template at the top or bottom of each page
+          ['/PikateaMacropadGB4/', 'Pikatea Macropad GB4'],
           ['/PikateaMacropadGB3/', 'Pikatea Macropad GB3'],
           // link to the assembly guide at the top of this page since every customer needs it.
           ['/PikateaMacropadR26/', 'Pikatea Macropad R26 Desktop'],
@@ -102,9 +103,10 @@ module.exports = {
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/PikateaMacropadR26/pikatea-macropad-r26-desktop-kit-assembly-guide', 'Pikatea Macropad R26'],
+          ['/PikateaMacropadR26/pikatea-macropad-r26-led-desktop-kit-assembly-guide', 'Pikatea Macropad R26'],
           ['/FinnGus/finngus-kit-assembly-guide', 'Pikatea Keyboard FinnGus'],
           ['/PikateaMacropadFK1/pikatea-macropad-fk1-kit-assembly-guide', 'Pikatea Macropad FK1'],
+          ['/PikateaMacropadGB4/pikatea-macropad-gb4-kit-assembly-guide', 'Pikatea Macropad GB4'],
           ['/PikateaMacropadGB3/pikatea-macropad-gb3-kit-assembly-guide', 'Pikatea Macropad GB3'],
           ['/Macropad1x5/macropad1x5-kit-assembly-guide', 'Macropad5x1'],
           ['/PikateaMacropadGB2/pikatea-macropad-gb2-kit-assembly-guide', 'Pikatea Macropad GB2']

@@ -1,7 +1,7 @@
 # Pikatea Macropad R26 Desktop User Guide
 Congratulations on receiving your Pikatea Macropad R26 Desktop! This quick guide will walk you through how to use it.
 
-If you havn't assembled your macropad yet, follow the [Assembly Guide](/PikateaMacropadR26/pikatea-macropad-r26-desktop-kit-assembly-guide.html) first and then come back here.
+If you havn't assembled your macropad yet, follow the [Assembly Guide](/PikateaMacropadR26/pikatea-macropad-r26-led-desktop-kit-assembly-guide.html) first and then come back here.
 
 ![img](/assets/R26/DSC09499.jpg)
 
