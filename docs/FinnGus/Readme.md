@@ -31,6 +31,9 @@ TODO (Add these files to the docs) -->
 ## Example Uses for the Macro (tail) Keys
 <MacroUsesKeyboard/>
 
+## Important Info
+**The case is printed in PLA. It can deform if left on an uneven surface in a hot environment for too long. Do not leave your finnGus in a HOT car for too long. Any temperature that is uncomfortable for an extended period of time would be too hot for too long. Just pretend it's a person/cat**
+
 ## Troubleshooting
 Vial isn't detecting the device!
 * Make sure you have the correct version of Vial installed for the firmware (in this case it's 0.4.2 beta). If you are on linux, [make sure to follow the udev portion of the install](https://get.Vial.today)
