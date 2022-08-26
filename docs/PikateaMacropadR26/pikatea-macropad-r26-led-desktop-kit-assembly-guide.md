@@ -56,6 +56,10 @@ We already have a [generic guide for flashing firmware](/DownloadsAndFiles/firmw
 While **technically** this step can be done later, it's highly recommended to test the pro micro before soldering it with the kit. It will save lots of time while assembling. Contact support or ask in our Discord if you are having issues with this step.
 
 ## Prepare the Circuit Board
+
+Heres a quick video of this step!
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TcwzeGnfsL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 Let's begin by preparing the PCB or Circuit Board. Please pay attention to the orientation of components.
 
 ### Trim The Headers
