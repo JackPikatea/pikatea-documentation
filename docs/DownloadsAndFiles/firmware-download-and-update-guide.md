@@ -9,12 +9,12 @@ The firmware download page contains updated firmware files for all Pikatea produ
 #### Pikatea Macropad GB3
 - [Vial (beta 0.4.2) Compatible Firmware](https://www.mediafire.com/file/qp7iv42ndt82j77/pikatea_macropad_gb3_c_vial%25280.4.2%2529.hex/file)
 - [Via compatible firmware](https://www.mediafire.com/file/w3eq5uyhw1z9a55/pikatea_pikatea_macropad_gb3_via.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/dynezbd0hl76s46/gb3via.json/file)
-- [Via compatible Midi Firmware](https://www.mediafire.com/file/ky7gorzadk9vgjw/pikatea_pikatea_macropad_gb3_midi.hex/file) for use with [Midi-mixer](https://www.midi-mixer.com/) and matching Via keymap [.json file](https://www.mediafire.com/file/dynezbd0hl76s46/gb3via.json/file)
+- [Via compatible Midi Firmware](https://www.mediafire.com/file/ky7gorzadk9vgjw/pikatea_pikatea_macropad_gb3_midi.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/dynezbd0hl76s46/gb3via.json/file)
 
 #### Pikatea Macropad FK1
 - [Vial (beta 0.4.2) Compatible Firmware](https://www.mediafire.com/file/k3an8jcda7b9u1p/pikatea_macropad_fk1_b_vial%25280.4.1%2529.hex/file)
 - [Via compatible firmware](https://www.mediafire.com/file/8p503n4ccsd9ktf/pikatea_pikatea_macropad_fk1_via.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/wjmfuljjswm08ru/fk1via.json/file)
-- [Via compatible Midi Firmware](https://www.mediafire.com/file/h5arxiksxeah9ki/pikatea_pikatea_macropad_fk1_midi.hex/file) for use with [Midi-mixer](https://www.midi-mixer.com/) and matching Via keymap [.json file](https://www.mediafire.com/file/wjmfuljjswm08ru/fk1via.json/file)
+- [Via compatible Midi Firmware](https://www.mediafire.com/file/h5arxiksxeah9ki/pikatea_pikatea_macropad_fk1_midi.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/wjmfuljjswm08ru/fk1via.json/file)
 
 #### FinnGus Keyboard Kit
 - [Vial (beta 0.4.1) Compatible Firmware](https://www.mediafire.com/file/glirj4nxkplk4p2/pikatea_finn_gus_via%25280.4%2529.hex/file)
@@ -23,27 +23,27 @@ The firmware download page contains updated firmware files for all Pikatea produ
 #### Pikatea Macropad R26 round 1
 - [Vial (beta 0.4.2) Compatible Firmware](https://www.mediafire.com/file/6a12z4t1fccxczm/pikatea_pikatea_macropad_r26_kit_a_vial%25280.4.2%2529.hex/file)
 - [Via compatible firmware](https://www.mediafire.com/file/ww77r84p4b2wmfa/pikatea_pikatea_macropad_r26_via.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/un5pd2espkymt6y/r26via.json/file)
-- [Via compatible Midi Firmware](https://www.mediafire.com/file/igfm2b38lyr88ey/pikatea_pikatea_macropad_r26_midi.hex/file) for use with [Midi-mixer](https://www.midi-mixer.com/) and matching Via keymap [.json file](https://www.mediafire.com/file/un5pd2espkymt6y/r26via.json/file)
+- [Via compatible Midi Firmware](https://www.mediafire.com/file/igfm2b38lyr88ey/pikatea_pikatea_macropad_r26_midi.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/un5pd2espkymt6y/r26via.json/file)
 
 #### Pikatea Macropad R26 round 2
 - [Vial (beta 0.6) Compatible Firmware](https://www.mediafire.com/file/0c33t4x21htjjcv/pikatea_pikatea_macropad_r26_%2528round_2%2529_kit_vial.hex/file)
 - [Vial (beta 0.6) Compatible Midi Firmware](https://www.mediafire.com/file/fvosvru20qnce6e/pikatea_pikatea_macropad_r26_round_2%2529_kit_vial_midi.hex/file)
 - [Via compatible firmware](https://www.mediafire.com/file/68ev548838ynsm1/pikatea_pikatea_macropad_r26_%2528round_2%2529_kit_via.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/fbdl6jgn06rjgh2/r26r2via.json/file)
-- [Via compatible Midi Firmware](https://www.mediafire.com/file/jpeosmg4ugfvqwu/pikatea_pikatea_macropad_r26_%2528round_2%2529_kit_via_midi.hex/file) for use with [Midi-mixer](https://www.midi-mixer.com/) and matching Via keymap [.json file](https://www.mediafire.com/file/fbdl6jgn06rjgh2/r26r2via.json/file)
+- [Via compatible Midi Firmware](https://www.mediafire.com/file/jpeosmg4ugfvqwu/pikatea_pikatea_macropad_r26_%2528round_2%2529_kit_via_midi.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/fbdl6jgn06rjgh2/r26r2via.json/file)
 
 #### Pikatea Macropad Custom
 ##### 3 Encoders
 - [Vial (beta 0.4.2) Compatible Firmware](https://www.mediafire.com/file/72frgl4di1ct079/pikatea_pikatea_macropad_custom_3_encoder_vial%25280.5.2%2529.hex/file)
 - [Via compatible firmware](https://www.mediafire.com/file/yupq52dz8q5hfbk/pikatea_pikatea_macropad_custom_3_encoder_via.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/sdr819r3oeii2c4/custom3via.json/file)
-- [Via compatible Midi Firmware](https://www.mediafire.com/file/k05w6y3cqklm0ci/pikatea_pikatea_macropad_custom_3_encoder_midi.hex/file) for use with [Midi-mixer](https://www.midi-mixer.com/) and matching Via keymap [.json file](https://www.mediafire.com/file/sdr819r3oeii2c4/custom3via.json/file)
+- [Via compatible Midi Firmware](https://www.mediafire.com/file/k05w6y3cqklm0ci/pikatea_pikatea_macropad_custom_3_encoder_midi.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/sdr819r3oeii2c4/custom3via.json/file)
 ##### 2 Encoders
 - [Vial (beta 0.4.2) Compatible Firmware](https://www.mediafire.com/file/cheqafy0epmetqc/pikatea_pikatea_macropad_custom_2_encoder_vial%25280.5.2%2529.hex/file)
 - [Via compatible firmware]() and matching Via keymap [.json file]()
-- [Via compatible Midi Firmware]() for use with [Midi-mixer](https://www.midi-mixer.com/) and matching Via keymap [.json file]()
+- [Via compatible Midi Firmware]() and matching Via keymap [.json file]()
 ##### 1 Encoder
 - [Vial (beta 0.4.2) Compatible Firmware](https://www.mediafire.com/file/7b1uc6m04bxyk81/pikatea_pikatea_macropad_custom_1_encoder_vial%25280.5.2%2529.hex/file)
 - [Via compatible firmware]() and matching Via keymap [.json file]()
-- [Via compatible Midi Firmware]() for use with [Midi-mixer](https://www.midi-mixer.com/) and matching Via keymap [.json file]()
+- [Via compatible Midi Firmware]() and matching Via keymap [.json file]()
 
 #### Macropad1x5
 - [Version 0.4 (encoder left)](https://www.mediafire.com/file/jdh4rx5e19usfcq/macropad1x5_rev1_vial%25280.4%2529.hex/file) and [Version 0.4 (encoder right)](https://www.mediafire.com/file/b9mnj5y3pgnff4z/macropad1x5_rev1_vial%25280.4%2529_flipped.hex/file) (compatible with Vial beta 0.4)
