@@ -56,7 +56,11 @@ The firmware download page contains updated firmware files for all Pikatea produ
 - [Vial (beta 0.4) Compatible Firmware](https://www.mediafire.com/file/gtfzovxh4sm5yal/pikatea_pikatea_macropad_gb1_via%25280.4%2529.hex/file)
 
 ## Download QMK_Toolbox
-Download the program QMK_toolbox which is used to flash the firmware file on the device. Go to the [download page](https://github.com/qmk/qmk_toolbox/releases) and get version 0.0.21 located under "Assets" (not the beta or 0.1.0 which seems to have hickups at the moment). 
+Download the program QMK_toolbox which is used to flash the firmware file on the device. Go to the [download page](https://github.com/qmk/qmk_toolbox/releases) and get latest version located under "Assets".
+
+If you are having issues with the latest version try version 0.0.21
+
+QMK_toolbox will help install the drivers automatically. Restart your computer after the drivers have been installed.
 
 ## Configure QMK_Toolbox
 After downloading QMK_Toolbox, open it and make sure the following settings are set.
