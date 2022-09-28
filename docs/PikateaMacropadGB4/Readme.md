@@ -49,7 +49,7 @@ The Pikatea Macropad is compatible with QMK and VIA firmware.
 
 ## Troubleshooting
 Vial isn't detecting the device!
-* Make sure you have the correct version of Vial installed for the firmware (in this case it's 0.4.2 beta). If you are on linux, [make sure to follow the udev portion of the install](https://get.Vial.today)
+* Make sure you have the correct version of Vial installed for the firmware (in this case it's 0.6 beta). If you are on linux, [make sure to follow the udev portion of the install](https://get.Vial.today)
 * reflash the firmware
 
 Sometimes the device doesn't work as expected. If this is the case, we can do a replacement/repair up to 3 months after receiving your device.
