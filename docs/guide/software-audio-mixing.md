@@ -4,7 +4,7 @@ Control the volume of programs independly of each other to get the perfect sound
 
 ## Method 1 - Actual Solution Power Mixer
 
-Use the software from [actualsolution called power mixer](https://actualsolution.com/power-mixer/). It's a paid program ($17.95) but includes a free trial and is definitly worth the price. Setup your macropad to switch between layers with buttons so that the knob activates different hotkeys which then controls different program volumes.
+Use the software from [actualsolution called power mixer](https://actualsolution.com/power-mixer/). It's a paid program ($17.95) but includes a free trial and is definitely worth the price. Setup your macropad to switch between layers with buttons so that the knob activates different hotkeys which then controls different program volumes.
 
 ## Method 2 - Midi-Mixer
 
