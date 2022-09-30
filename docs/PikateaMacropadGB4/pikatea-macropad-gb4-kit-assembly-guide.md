@@ -106,8 +106,8 @@ Add the keycaps to your macropad and click the switches a bunch because it's fun
 ## Add the Backside Cover
 Attach the included backside cover to the back. **This is extremely important** the pins are very sharp and you may accidently cut yourself when unplugging the cable. **Again, you should definitely do this**.
 
-![](/assets/GB3/PXL_20220929_024757328.jpg)
-![](/assets/GB3/PXL_20220929_024803999.jpg)
+![](/assets/GB4/PXL_20220929_024757328.jpg)
+![](/assets/GB4/PXL_20220929_024803999.jpg)
 
 
 ## Test the Macropad BEFORE mounting
