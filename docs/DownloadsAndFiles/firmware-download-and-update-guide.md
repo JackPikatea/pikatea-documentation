@@ -6,6 +6,10 @@ This guide will walk you through the process of upgrading or flashing firmware o
 ## Download Firmware
 The firmware download page contains updated firmware files for all Pikatea products. Download the firmware you'd like (.hex file) and remember where it is downloaded.
 
+#### Pikatea Macropad GB4
+- [Vial (beta 0.6) Compatible Firmware](https://www.mediafire.com/file/hhywhyv13pwchni/pikatea_pikatea_macropad_gb4_vial.hex/file)
+- [Vial (beta 0.6) Midi Compatible Firmware](https://www.mediafire.com/file/qti1ehsb6iius1j/pikatea_pikatea_macropad_gb4_vial_midi.hex/file)
+
 #### Pikatea Macropad GB3
 - [Vial (beta 0.4.2) Compatible Firmware](https://www.mediafire.com/file/qp7iv42ndt82j77/pikatea_macropad_gb3_c_vial%25280.4.2%2529.hex/file)
 - [Via compatible firmware](https://www.mediafire.com/file/w3eq5uyhw1z9a55/pikatea_pikatea_macropad_gb3_via.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/dynezbd0hl76s46/gb3via.json/file)
