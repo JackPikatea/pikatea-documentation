@@ -49,6 +49,7 @@ The Pikatea Macropad is compatible with QMK and VIA firmware.
 
 ## Troubleshooting
 Vial isn't detecting the device!
+* Make sure the USB cable is plugged in all the way. (Just because you see the LEDs going doesn't mean the data pins are connected)
 * Make sure you have the correct version of Vial installed for the firmware (in this case it's 0.6 beta). If you are on linux, [make sure to follow the udev portion of the install](https://get.Vial.today)
 * reflash the firmware
 
