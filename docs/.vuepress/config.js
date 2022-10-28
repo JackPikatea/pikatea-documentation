@@ -84,6 +84,7 @@ module.exports = {
           //getting started should contain an introduction and an "index" for other guides
           ['/', 'Getting Started'],
           // device specific guides here with a template at the top or bottom of each page
+          ['/PikateaKeyboardKP69/', 'Pikatea Keyboard KP69'],
           ['/PikateaMacropadGB4/', 'Pikatea Macropad GB4'],
           ['/PikateaMacropadGB3/', 'Pikatea Macropad GB3'],
           // link to the assembly guide at the top of this page since every customer needs it.
@@ -103,6 +104,7 @@ module.exports = {
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
+          ['/PikateaKeyboardKP69/kp69-kit-assembly-guide', 'Pikatea Keyboard KP69'],
           ['/PikateaMacropadR26/pikatea-macropad-r26-led-desktop-kit-assembly-guide', 'Pikatea Macropad R26'],
           ['/FinnGus/finngus-kit-assembly-guide', 'Pikatea Keyboard FinnGus'],
           ['/PikateaMacropadFK1/pikatea-macropad-fk1-kit-assembly-guide', 'Pikatea Macropad FK1'],
