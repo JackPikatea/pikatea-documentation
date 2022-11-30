@@ -1,7 +1,7 @@
 ## Pikatea Keyboard KP69 User Guide
 Congratulations on assembling your Pikatea Keyboard KP69! This quick guide will walk you through how to use it.
 
-If you havn't assembled your KP69 yet, follow the [Assembly Guide]() first and then come back here.
+If you havn't assembled your KP69 yet, follow the [Assembly Guide](/PikateaKeyboardKP69/kp69-kit-assembly-guide.html) first and then come back here.
 
 ![img](/assets/KP69/KP69header.webp)
 
