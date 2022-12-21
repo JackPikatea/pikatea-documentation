@@ -37,6 +37,6 @@ This guide is for Windows but the concepts could be applied to Mac Or Linux
     4. save the script and run it. 
 
 5. Configure Macropad
-    1. open Vial and asign one of the buttons to press the F24 key. This should activate the script
+    1. open Vial and assign one of the buttons to press the F24 key. This should activate the script
 
 That's it! Now when you press the F24 key, AHK will send a web request to the URL and IFTTT will toggle the device.

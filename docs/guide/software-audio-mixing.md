@@ -1,6 +1,6 @@
 # Software Audio Mixing
 
-Control the volume of programs independly of each other to get the perfect sound mix. 
+Control the volume of programs independent of each other to get the perfect sound mix. 
 
 ## Method 1 - Actual Solution Power Mixer
 
@@ -8,13 +8,13 @@ Use the software from [actualsolution called power mixer](https://actualsolution
 
 ## Method 2 - Midi-Mixer
 
-Use the Midi firmware and "Midi-mixer" together to control software audio independantly. Control up to 8 sources with each encoder.
+Use the Midi firmware and "Midi-mixer" together to control software audio independently. Control up to 8 sources with each encoder.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wpA1vrWgPRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ## Method 3 - Volume Squard
 
-Download Volume Squared [Volume²](https://github.com/irzyxa/Volume2), downloading the right one for install. Download and follow the installation instructions. Once you do that, load up the settings of the app. In the main window, to get the most accurate volume control set the "Control Method" to Logarithmic, with the steps being 100. On top it will have a selection for the audio device you want to use, setting that to whatever you decide to control the volume from. That will be set to Windows Default as default. There is a selection you can do for "Change Volume For", which if set to application list, you press the gear, and add programs either via the process that is running or by navigating to the file location. This will then change the default windows volume changing over to the program you have selected. Once you do that, to change windows volume as a whole, hold down shift + use the volume knob. This will now allow you to ocntrol the volume off apps separate when they are opened up.
+Download Volume Squared [Volume²](https://github.com/irzyxa/Volume2), downloading the right one for install. Download and follow the installation instructions. Once you do that, load up the settings of the app. In the main window, to get the most accurate volume control set the "Control Method" to Logarithmic, with the steps being 100. On top it will have a selection for the audio device you want to use, setting that to whatever you decide to control the volume from. That will be set to Windows Default as default. There is a selection you can do for "Change Volume For", which if set to application list, you press the gear, and add programs either via the process that is running or by navigating to the file location. This will then change the default windows volume changing over to the program you have selected. Once you do that, to change windows volume as a whole, hold down shift + use the volume knob. This will now allow you to control the volume off apps separate when they are opened up.
 
 ## Method 4 - AHK and NirCmd
 
@@ -25,7 +25,7 @@ Download the 64-bit version of NirCmd from [https://www.nirsoft.net/utils/nircmd
 
 (Note: Like all good Windows utilities, the website looks like something from 1995...)
 
-Copy the "NirCmd.exe" executable in the zip file you downloaded to your C:/Windows directory. You'll need admin permisions
+Copy the "NirCmd.exe" executable in the zip file you downloaded to your C:/Windows directory. You'll need admin permissions
 
 #### Setup AutoHotKey
 Install autohotkey and create a script. [View the guide for getting started with AHK](#installing-and-using-autohotkey). Give it a meaningful title. Let's configure the macropad before editing the script.
@@ -38,7 +38,7 @@ As for the knob, you can either map it to volume up/down or dummy keystrokes, de
 
 #### Edit AutoHotKey Script
 
-Right click and edit the script you created ealier. Go ahead and remove everything that is already there.
+Right click and edit the script you created earlier. Go ahead and remove everything that is already there.
 
 First place this at the top of the file.
 ```

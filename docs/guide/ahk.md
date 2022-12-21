@@ -1,5 +1,5 @@
 # AHK or AutoHotKey
-AHK is cool and useful.
+AHK is cool and useful for creating macros and extending the use of your macropad.
 
 ## Installing and Using AutoHotKey
 
@@ -18,4 +18,4 @@ To run the script, just double click on it. An icon should appear in the icon tr
 
 Place the script in your windows startup folder so that it runs automatically when you turn on your computer.
 
-You can find the offical documenation for AHK at [https://www.autohotkey.com](https://www.autohotkey.com/) but this should give you enough info to get started.
+You can find the official documentation for AHK at [https://www.autohotkey.com](https://www.autohotkey.com/) but this should give you enough info to get started.

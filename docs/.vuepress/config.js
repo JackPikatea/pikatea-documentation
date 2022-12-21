@@ -125,7 +125,7 @@ module.exports = {
           ['/guide/controlling-music', 'Controlling Music'],
           ['/guide/software-audio-mixing', 'Software Audio Mixing'],
           ['/guide/focus-a-program-before-activating', 'Focus A Program Before Activating A Macro'],
-          ['/guide/interfacing-with-photoshop', 'Interfacing With Photoshop'],
+          // ['/guide/interfacing-with-photoshop', 'Interfacing With Photoshop'],
           ['/guide/control-lightroom', 'Interfacing With Lightroom'],
           ['/guide/scrubbing-a-timeline', 'Scrubbing A Video Timeline'],
           ['/guide/ahk', 'Installing And Using AutoHotKey'],
