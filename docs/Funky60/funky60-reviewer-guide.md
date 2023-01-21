@@ -48,3 +48,5 @@ The keyboard you have is very close to the final board. Minor changes will be ma
 Here is a picture of the carring case we will use for the GB
 
 ![img](/assets/Funky60/DSC00413.jpg)
+
+<Footer/>
