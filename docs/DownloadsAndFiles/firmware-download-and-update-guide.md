@@ -14,6 +14,7 @@ The firmware download page contains updated firmware files for all Pikatea produ
 #### Pikatea Macropad GB4
 - [Vial (beta 0.6) Compatible Firmware](https://www.mediafire.com/file/hhywhyv13pwchni/pikatea_pikatea_macropad_gb4_vial.hex/file)
 - [Vial (beta 0.6) Compatible Firmware with preset lighting profiles](https://www.mediafire.com/file/rncosj71yrzew69/pikatea_macropad_gb4_vial%25280.6%2529_lighting.hex/file)
+- [Vial (beta 0.6) Compatible Firmware with Combo and Tap-dance](https://www.mediafire.com/file/e5ofsx0paiupmes/pikatea_macropad_gb4_vial%25280.6%2529-noled.hex/file)
 - [Vial (beta 0.6) Midi Compatible Firmware](https://www.mediafire.com/file/qti1ehsb6iius1j/pikatea_pikatea_macropad_gb4_vial_midi.hex/file)
 
 #### Pikatea Macropad GB3
