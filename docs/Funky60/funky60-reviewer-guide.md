@@ -43,7 +43,7 @@ This is subject to change but likely will not.
 
 ## Planned Changes
 
-The keyboard you have is very close to the final board. Minor changes will be made. The weight will increase in thickness. The depth of the "Funky60" text in the weight will decrease. The small gap between the case and the weight on the sides of the board will be fixed. 
+The keyboard you have is very close to the final board. The depth of the "Funky60" text in the weight will decrease.
 
 Here is a picture of the carring case we will use for the GB
 
