@@ -142,6 +142,14 @@ module.exports = {
           ['/DownloadsAndFiles/firmware-download-and-update-guide', 'Firmware Downloads and Update Guide'],
           ['/DownloadsAndFiles/downloadable-files', 'Downloadable Files'],
         ]
+      },
+      {
+        title: 'Other',   // required
+        collapsable: true, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          ['/guide/twitch', 'Twitch Stream Commands and Guide'],
+        ]
       }
     ]
   },
