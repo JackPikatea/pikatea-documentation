@@ -36,6 +36,7 @@ If you'd like to help edit this page with any information you'd like to add, fee
 - !music/!playing/!song - shows current song info (to be made)
 - !neverforget - overlayed image
 - !niches - WHAT IS UP MY GUY
+- !null - plays the null pointer error overlay
 - !print [message] - prints out [message] on a receipt
 - !printable - returns receipt printable characters
 - !resetcamera - resets the facecam if it looses tracking
@@ -50,7 +51,7 @@ If you'd like to help edit this page with any information you'd like to add, fee
 - "!funky": "funky60! https://www.pikatea.com/products/funky60"
 - "!captea": "who is that imposter?"
 - "!capptea": "https://clips.twitch.tv/ShakingFairArmadilloTinyFace-MmKP9fbOdAhuvvUF"
--"!kim": "GlitchLit GlitchLit GlitchLit OMG!!!!!! CurseLit CurseLit CurseLit IT'S CELEBRITY STREAMER @KIMLYNNWIN! CurseLit CurseLit CurseLit twitch.tv/KIMLYNNWIN GlitchLit GlitchLit GlitchLit GlitchLit GlitchLit GlitchLit"
+- "!kim": "GlitchLit GlitchLit GlitchLit OMG!!!!!! CurseLit CurseLit CurseLit IT'S CELEBRITY STREAMER @KIMLYNNWIN! CurseLit CurseLit CurseLit twitch.tv/KIMLYNNWIN GlitchLit GlitchLit GlitchLit GlitchLit GlitchLit GlitchLit"
 - "!funky60": "https://www.pikatea.com/products/funky60"
 - "!keyboard": "Funky60 protoV2. View the soon to be GB page at https://www.pikatea.com/products/funky60"
 - "!gb": "https://www.pikatea.com/products/funky60 The Funky60 GB starts Feb 16th!"
@@ -70,6 +71,7 @@ If you'd like to help edit this page with any information you'd like to add, fee
 - !sticker [username] - give discount codes needed to get a free sticker from https://www.pikatea.com/stickers
 - !stopgiveaway
 - !winner/!winners - the information winners need after a giveaway
+- volume [0-100] set the spotify volume to a percentage
 
 ### More Moderator Info
 - [Admin/Moderator Stream Deck](https://streamer.bot/deck/b9ce7223-0db6-4afa-861e-679f3738b27b) - control the stream in more detail
