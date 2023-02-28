@@ -3,8 +3,25 @@ Everything you need to know to have a great time watching our twitch streams. We
 
 If you'd like to help edit this page with any information you'd like to add, feel free [here]()
 
-### channel point rewards
+### Receipt Printer
 
+-   Print a simple message with "!print" followed by your message! Example: "!print this is a message."
+-   Use \i to invert the color of the text at any point in the message. Example: "!print this is not inverted \i this is inverted."
+-   A full list of compatible characters can be found by using the command "!printable." Use special characters to make fun ASCII art.
+-   Follow and/or subscribe, and your name gets printed out. We staple subscriber names in the shop!
+-   We have a few other hidden features you'll just have to figure out.
+
+### Super Duper Prints
+
+-   Print a very large message using the *Super Duper Print* channel reward. Non-subs only get 15 characters, but subs are not limited.
+-   Raid the channel and your raid message will get printed out in *Super Duper* size.
+-   Messages that include bits will get printed out in *Super Duper* size. Each bit you include gives you 1 character to print, so be sure to include enough bits or your message might get cut off!
+
+### Beeps!
+
+-   Each beep is unique to your username!
+-   Grab a ticket (channel reward) when joining the stream to hear your beep.
+-   There are other opportunities to beep, but you'll have to find that out yourself!
 
 ### User Commands
 - !beeps - shows how many beeps are left
@@ -40,12 +57,19 @@ If you'd like to help edit this page with any information you'd like to add, fee
 - "!bandaid": "Knives are sharp, be careful chat"
 - "!chad": "Chad is a nice guy, be more like Chad."
 
+### More Channel Point Reward Info
+- Beep Beep - When available, my print server beeps uniquely to your username. Beeps are limited and are gained from subs, follows and raids
+- Ticket + Beep Beep - Grab your ticket when joining the stream as a way to say hi. 
+- Total Receipts Printed - doesn't do anything but the cost shows the amount of recipets we have printed
 
 ### Moderator Commands
-- !command [!thecommand] [this is the response message] - creates/updates a command called [!command] that returns the response message [this is the response mssage] (example: !command !build we are building a keyboard)
+- !command [!thecommand] [this is the response message] - creates/updates a command called [!command] that returns the response message [this is the response mssage] (example: **!command !build we are building a keyboard**)
 - !fliphdmi
 - !start
 - !startgiveaway
 - !sticker [username] - give discount codes needed to get a free sticker from https://www.pikatea.com/stickers
 - !stopgiveaway
 - !winner/!winners - the information winners need after a giveaway
+
+### More Moderator Info
+- [Admin/Moderator Stream Deck](https://streamer.bot/deck/b9ce7223-0db6-4afa-861e-679f3738b27b) - control the stream in more detail
