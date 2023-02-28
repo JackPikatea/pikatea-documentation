@@ -1,5 +1,5 @@
 # Twitch Stream Info and Commands
-Everything you need to know to have a great time watching our twitch streams. We stream every Wednesday in the afternoon.
+Everything you need to know to have a great time watching our twitch streams. We stream every Wednesday in the afternoon. https://www.twitch.tv/JackPikatea
 
 If you'd like to help edit this page with any information you'd like to add, feel free [here]()
 
