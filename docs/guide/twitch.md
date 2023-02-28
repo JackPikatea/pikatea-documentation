@@ -3,6 +3,9 @@ Everything you need to know to have a great time watching our twitch streams. We
 
 If you'd like to help edit this page with any information you'd like to add, feel free [here]()
 
+### channel point rewards
+
+
 ### User Commands
 - !beeps - shows how many beeps are left
 - !bethany - Plays a song for bethany
