@@ -42,10 +42,12 @@ If you'd like to help edit this page with any information you'd like to add, fee
 - !resetcamera - resets the facecam if it looses tracking
 - !rules - view giveaway rules
 - !shop/!site/!website - https://www.pikatea.com
+- !side - switch the camera to the side view if the current scene is the top view
 - !so - shout out someone
 - !social/!socials - link to social media pages
 - !sumac/!sumak
 - !test - test command
+- !top - switch the camera to the top view if the current scene is the side view
 
 - "!build": "a keyboard"
 - "!funky": "funky60! https://www.pikatea.com/products/funky60"
