@@ -1,7 +1,7 @@
 # Twitch Stream Info and Commands
-Everything you need to know to have a great time watching our twitch streams. We stream every Wednesday in the afternoon. https://www.twitch.tv/JackPikatea
+Everything you need to know to have a great time watching our twitch streams. We stream every Wednesday in the afternoon. [https://www.twitch.tv/JackPikatea](https://www.twitch.tv/JackPikatea)
 
-If you'd like to help edit this page with any information you'd like to add, feel free [here]()
+If you'd like to help edit this page with any information you'd like to add, feel free [here](https://github.com/JackPikatea/pikatea-documentation/blob/main/docs/guide/twitch.md)
 
 ### Receipt Printer
 
@@ -73,7 +73,7 @@ If you'd like to help edit this page with any information you'd like to add, fee
 - !sticker [username] - give discount codes needed to get a free sticker from https://www.pikatea.com/stickers
 - !stopgiveaway
 - !winner/!winners - the information winners need after a giveaway
-- volume [0-100] set the spotify volume to a percentage
+- !volume [0-100] set the spotify volume to a percentage
 
 ### More Moderator Info
 - [Admin/Moderator Stream Deck](https://streamer.bot/deck/b9ce7223-0db6-4afa-861e-679f3738b27b) - control the stream in more detail
