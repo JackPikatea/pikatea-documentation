@@ -24,15 +24,15 @@ You might notice a few things are different for this stream!
 * **TTS** - You can enable TTS if you cheer at least 25 bits with your chat message. Notes on orders from Pikatea will also be TTS.
 
 ### Goals and Prizes
-* 	11 subs	-	Deskmat
-* 	22 subs	-	Show off gnar board
-* 	33 subs	-	KP69 Assembled (Blue Bonnets)
-* 	44 subs	-	GB4 Macropad
-* 	55 subs	-	The Richard Macropad
-* 	66 subs	-	Custom Tea Macropad
-* 	77 subs	-	PBT Keycap Set
-* 	88 subs	-	Sharpie a message on my arm
-* 	99 subs	-	The Richard Macropad
+* 	11 subs 	-	Deskmat
+* 	22 subs	    -	Show off gnar board
+* 	33 subs	    -	KP69 Assembled (Blue Bonnets)
+* 	44 subs	    -	GB4 Macropad
+* 	55 subs	    -	The Richard Macropad
+* 	66 subs	    -	Custom Tea Macropad
+* 	77 subs	    -	PBT Keycap Set
+* 	88 subs	    -	Sharpie a message on my arm
+* 	99 subs     -	The Richard Macropad
 * 	110 subs	-	Deskmat
 * 	121 subs	-	Start the Richard GB
 * 	132 subs	-	F Board Kit
@@ -57,6 +57,10 @@ You might notice a few things are different for this stream!
 * 	341 subs	-	TX Stabs
 * 	352 subs	-	PBT Keycap Set
 * 	363 subs	-	FinnGus Keyboard kit
+* 	390 subs	-	GMK Pixels Base + Decorations Kit
+* 	420 subs	-	Long Boi Keyboard Kit
+* 	450 subs	-	Custom Tea Macropad
+* 	(Every 25 subs after 250)	-	GB3/GB4 Macropad, Richard Macropad, or VIP
 
 ### Activities
 Here is a list of stuff we have planned. Doesn't mean it will actually happen but at least it's something
