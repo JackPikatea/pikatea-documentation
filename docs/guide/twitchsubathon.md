@@ -24,7 +24,39 @@ You might notice a few things are different for this stream!
 * **TTS** - You can enable TTS if you cheer at least 25 bits with your chat message. Notes on orders from Pikatea will also be TTS.
 
 ### Goals and Prizes
-* the list
+* 	11 subs	-	Deskmat
+* 	22 subs	-	Show off gnar board
+* 	33 subs	-	KP69 Assembled (Blue Bonnets)
+* 	44 subs	-	GB4 Macropad
+* 	55 subs	-	The Richard Macropad
+* 	66 subs	-	Custom Tea Macropad
+* 	77 subs	-	PBT Keycap Set
+* 	88 subs	-	Sharpie a message on my arm
+* 	99 subs	-	The Richard Macropad
+* 	110 subs	-	Deskmat
+* 	121 subs	-	Start the Richard GB
+* 	132 subs	-	F Board Kit
+* 	143 subs	-	PBT Keycap Set
+* 	154 subs	-	Share a HUGE secret
+* 	165 subs	-	Deskmat
+* 	176 subs	-	GB4 Macropad
+* 	187 subs	-	Aluminum R26 Macropad
+* 	198 subs	-	Switch to scuffed mouse
+* 	209 subs	-	Scotteroo artisan
+* 	220 subs	-	Custom Tea Macropad
+* 	231 subs	-	GB4 Macropad
+* 	242 subs	-	Broken in Mx Blacks
+* 	253 subs	-	change into special outfit
+* 	264 subs	-	PBT Keycap Set
+* 	275 subs	-	GB4 Macropad
+* 	286 subs	-	Funky60 Lite Kit
+* 	297 subs	-	CK Stealth Deskmat
+* 	308 subs	-	GB4 Macropad
+* 	319 subs	-	Deskmat
+* 	330 subs	-	KP69 Assembled (Blue Bonnets)
+* 	341 subs	-	TX Stabs
+* 	352 subs	-	PBT Keycap Set
+* 	363 subs	-	FinnGus Keyboard kit
 
 ### Activities
 Here is a list of stuff we have planned. Doesn't mean it will actually happen but at least it's something
