@@ -28,12 +28,12 @@ Make sure your device is connected, and click "refresh". The program will automa
 
 *Note: 7 keys will be shown regardless if you have a 3-key, 5-key, or 7-key configuration. The extra keys will simply not work if they are not physically present.*
 
-**More information on VIAL can be found on [the offical Vial usage guide](https://get.vial.today/manual/)**
+**More information on VIAL can be found on [the official Vial usage guide](https://get.vial.today/manual/)**
 
 ![img](/assets/GB3/pikatea-macropad-gb3-vial.png)
 
 #### VIA
-Via compatible firmware and matching .json files are pre-compiled and available to download. [View and follow the firmmware update guide here](/DownloadsAndFiles/firmware-download-and-update-guide.html#download-firmware)
+Via compatible firmware and matching .json files are pre-compiled and available to download. [View and follow the firmware update guide here](/DownloadsAndFiles/firmware-download-and-update-guide.html#download-firmware)
 
 ![img](/assets/GB3/via.png)
 
