@@ -21,7 +21,7 @@ You might notice a few things are different for this stream!
 
 * **Mat/Place** - Chat will have the opportunity to create a deskmat while we stream one pixel at a time. This activity is called "Mat/Place" and is inspired by Reddit's "r/place". We will have it available while I'm sleeping, 1 hour at each 12pm CST, while I'm eating or otherwise taking a break, and after each raid for 15 mins. I'll be ordering the desk mat after it's done! If we fill it up completely, we will start another one that is twice the size!
 * **The Wheel** - Each subscriber will spin a virtual wheel on stream. On this wheel are different redeems. Most of them are just beeps but some are very special! (like the automatic confetti cannon). The Wheel is paused while I am away or sleeping.
-* **TTS** - You can enable TTS if you cheer at least 25 bits with your chat message. Notes on orders from Pikatea will also be TTS.
+* **TTS** - You can enable TTS if you cheer at least 25 bits with your chat message. 
 
 ### Goals and Prizes
 * 	11 subs 	-	Deskmat
