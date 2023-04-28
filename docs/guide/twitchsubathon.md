@@ -24,7 +24,7 @@ You might notice a few things are different for this stream!
 * **TTS** - You can enable TTS if you cheer at least 25 bits with your chat message. 
 
 ### Goals and Prizes
-* 	25 subs	-	Deskmat
+*	25 subs	-	Deskmat
 * 	36 subs	-	Show off gnar board
 * 	47 subs	-	KP69 Assembled (Blue Bonnets)
 * 	58 subs	-	GB4 Macropad
@@ -34,32 +34,32 @@ You might notice a few things are different for this stream!
 * 	102 subs	-	Sharpie a message on my arm
 * 	113 subs	-	The Richard Macropad
 * 	124 subs	-	Deskmat
-* 	144 subs	-	Start the Richard GB
-* 	164 subs	-	F Board Kit
-* 	184 subs	-	PBT Keycap Set
-* 	204 subs	-	Share a HUGE secret
-* 	224 subs	-	Deskmat
-* 	244 subs	-	GB4 Macropad
-* 	264 subs	-	Aluminum R26 Macropad
-* 	284 subs	-	Switch to scuffed mouse
-* 	304 subs	-	Scotteroo artisan
-* 	324 subs	-	Custom Tea Macropad
-* 	344 subs	-	GB4 Macropad
-* 	364 subs	-	Broken in Mx Blacks
-* 	384 subs	-	change into special outfit
-* 	404 subs	-	PBT Keycap Set
-* 	424 subs	-	GB4 Macropad
-* 	444 subs	-	Funky60 Lite Kit
-* 	464 subs	-	CK Stealth Deskmat
+* 	148 subs	-	Start the Richard GB
+* 	172 subs	-	F Board Kit
+* 	196 subs	-	PBT Keycap Set
+* 	220 subs	-	Share a HUGE secret
+* 	244 subs	-	Deskmat
+* 	268 subs	-	GB4 Macropad
+* 	292 subs	-	Aluminum R26 Macropad
+* 	316 subs	-	Switch to scuffed mouse
+* 	340 subs	-	Scotteroo artisan
+* 	364 subs	-	Custom Tea Macropad
+* 	388 subs	-	GB4 Macropad
+* 	412 subs	-	Broken in Mx Blacks
+* 	436 subs	-	change into special outfit
+* 	460 subs	-	PBT Keycap Set
 * 	484 subs	-	GB4 Macropad
-* 	504 subs	-	Deskmat
-* 	524 subs	-	KP69 Assembled (Blue Bonnets)
-* 	544 subs	-	TX Stabs
-* 	564 subs	-	PBT Keycap Set
-* 	594 subs	-	FinnGus Keyboard kit
-* 	624 subs	-	GMK Pixels Base + Decorations Kit
-* 	654 subs	-	Long Boi Keyboard Kit
-* 	684 subs	-	Custom Tea Macropad
+* 	508 subs	-	Funky60 Lite Kit
+* 	532 subs	-	CK Stealth Deskmat
+* 	556 subs	-	GB4 Macropad
+* 	580 subs	-	Deskmat
+* 	604 subs	-	KP69 Assembled (Blue Bonnets)
+* 	628 subs	-	TX Stabs
+* 	652 subs	-	PBT Keycap Set
+* 	676 subs	-	FinnGus Keyboard kit
+* 	700 subs	-	GMK Pixels Base + Decorations Kit
+* 	724 subs	-	Long Boi Keyboard Kit
+* 	748 subs	-	Custom Tea Macropad
 * 	(Every 25 subs after 250)	-	GB3/GB4 Macropad, Richard Macropad, or VIP
 
 ### Activities
