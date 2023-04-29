@@ -35,7 +35,7 @@ You might notice a few things are different for this stream!
 * 	113	subs -	The Richard Macropad
 * 	124	subs -	Deskmat
 * 	135	subs -	Start the Richard GB
-* 	150	subs -	F Board Kit
+* 	150	subs -	Funky60 Lit Kit
 * 	165	subs -	PBT Keycap Set
 * 	180	subs -	Share a HUGE secret
 * 	195	subs -	Deskmat
@@ -49,7 +49,7 @@ You might notice a few things are different for this stream!
 * 	315	subs -	change into special outfit
 * 	330	subs -	PBT Keycap Set
 * 	345	subs -	GB4 Macropad
-* 	360	subs -	Funky60 Lite Kit
+* 	360	subs -	F Board Keyboard Kit
 * 	375	subs -	CK Stealth Deskmat
 * 	390	subs -	GB4 Macropad
 * 	405	subs -	Deskmat
