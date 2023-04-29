@@ -12,7 +12,7 @@ Add time to the total amount I'll be streaming by doing the following
 * Gifted Subs add 3 mins
 * 100 bits add 30 seconds
 * Followers add 15 seconds
-* every $10 USD on the Pikatea store adds 1 min
+* every $10 USD on the Pikatea store adds 3 min
     The time from orders is automatically tracked but manually added periodically
 *soft cap of 72 hours.
 
