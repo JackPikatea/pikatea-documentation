@@ -6,7 +6,7 @@ If can edit this page [here](https://github.com/JackPikatea/pikatea-documentatio
 ### Time Amounts
 Add time to the total amount I'll be streaming by doing the following
 
-* T1 Subs adds 1.5 mins
+* T1 Subs adds 3 mins
 * T2 Subs adds 5 mins
 * T3 Subs adds 12 mins
 * Gifted Subs add 3 mins
