@@ -35,32 +35,32 @@ You might notice a few things are different for this stream!
 * 	113	subs -	The Richard Macropad
 * 	124	subs -	Deskmat
 * 	135	subs -	Start the Richard GB
-* 	150	subs -	Funky60 Lit Kit
-* 	165	subs -	PBT Keycap Set
-* 	180	subs -	Share a HUGE secret
-* 	195	subs -	Deskmat
-* 	210	subs -	GB4 Macropad
-* 	225	subs -	Aluminum R26 Macropad
-* 	240	subs -	Switch to scuffed mouse
-* 	255	subs -	Scotteroo artisan
-* 	270	subs -	Custom Tea Macropad
-* 	285	subs -	GB4 Macropad
-* 	300	subs -	Broken in Mx Blacks
-* 	315	subs -	change into special outfit
-* 	330	subs -	PBT Keycap Set
-* 	345	subs -	GB4 Macropad
-* 	360	subs -	F Board Keyboard Kit
-* 	375	subs -	CK Stealth Deskmat
-* 	390	subs -	GB4 Macropad
-* 	405	subs -	Deskmat
-* 	420	subs -	KP69 Assembled (Blue Bonnets)
-* 	435	subs -	TX Stabs
-* 	450	subs -	PBT Keycap Set
-* 	465	subs -	FinnGus Keyboard kit
-* 	480	subs -	GMK Pixels Base + Decorations Kit
-* 	495	subs -	Long Boi Keyboard Kit
-* 	510	subs -	Custom Tea Macropad
-* 	(Every 25 subs after 250)	subs -	GB3/GB4 Macropad, Richard Macropad, or VIP
+* 	146	subs -	Funky60 Lite Kit
+* 	157	subs -	PBT Keycap Set
+* 	168	subs -	Share a HUGE secret
+* 	184	subs -	Deskmat
+* 	200	subs -	GB4 Macropad
+* 	211	subs -	Aluminum R26 Macropad
+* 	222	subs -	Switch to scuffed mouse
+* 	233	subs -	Long Boi Keyboard Kit
+* 	244	subs -	Scotteroo artisan
+* 	255	subs -	Custom Tea Macropad
+* 	266	subs -	GB4 Macropad
+* 	277	subs -	Broken in Mx Blacks
+* 	288	subs -	GMK Pixels Base + Decorations Kit
+* 	299	subs -	change into special outfit
+* 	310	subs -	PBT Keycap Set
+* 	321	subs -	GB4 Macropad
+* 	332	subs -	F Board Kit
+* 	343	subs -	CK Stealth Deskmat
+* 	354	subs -	GB4 Macropad
+* 	365	subs -	Deskmat
+* 	376	subs -	KP69 Assembled (Blue Bonnets)
+* 	387	subs -	TX Stabs
+* 	398	subs -	PBT Keycap Set
+* 	409	subs -	FinnGus Keyboard kit
+* 	420	subs -	Custom Tea Macropad
+* 	(Every 20 subs after 250)	subs -	GB3/GB4 Macropad, Richard Macropad, or VIP
 
 ### Activities
 Here is a list of stuff we have planned. Doesn't mean it will actually happen but at least it's something
