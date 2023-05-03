@@ -44,7 +44,7 @@ Use the screws that were included in the kit for mounting to attach your macropa
 ## Prepare the Circuit Board
 The base circuit board is used for each of the 3 key, 5 key, and 7 key configurations.
 
-Plug in the PCB and verify all the LEDs work. Do this before snapping the board to the correct size.
+Plug in the PCB and verify all the LEDs work. Do this before snipping the board to the correct size.
 
 ![](/assets/GB4/PXL_20220929_023937123.jpg)
 
