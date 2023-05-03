@@ -48,11 +48,10 @@ Plug in the PCB and verify all the LEDs work. Do this before snapping the board 
 
 ![](/assets/GB4/PXL_20220929_023937123.jpg)
 
-If you have a 3 Key or 5 Key configuration, you'll need to break the PCB along the guided perforations. **Be careful not to flex or bend the component part of the PCB.** Place the PCB on a hard flat surface with a clean edge and press firmly down with your thumb. While pressing firmly in to the flat surface, snap the remaining/extra PCB you will not be using with your other hand.
+If you have a 3 Key or 5 Key configuration, you'll need to cut the PCB along the guided perforations. Use a pair of snips or wire cutters to cut the keys you need off the pcb.
 
-![](/assets/GB4/PXL_20220929_024003685.jpg)
-![](/assets/GB4/PXL_20220929_024109555.jpg)
-![](/assets/GB4/PXL_20220929_024123646.jpg)
+![](/assets/GB4/PXL_20230317_000638147.jpg)
+![](/assets/GB4/PXL_20230317_000639200.jpg)
 
 Clean up the edges of the PCB with scissors, sandpaper, and/or flush cuts so that the metal bits on the end do not touch each other causing an unexpected connection
 
