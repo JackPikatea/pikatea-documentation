@@ -148,7 +148,7 @@ module.exports = {
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/guide/twitchsubathon', 'Twitch Stream Commands and Guide'],
+          ['/guide/twitch', 'Twitch Stream Commands and Guide'],
         ]
       }
     ]
