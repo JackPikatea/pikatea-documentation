@@ -20,7 +20,7 @@ More mounting tape can be bought on our store in sets of 4.
 
 ## Programming and Usage
 #### Vial
-Vial compatible firmware is already loaded onto your macropad. Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version (Currently Beta 0.5.2).
+Vial compatible firmware is already loaded onto your macropad. Vial is an open source program that makes it easy to configure the device with a simple interface. To get started, download Vial from the [official website here](https://get.Vial.today). Download and install the latest version.
 
 After Vial is installed, open the program.
 
@@ -50,7 +50,7 @@ The Pikatea Macropad is compatible with QMK and VIA firmware.
 ## Troubleshooting
 Vial isn't detecting the device!
 * Make sure the USB cable is plugged in all the way. (Just because you see the LEDs going doesn't mean the data pins are connected)
-* Make sure you have the correct version of Vial installed for the firmware (in this case it's 0.6 beta). If you are on linux, [make sure to follow the udev portion of the install](https://get.Vial.today)
+* Make sure you have the latest version of Vial installed. (the web version has issues sometimes) If you are on linux, [make sure to follow the udev portion of the install](https://get.Vial.today)
 * reflash the firmware
 
 Sometimes the device doesn't work as expected. If this is the case, we can do a replacement/repair up to 3 months after receiving your device.
