@@ -26,7 +26,7 @@ You will need everything that comes with the kit as well as a few other items. T
 * Pliers, adjustable wrench or a 10mm socket
 * Extra cardboard. We recommend using the box your kit came in. 
 
-Now that you have everything you need, lets get started!
+Now that you have everything you need, let's get started!
 
 ## Install the Mechanical Keyboard Switches
 The mechanical keyboard switches need to be installed in a specific orientation. The LED slots face south or downwards when looking at the plate from the front. Make sure they snap into place and are flush with the top plate. 
