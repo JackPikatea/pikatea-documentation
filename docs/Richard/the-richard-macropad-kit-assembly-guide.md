@@ -68,6 +68,33 @@ Solder the MCU to the headers as shown below. This is the last of the critical o
 
 ## Install the Rotary Encoders
 
-Next up is the rotary encoders. Bend the set of 2 pins slightly as shown. 
+Next up is the rotary encoders. Bend the set of 2 pins slightly as shown. Insert both encoders into the holes with the set of 2 pins facing outwards. hand tighten the washer and nut to hold the encoder in place for soldering. Don't tighten this with any tools just yet. The washer has a slight bend in it so be careful to place the raised part in the center facing towards the front of the macropad. Use the pictures shown to ensure the correct orientation. 
 
+![](image of stuff)
+
+after the rotary encoder is in place, it is time to solder it. The 2 bent pins on the rotary encoder are resting just above the pads were they need to be soldered to.The 3 shorter pins on the rotary encoder are placed just to the side of the pads were they need to be soldered to. **They do not go through the small holes.** Take a look at the picture shown from a similar product for a better explanation.
+
+![](/assets/GB3/gb3-assembly-18-encoder-solder.jpg)
+
+Tighten the encoder with a wrench, pliers or 10mm socket. Do not over tighten. Turning the nut about 1/4 of a full turn after hand tightening should be more than fine.
+
+## Attach the Knobs
+
+Use the Allen wrench included with the kit to bring the set screw inside the knob so that it barely pokes out. Place the knob on the encoder shaft so that the set screw interfaces with the flat part of the encoder shaft. After it is in place, tighten the set screw. **Be careful not to over tighten with the 3D printed knobs or it will strip. Error on the side of too loose since it can be tightened later.**. Do this for both knobs.
+
+![](/assets/GB3/gb3-assembly-20-knob.jpg)
+![](/assets/GB3/gb3-assembly-21-knob.jpg)
+
+## Add the Keycaps
+Add the keycaps to your macropad and click the switches a bunch because it's fun and satisfying.
+
+## Add The Backplate
+Install the acrylic or 3D printed backplate using the M3x8mm button head screws. Get each screw started before tightening them down. **Error on the side of too loose (the acrylic can crack!)**. 
+
+![](image of backplate)
+
+Add the rubber feet if you'd like. I prefer to go without!
+
+## Done
+That's it! You've built The Richard Macropad. Head over to the [user guide](/Richard/#programming-and-usage) for instructions on programming and usage
 
