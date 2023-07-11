@@ -33,7 +33,7 @@ Now that oyu have everything you need, let's get started!
 
 ## Solder the Headers
 
-The first step is to solder the headers to the PCB. ONLY the headers. DO NOT SOLDER THE MCU. Place the headers into the PCB as shown and then add the MCU to stabilize them. Wrap a rubber band around the assembly to hold everything in place.
+The first step is to solder the headers to the PCB. ONLY the headers. <div style="background-color: yellow; color: black;">DO NOT SOLDER THE MCU.</div> Place the headers into the PCB as shown and then add the MCU to stabilize them. Wrap a rubber band around the assembly to hold everything in place.
 
 ![](/assets/Richard/PXL_20230710_013040690.jpg)
 ![](/assets/Richard/PXL_20230710_013057459.jpg)
