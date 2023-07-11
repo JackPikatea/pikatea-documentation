@@ -6,7 +6,7 @@ Congrats on receiving your phallic shaped macropad kit! Let's put it together, t
 
 You can watch a short video from one of the streams we did which outlines most of the information but please follow along with the written guide as well.
 
-(insert embedded youtube video here)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wGTiLKsTsus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What's in the Box
 * (1) 3D Printed Case
