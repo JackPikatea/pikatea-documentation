@@ -6,6 +6,9 @@ This guide will walk you through the process of upgrading or flashing firmware o
 ## Download Firmware
 The firmware download page contains updated firmware files for all Pikatea products. Download the firmware you'd like (.hex file) and remember where it is downloaded.
 
+#### The Richard Macropad
+- [Vial (beta 0.6) Compatible Firmware](https://www.mediafire.com/file/dn4e8o0ljl8vwjo/pikatea_the_richard_v2_vial.uf2/file)
+
 #### Pikatea Keyboard KP69
 - [Vial (beta 0.6) Compatible Firmware](https://www.mediafire.com/file/vm0r0ztqo1ub2dy/pikatea_pikatea_keyboard_kp69_vial.hex/file)
 - [Vial (beta 0.6) Midi Compatible Firmware](https://www.mediafire.com/file/s5qtyjmgsb1h371/pikatea_pikatea_keyboard_kp69_midi.hex/file)
