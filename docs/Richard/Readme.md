@@ -1,6 +1,6 @@
 # The Richard Macropad User Guide
 
-Congrats on receiving your phallic shaped macropad. This guide will walk your though how to use it. [You can find the assembly guide here if you've purchased a kit.]()
+Congrats on receiving your phallic shaped macropad. This guide will walk your though how to use it. [You can find the assembly guide here if you've purchased a kit.](/Richard/the-richard-macropad-kit-assembly-guide.html)
 
 ## Bumpons
 
