@@ -58,7 +58,7 @@ Solder the PCB and headers to the switches. Be careful not to burn the case with
 
 ## Test the MCU
 
-Download the latest firmware file (.uf2) from the [Firmware Downloads Page](). Download and install the latest version of Vial from [https://get.vial.today](https://get.vial.today). While holding the boot button on the MCU, plug it into a computer. There should be a new directory that shows up on the computer. Copy the .uf2 file to this directory. The MCU should automatically disconnect but unplug and re-plug in the MCU anyways. Open Vial and verify that you can see "The Richard Macropad" at the top before continuing. Contact us through support or Discord before continuing if you are encountering issues.
+Download the [latest firmware](https://www.mediafire.com/file/dn4e8o0ljl8vwjo/pikatea_the_richard_v2_vial.uf2/file) file (.uf2).  Download and install the latest version of Vial from [https://get.vial.today](https://get.vial.today). While holding the boot button on the MCU, plug it into a computer. There should be a new directory that shows up on the computer. Copy the .uf2 file to this directory. The MCU should automatically disconnect but unplug and re-plug in the MCU anyways. Open Vial and verify that you can see "The Richard Macropad" at the top before continuing. Contact us through support or Discord before continuing if you are encountering issues.
 
 ![](/assets/Richard/PXL_20230710_013710727.jpg)
 ![](/assets/Richard/PXL_20230710_013731638.jpg)
