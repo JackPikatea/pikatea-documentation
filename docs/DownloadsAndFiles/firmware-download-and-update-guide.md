@@ -112,6 +112,6 @@ avrdude -p atmega32u4 -c avr109 -P /dev/ttyACM0 -U flash:w:macropad1x5_vial.hex:
 Make sure to enter the correct port and path to the .hex on your machine. Prepending sudo or adjusting the udev rules may be required. You only need to flash the firmware once and can use Vial from then on.
 
 ### Firmware Repo
-Most of our firmware is compiled with Vial-QMK. Our fork is located here [https://github.com/JackPikatea/vial-qmk](https://github.com/JackPikatea/vial-qmk). It is backwards compatible with QMK.
+Most of our firmware is compiled with Vial-QMK. Our fork is located here [https://github.com/PikateaCompany/vial-qmk](https://github.com/PikateaCompany/vial-qmk). It is backwards compatible with QMK.
 
 <Footer/>

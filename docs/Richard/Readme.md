@@ -26,7 +26,7 @@ The Pikatea Macropad is compatible with QMK and VIAL firmware.
 
 [Pikatea QMK Fork](https://github.com/JackPikatea/qmk_firmware) - Use this fork to create your own firmware powered by QMK and/or VIA
 
-[Pikatea VIAL-QMK Fork](https://github.com/JackPikatea/vial-qmk) - Use this fork to create your own firmware powered by Vial
+[Pikatea VIAL-QMK Fork](https://github.com/PikateaCompany/vial-qmk) - Use this fork to create your own firmware powered by Vial
 
 ## Troubleshooting
 Vial isn't detecting the device!

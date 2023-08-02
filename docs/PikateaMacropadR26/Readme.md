@@ -33,7 +33,7 @@ The Pikatea Macropad is compatible with QMK and VIA firmware.
 
 [Pikatea QMK Fork](https://github.com/JackPikatea/qmk_firmware) - Use this fork to create your own firmware powered by QMK and/or VIA
 
-[Pikatea VIAL-QMK Fork](https://github.com/JackPikatea/vial-qmk) - Use this fork to create your own firmware powered by Vial
+[Pikatea VIAL-QMK Fork](https://github.com/PikateaCompany/vial-qmk) - Use this fork to create your own firmware powered by Vial
 
 ## Important Info
 **The case is printed in PLA. It can deform if left on an uneven surface in a hot environment for too long. Do not leave your R26 in a HOT car for too long. Any temperature that is uncomfortable for an extended period of time would be too hot for too long. Just pretend it's a person/cat**
