@@ -24,6 +24,7 @@ If you'd like to help edit this page with any information you'd like to add, fee
 -   There are other opportunities to beep, but you'll have to find that out yourself!
 
 ### User Commands
+- !advice - prints out advice
 - !bethany - Plays a song for bethany
 - !commands - linkS to this website
 - !discord - discord link (https://www.pikatea.com/discord)
