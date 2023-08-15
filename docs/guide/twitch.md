@@ -24,10 +24,8 @@ If you'd like to help edit this page with any information you'd like to add, fee
 -   There are other opportunities to beep, but you'll have to find that out yourself!
 
 ### User Commands
-- !beeps - shows how many beeps are left
 - !bethany - Plays a song for bethany
-- !clip - create a 30 second clip
-- !commands - link to this website
+- !commands - linkS to this website
 - !discord - discord link (https://www.pikatea.com/discord)
 - !enter - enter the giveaway when we run a giveaway
 - !guide/guides - link to the guides page (https://www.pikatea.com/guides)
@@ -39,7 +37,7 @@ If you'd like to help edit this page with any information you'd like to add, fee
 - !null - plays the null pointer error overlay
 - !print [message] - prints out [message] on a receipt
 - !printable - returns receipt printable characters
-- !resetcamera - resets the facecam if it looses tracking
+- !resetcamera - resets the facecam if it looses tracking (NOT WORKING)
 - !rules - view giveaway rules
 - !shop/!site/!website - https://www.pikatea.com
 - !side - switch the camera to the side view if the current scene is the top view
@@ -49,20 +47,16 @@ If you'd like to help edit this page with any information you'd like to add, fee
 - !test - test command
 - !top - switch the camera to the top view if the current scene is the side view
 
-- "!build": "a keyboard"
-- "!funky": "funky60! https://www.pikatea.com/products/funky60"
-- "!captea": "who is that imposter?"
-- "!capptea": "https://clips.twitch.tv/ShakingFairArmadilloTinyFace-MmKP9fbOdAhuvvUF"
-- "!kim": "GlitchLit GlitchLit GlitchLit OMG!!!!!! CurseLit CurseLit CurseLit IT'S CELEBRITY STREAMER @KIMLYNNWIN! CurseLit CurseLit CurseLit twitch.tv/KIMLYNNWIN GlitchLit GlitchLit GlitchLit GlitchLit GlitchLit GlitchLit"
-- "!funky60": "https://www.pikatea.com/products/funky60"
-- "!keyboard": "Funky60 protoV2. View the soon to be GB page at https://www.pikatea.com/products/funky60"
-- "!gb": "https://www.pikatea.com/products/funky60 The Funky60 GB starts Feb 16th!"
-- "!bandaid": "Knives are sharp, be careful chat"
-- "!chad": "Chad is a nice guy, be more like Chad."
+- !build - a keyboard
+- !funky - funky60! https://www.pikatea.com/products/funky60
+- !captea - who is that imposter?
+- !capptea - https://clips.twitch.tv/ShakingFairArmadilloTinyFace-MmKP9fbOdAhuvvUF
+- !kim - GlitchLit GlitchLit GlitchLit OMG!!!!!! CurseLit CurseLit CurseLit IT'S CELEBRITY STREAMER @KIMLYNNWIN! CurseLit CurseLit CurseLit twitch.tv/KIMLYNNWIN GlitchLit GlitchLit GlitchLit GlitchLit GlitchLit GlitchLit
+- !keyboard - my current keyboard
+- !bandaid - Knives are sharp, be careful chat
+- !chad - Chad is a nice guy, be more like Chad.
 
 ### More Channel Point Reward Info
-- Beep Beep - When available, my print server beeps uniquely to your username. Beeps are limited and are gained from subs, follows and raids
-- Ticket + Beep Beep - Grab your ticket when joining the stream as a way to say hi. 
 - Total Receipts Printed - doesn't do anything but the cost shows the amount of recipets we have printed
 
 ### Moderator Commands
