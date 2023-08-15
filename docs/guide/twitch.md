@@ -56,6 +56,7 @@ If you'd like to help edit this page with any information you'd like to add, fee
 - !keyboard - my current keyboard
 - !bandaid - Knives are sharp, be careful chat
 - !chad - Chad is a nice guy, be more like Chad.
+- !kp69 - https://www.pikatea.com/products/pikatea-keyboard-kp69
 
 ### More Channel Point Reward Info
 - Total Receipts Printed - doesn't do anything but the cost shows the amount of recipets we have printed
