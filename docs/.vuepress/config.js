@@ -107,6 +107,7 @@ module.exports = {
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
+          ['/SketchySketchy/', 'Sketchy Sketchy'],
           ['/Richard/the-richard-macropad-kit-assembly-guide', 'The Richard Macropad'],
           ['/PikateaKeyboardKP69/kp69-kit-assembly-guide', 'Pikatea Keyboard KP69'],
           ['/PikateaMacropadR26/pikatea-macropad-r26-led-desktop-kit-assembly-guide', 'Pikatea Macropad R26'],
