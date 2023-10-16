@@ -1,10 +1,12 @@
 # Sketchy Sketchy (with 3D printed case) Build Guide Supplement
 
-This build guide largely follows the [original build guide for the acrylic case written by DCPEDIT](https://github.com/dcpedit/sketchy-sketchy/tree/main/case). Below are notable changes and differences that you should be aware while you follow that original guide. If you've got questions, just reach out and ask.
+This build guide largely follows the [original build guide for the acrylic case written by DCPEDIT](https://github.com/dcpedit/sketchy-sketchy/tree/main/case). <div style="background-color: yellow; color: black;">Below are notable changes and differences that you should be aware while you follow that original guide.</div>
+
+ If you've got questions, just reach out and ask.
 
 ## MCU orientation and programming
 We decided to use an RP2040 based board for more memory called the "Elite Pi". This is how it is orientated on the PCB. Notice the "Elite Pi" artwork is facing towards you. It's recommended to program the MCU before soldering it to the circuit board. 
-To program, plug in the "Elite Pi" MCU and copy this file into the drive that shows up. Download and install [Vial](http://get.vial.today) and verify the keyboard shows up in the program before moving on.
+To program, plug in the "Elite Pi" MCU and copy this [firmware file](https://www.mediafire.com/file_premium/euq50ppy7a1j7uq/pikatea_sketchy_vial.uf2/file) into the drive that shows up. Download and install [Vial](http://get.vial.today) and verify the keyboard shows up in the program before moving on.
 
 ![](/assets/SketchySketchy/PXL_20231014_145556977.jpg)
 
