@@ -1,13 +1,11 @@
 
 # Pikatea Macropad FK1 Assembly Guide
 
+<div style="background-color: yellow; color: black;">This is the "OLD" guide for the Arduino Pro Micro microcontroller. If you have ordered your FK1 kit before December 7th 2023 or your microcontroller is blue, this is the guide for you to follow.</div>
+
 Congratulations on receiving your Pikatea Macropad FK1. This guide will walk you through the assembly process. Please make sure the read through the entire thing before getting started. Please email support or ask on Discord if you have any questions.
 
-
-
-<div style="background-color: yellow; color: black;">We have updated the microcontroller from what is shown in the video. Please pay special attention to photos provided in this guide. If you have purchased an FK1 kit before December 7th 2023, <a href="/PikateaMacropadFK1/pikatea-macropad-fk1-kit-assembly-guide-pro-micro.html">please follow this guide instead.</a></div>
-
-Here is a video for those that prefer it. 
+Here is a video for those that prefer it.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/i-vZ7Uzu6m4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -16,7 +14,7 @@ Here is a video for those that prefer it.
 * (1) Top plate
 * (1) Circuit board
 * (1) Angled headers
-* (1) MCU (Microcontroller)
+* (1) Microcontroller
 * (1) Rotary encoder with hardware (washer and nut)
 * (1) 1/16th inch Allen wrench
 * (2) Screws for mounting
@@ -49,13 +47,12 @@ Use the screws that were included in the kit for mounting to attach your macropa
 ![](/assets/FK1/fk1-assembly-5-box.jpg)
 ![](/assets/FK1/fk1-assembly-4-box-warning.jpg)
 
-## **Flash the MCU**
+## **Flash the Pro Micro**
 
-You will want to flash the MCU before any soldering to make sure that it works. 
+You will want to flash the Pro Micro before any soldering to make sure that it works. Plug it into your computer using a USB-C cable.
 
-Download the [latest firmware](https://www.mediafire.com/file_premium/mx4irnd9bgwkmgh/pikatea_macropad_fk1_rp2040_vial.uf2/file) file (.uf2).  Download and install the latest version of Vial from [https://get.vial.today](https://get.vial.today). While holding the boot button on the MCU, plug it into a computer. There should be a new directory that shows up on the computer. Copy the .uf2 file to this directory. The MCU should automatically disconnect but unplug and re-plug in the MCU anyways. Open Vial and verify that you can see "Pikatea Macropad FK1" at the top before continuing. Contact us through support or Discord before continuing if you are encountering issues.
-
-If your MCU is blue, and/or you ordered your kit before December 7th 2023, [please follow this guide instead](/PikateaMacropadFK1/pikatea-macropad-fk1-kit-assembly-guide-pro-micro.html)
+We already have a [generic guide for flashing firmware](/DownloadsAndFiles/firmware-download-and-update-guide.html) which is here. Follow that guide and use the FK1 firmware which can be downloaded from that page. Since there is no reset button on the Pro Micro, reset the device by connecting the pins RESET and GND with a metal object (a bent paper clip works well). [Download and install Vial](https://get.vial.today) and make sure your computer recognizes the device as a FK1 before moving on.
+![](/assets/FinnGus/DSC08955.JPG)
 
 ## Prepare the Circuit Board
 
@@ -67,10 +64,11 @@ Start with the angled header. Place the angled header onto the circuit board as 
 ![](/assets/FK1/fk1-assembly-9-angled-header.jpg)
 ![](/assets/FK1/fk1-assembly-10-angled-header.jpg)
 
-Next, solder the Pro Micro onto the angled header. Be careful to get the orientation correct. Like before, start with the middle pin and reflow it and adjust the fit if necessary.
+Next, solder the Pro Micro onto the angled header. Be careful to get the orintation correct. Like before, start with the middle pin and reflow it and adjust the fit if necessary.
 
-![](/assets/FK1/IMG_0513.jpg)
-![](/assets/FK1/IMG_0516.jpg)
+![](/assets/FK1/fk1-assembly-8-pcb.jpg)
+![](/assets/FK1/fk1-assembly-7-pcb.jpg)
+![](/assets/FK1/fk1-assembly-6-pcb.jpg)
 
 
 ## Solder the PCB to the switches
