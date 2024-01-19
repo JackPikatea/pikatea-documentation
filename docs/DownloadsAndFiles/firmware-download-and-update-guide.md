@@ -6,7 +6,7 @@ This guide will walk you through the process of upgrading or flashing firmware o
 ## Download Firmware
 The firmware download page contains updated firmware files for all Pikatea products. Download the firmware you'd like (.hex file) and remember where it is downloaded.
 
-#### Pikatea KP17 Macro-Numpad
+#### Pikatea Macro-Numpad KP17
 - [Vial (beta 0.7.1) Compatible Firmware (Numpad)](https://www.mediafire.com/file_premium/qxy7g1rlj6fvd7h/pikatea_kp17_pikatea_macropad_kp17_smd_vial-numpad.uf2/file)
 - [Vial (beta 0.7.1) Compatible Firmware (Macropad)](https://www.mediafire.com/file_premium/kvwfioo0w313nen/pikatea_kp17_pikatea_macropad_kp17_smd_vial-macropad.uf2/file)
 
