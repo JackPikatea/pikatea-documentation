@@ -25,12 +25,8 @@ These files are released under [Attribution-NonCommercial 4.0 International Linc
 #### GB3, GB4 and FK1
 * 3 key, 5 key, and 7 key plates ([STLs](https://www.mediafire.com/file/7tducy6w4nrtfgn/Pikatea_GB3_and_FK1_Plate_STLs.zip/file))
 
-#### KP69 (TO BE FINALIZED AND ADDED)
-* Brackets for 2mm silicone gasket mount (STLs) (CAD)
-* Brackets for modified top mount without gaskets (STLs) (CAD)
-* Generic flat case (STLs) (CAD)
-* Shard case (STLs) (CAD)
-* Cheese case with Win key blockers (STLs) (CAD)
+#### KP69
+* Cases and Brackets ([STLs](https://www.mediafire.com/file_premium/g3fm99z76qxccje/KP69_Design_STLs.zip/file))
 
 If you need custom made cases with specific blockers, We can do that but it will cost $15 USD.
 
