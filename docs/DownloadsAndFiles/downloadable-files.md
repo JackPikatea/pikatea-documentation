@@ -32,7 +32,8 @@ These files are released under [Attribution-NonCommercial 4.0 International Linc
 #### The Richard
 * Case ([STLs](https://www.mediafire.com/file_premium/b2qlj2t8hw9ehqj/Richard_STLs.zip/file))
 
-
+#### KP17
+* Cases ([STLs](https://www.mediafire.com/file_premium/81eq000r59r10sy/KP17_STLs.zip/file))
 
 #### R26
 * (Round 1) Shard and Flat cases with brackets ([STLS](https://www.mediafire.com/file/7jjl3shtwmsfsez/Pikatea_R26_R1_STLs.zip/file)) and ([CAD](https://www.mediafire.com/file/2ciq6dtbm1a8ht8/Pikatea_R26_R1_CAD.zip/file))
