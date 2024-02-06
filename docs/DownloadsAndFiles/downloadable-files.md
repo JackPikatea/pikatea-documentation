@@ -28,6 +28,7 @@ These files are released under [Attribution-NonCommercial 4.0 International Linc
 #### KP69
 * Cases and Brackets ([STLs](https://www.mediafire.com/file_premium/g3fm99z76qxccje/KP69_Design_STLs.zip/file))
 * If you need custom made cases with specific blockers, We can do that but it will cost $15 USD.
+* Plate File ([DXF](https://www.mediafire.com/file_premium/wni4vk2p8hm1b66/Pikatea_KP69_FR4_Plate.dxf/file))
 
 #### The Richard
 * Case ([STLs](https://www.mediafire.com/file_premium/b2qlj2t8hw9ehqj/Richard_STLs.zip/file))
