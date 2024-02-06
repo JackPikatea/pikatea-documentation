@@ -3,16 +3,19 @@
 Congrats on receiving your phallic shaped macropad kit! Let's put it together, together! Please email support or ask on Discord if you have any questions. 
 
 <div style="background-color: yellow; color: black;">It is VERY VERY important that you follow the correct order of operations. It is extremely difficult/impossible to assemble your macropad if you solder the components in the wrong order.</div>
+<br>
 
-You can watch a short video from one of the streams we did which outlines most of the information but please follow along with the written guide as well.
+<div style="background-color: yellow; color: black;">If you purchased your macropad before January 2024, <a href="/Richard/the-richard-macropad-v1-kit-assembly-guide.html">follow the Version 1 guide here</a></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wGTiLKsTsus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- You can watch a short video from one of the streams we did which outlines most of the information but please follow along with the written guide as well.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wGTiLKsTsus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## What's in the Box
 * (1) 3D Printed Case
 * (1) Printed or Acrylic Backplate
 * (1) PCB
-* (1) RP2040-mini with headers
+* (1) RP2040 Pro Micro with headers
 * (3) M3x8mm Button Head Screws
 * (2) Encoders with hardware
 * (2) Knobs (if included in order)
@@ -31,45 +34,34 @@ Now that oyu have everything you need, let's get started!
 
 <div style="background-color: yellow; color: black;">AGAIN, it's absolutely critical that you do these steps in order</div>
 
-## Solder the Headers
+## Solder the Kailh Hotswap Sockets
 
-The first step is to solder the headers to the PCB. ONLY the headers. <div style="background-color: yellow; color: black;">DO NOT SOLDER THE MCU.</div> Place the headers into the PCB as shown and then add the MCU to stabilize them. Wrap a rubber band around the assembly to hold everything in place.
+![](/assets/Richard/PXL_20240120_194053044.jpg)
 
-![](/assets/Richard/PXL_20230710_013040690.jpg)
-![](/assets/Richard/PXL_20230710_013057459.jpg)
-![](/assets/Richard/PXL_20230710_013124243.jpg)
+## Test/Flash the MCU
 
-Solder only the headers to the PCB so that you end up with the following. DO NOT SOLDER THE MCU TO THE HEADERS YET
-
-![](/assets/Richard/PXL_20230710_013300382.jpg)
-
-## Install the Switches
-
-Install the switches into the case in the following orientation. 
-
-![](/assets/Richard/PXL_20230710_013506211.jpg)
-
-## Solder the Switches
-
-Solder the PCB and headers to the switches. Be careful not to burn the case with the soldering iron. The *tip* switch will be covered by the MCU so if you ever plan the remove or exchanges these switches, it may be worth while to socket the switch holes. Verify the *tip* switch is soldered well because you will never have access to it after you add the MCU.
-
-![](/assets/Richard/PXL_20230710_013529626.jpg)
-![](/assets/Richard/PXL_20230710_013633530.jpg)
-
-## Test the MCU
-
-Download the [latest firmware](https://www.mediafire.com/file/dn4e8o0ljl8vwjo/pikatea_the_richard_v2_vial.uf2/file) file (.uf2).  Download and install the latest version of Vial from [https://get.vial.today](https://get.vial.today). While holding the boot button on the MCU, plug it into a computer. There should be a new directory that shows up on the computer. Copy the .uf2 file to this directory. The MCU should automatically disconnect but unplug and re-plug in the MCU anyways. Open Vial and verify that you can see "The Richard Macropad" at the top before continuing. Contact us through support or Discord before continuing if you are encountering issues.
-
-![](/assets/Richard/PXL_20230710_013710727.jpg)
-![](/assets/Richard/PXL_20230710_013731638.jpg)
+Download the [latest firmware](https://www.mediafire.com/file_premium/jixgtmup0igltj4/pikatea_the_richard_v4_vial.uf2/file) file (.uf2).  Download and install the latest version of Vial from [https://get.vial.today](https://get.vial.today). While holding the boot button on the MCU, plug it into a computer. There should be a new directory that shows up on the computer. Copy the .uf2 file to this directory. The MCU should automatically disconnect but unplug and re-plug in the MCU anyways. Open Vial and verify that you can see "The Richard Macropad" at the top before continuing. Contact us through support or Discord before continuing if you are encountering issues.
 
 ## Solder the MCU
 
-Solder the MCU to the headers as shown below. This is the last of the critical order steps. Solder each pin being careful not to burn the case with your iron.* Flux core solder helps a lot with this.
+Place the headers into the PCB as shown and then add the MCU to stabilize them. Use snips to cut up the included headers the the right sizes. Wrap a rubber band around the assembly to hold everything in place. Solder it all together.
 
-*you don't actually need to solder each pins. Just the ones in the picture.
+![](/assets/Richard/PXL_20240120_194159953.jpg)
+![](/assets/Richard/PXL_20240120_194211573.jpg)
+![](/assets/Richard/PXL_20240120_194321317.jpg)
+![](/assets/Richard/PXL_20240120_194325611.jpg)
 
-![](/assets/Richard/PXL_20230710_013924498.jpg)
+## Install the Switches
+
+Install the switches into the case in the following orientation. Make sure all the switch pins are straight and not bent or twisted
+
+![](/assets/Richard/PXL_20230710_013506211.jpg)
+
+## Combine Assembly
+
+Combine the PCB and the switches/case together. 
+
+![](/assets/Richard/Insert image)
 
 ## Install the Rotary Encoders
 
@@ -78,7 +70,7 @@ Next up is the rotary encoders. Bend the set of 2 pins slightly as shown. Insert
 ![](/assets/Richard/PXL_20230710_014424380.jpg)
 ![](/assets/Richard/PXL_20230710_014401763.jpg)
 
-after the rotary encoder is in place, it is time to solder it. The 2 bent pins on the rotary encoder are resting just above the pads were they need to be soldered to.The 3 shorter pins on the rotary encoder are placed just to the side of the pads were they need to be soldered to. **They do not go through the small holes.** Take a look at the picture shown from a similar product for a better explanation.
+After the rotary encoder is in place, it is time to solder it. The 2 bent pins on the rotary encoder are resting just above the pads were they need to be soldered to. The 3 shorter pins on the rotary encoder are placed just to the side of the pads where they need to be soldered to. **They do not go through the small holes.** Take a look at the picture shown from a similar product for a better explanation.
 
 ![](/assets/Richard/PXL_20230710_014630039.jpg)
 ![](/assets/GB3/gb3-assembly-18-encoder-solder.jpg)
@@ -97,13 +89,11 @@ Use the Allen wrench included with the kit to bring the set screw inside the kno
 Add the keycaps to your macropad and click the switches a bunch because it's fun and satisfying.
 
 ## Add The Backplate
-Install the acrylic or 3D printed backplate using the M3x8mm button head screws. Get each screw started before tightening them down. **Error on the side of too loose (the acrylic can crack!)**. 
+Install the 3D printed backplate using the M3x10mm socket head screws. Get each screw started before tightening them down. **Error on the side of too loose (the 3D print can crack or slip!)**. 
 
-![](/assets/Richard/PXL_20230710_014847102.jpg)
-![](/assets/Richard/PXL_20230710_014946986.jpg)
-![](/assets/Richard/PXL_20230710_015208893.jpg)
-
-Add the rubber feet if you'd like. I prefer to go without!
+![](/assets/Richard/Insert image)
+![](/assets/Richard/Insert image)
+![](/assets/Richard/Insert image)
 
 ## Done
 That's it! You've built The Richard Macropad. Head over to the [user guide](/Richard/#programming-and-usage) for instructions on programming and usage
