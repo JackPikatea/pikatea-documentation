@@ -77,47 +77,32 @@ module.exports = {
     ],
     sidebar: [
       {
-        title: 'Using Your Device',   // required
+        title: 'Pikatea Guides',   // required
         collapsable: false, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
           //getting started should contain an introduction and an "index" for other guides
           ['/', 'Getting Started'],
-          // device specific guides here with a template at the top or bottom of each page
-          
-          ['/PikateaKeyboardKP69/', 'Pikatea Keyboard KP69'],
-          ['/PikateaMacropadGB4/', 'Pikatea Macropad GB4'],
-          ['/Richard/', 'The Richard Macropad'],
-          ['/PikateaMacropadGB3/', 'Pikatea Macropad GB3'],
-          ['/Funky60/', 'Funky60'],
-          // link to the assembly guide at the top of this page since every customer needs it.
-          ['/PikateaMacropadR26/', 'Pikatea Macropad R26 Desktop'],
-          // link to the assembly guide at the top of this page since every customer needs it.
-          ['/FinnGus/', 'FinnGus Keyboard Kit'],
-          ['/PikateaMacropadFK1/', 'Pikatea Macropad FK1'],
-          ['/PikateaMacropadCustom/', 'Pikatea Macropad Custom'],
-          ['/PikateaMacropadGB2/', 'Pikatea Macropad GB2'],
-          ['/Macropad1x5/', 'Macropad1x5']
-          // ['contribute','Suggest Changes'],
-          // ['Need']
+          ['/programming', 'Programming/Software'],
+          ['/guide/twitch', 'Twitch Stream Commands and Guide']
         ]
       },
       {
-        title: 'Build Guides',   // required
+        title: 'Product Assembly Guides',   // required
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/SketchySketchy/', 'Sketchy Sketchy'],
-          ['/Richard/the-richard-macropad-kit-assembly-guide', 'The Richard Macropad'],
-          ['/PikateaKeyboardKP69/kp69-kit-assembly-guide', 'Pikatea Keyboard KP69'],
-          ['/PikateaMacropadR26/pikatea-macropad-r26-led-desktop-kit-assembly-guide', 'Pikatea Macropad R26'],
-          ['/PikateaMacropadFK1/pikatea-macropad-fk1-kit-assembly-guide', 'Pikatea Macropad FK1'],
-          ['/PikateaMacropadGB4/pikatea-macropad-gb4-kit-assembly-guide', 'Pikatea Macropad GB4'],
-          ['/Funky60/funky60-build-guide', 'Funky60'],
-          ['/FinnGus/finngus-kit-assembly-guide', 'Pikatea Keyboard FinnGus'],
-          ['/PikateaMacropadGB3/pikatea-macropad-gb3-kit-assembly-guide', 'Pikatea Macropad GB3'],
-          ['/Macropad1x5/macropad1x5-kit-assembly-guide', 'Macropad5x1'],
-          ['/PikateaMacropadGB2/pikatea-macropad-gb2-kit-assembly-guide', 'Pikatea Macropad GB2']
+          ['/AssemblyGuides/sketchy-sketchy-suplimental-guide', 'Sketchy Sketchy'],
+          ['/AssemblyGuides/the-richard-macropad-kit-assembly-guide', 'The Richard Macropad'],
+          ['/AssemblyGuides/kp69-kit-assembly-guide', 'Pikatea Keyboard KP69'],
+          ['/AssemblyGuides/pikatea-macropad-r26-led-desktop-kit-assembly-guide', 'Pikatea Macropad R26'],
+          ['/AssemblyGuides/pikatea-macropad-fk1-kit-assembly-guide', 'Pikatea Macropad FK1'],
+          ['/AssemblyGuides/pikatea-macropad-gb4-kit-assembly-guide', 'Pikatea Macropad GB4'],
+          ['/AssemblyGuides/funky60-build-guide', 'Funky60'],
+          ['/AssemblyGuides/finngus-kit-assembly-guide', 'Pikatea Keyboard FinnGus'],
+          ['/AssemblyGuides/pikatea-macropad-gb3-kit-assembly-guide', 'Pikatea Macropad GB3'],
+          ['/AssemblyGuides/macropad1x5-kit-assembly-guide', 'Macropad5x1'],
+          ['/AssemblyGuides/pikatea-macropad-gb2-kit-assembly-guide', 'Pikatea Macropad GB2']
         ]
       },
       {
@@ -139,22 +124,25 @@ module.exports = {
         ]
       },
       {
-        title: 'Firmware, Software, and Downloads',   // required
+        title: '3D Models and Downloads',   // required
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/DownloadsAndFiles/firmware-download-and-update-guide', 'Firmware Downloads and Update Guide'],
-          ['/DownloadsAndFiles/downloadable-files', 'Downloadable Files'],
-        ]
-      },
-      {
-        title: 'Other',   // required
-        collapsable: true, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
-        children: [
-          ['/guide/twitch', 'Twitch Stream Commands and Guide'],
+          ['/DownloadsAndFiles/firmware-download-list', 'Firmware Downloads'],
+          ['/DownloadsAndFiles/cad-files', '3D/CAD Files'],
+          ['/DownloadsAndFiles/repos', 'Repo'],
+          ['/guide/hex-firmware', '.hex file guide'],
+          ['/guide/uf2-firmware', '.uf2 file guide']
         ]
       }
+      // {
+      //   title: 'Other',   // required
+      //   collapsable: true, // optional, defaults to true
+      //   sidebarDepth: 1,    // optional, defaults to 1
+      //   children: [
+      //     ['/guide/twitch', 'Twitch Stream Commands and Guide'],
+      //   ]
+      // }
     ]
   },
 
