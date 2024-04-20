@@ -4,7 +4,7 @@ Congrats on receiving your phallic shaped macropad kit! Let's put it together, t
 
 <div style="background-color: yellow; color: black;">It is VERY VERY important that you follow the correct order of operations. It is extremely difficult/impossible to assemble your macropad if you solder the components in the wrong order.</div>
 <br>
-<div style="background-color: yellow; color: black;"><a href="/Richard/the-richard-macropad-kit-assembly-guide.html">View the updated guide here</a> for richard macropads that have been purchased after <strong>January 2024.</strong></div>
+<div style="background-color: yellow; color: black;"><a href="/AssemblyGuides/the-richard-macropad-kit-assembly-guide.html">View the updated guide here</a> for richard macropads that have been purchased after <strong>January 2024.</strong></div>
 
 You can watch a short video from one of the streams we did which outlines most of the information but please follow along with the written guide as well.
 
@@ -108,5 +108,5 @@ Install the acrylic or 3D printed backplate using the M3x8mm button head screws.
 Add the rubber feet if you'd like. I prefer to go without!
 
 ## Done
-That's it! You've built The Richard Macropad. Head over to the [user guide](/Richard/#programming-and-usage) for instructions on programming and usage
+That's it! You've built The Richard Macropad. Head over to the [programming guide](/programing.html) for instructions on programming and usage
 

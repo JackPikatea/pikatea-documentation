@@ -7,5 +7,5 @@ Almost all of our devices use VIAL which is an open source keyboard firmware and
 ### Older/Other Device usage Guides
 
 * [Pikatea Macropad GB1]()
-* [Pikatea Macropad GB2]()
-* [Sketchy Sketchy]()
+* [Pikatea Macropad GB2](/PikateaMacropadGB2/)
+* [Sketchy Sketchy](/AssemblyGuides/sketchy-sketchy-suplimental-guide)

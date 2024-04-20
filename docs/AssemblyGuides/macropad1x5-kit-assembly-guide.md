@@ -102,6 +102,6 @@ Finally, find a good spot for mounting the macropad! Cut the glue pad into three
 If you one day want to remove the macropad it can help to heat up the glue pads with a fan.
 
 ![](https://cdn.shopify.com/s/files/1/0322/9637/0235/files/2021-07-04_14.46.20_crop_1024x1024.jpg?v=1625402879)
-We hope you enjoy your new, self built macropad! As a next step you can check out the [usage guide](/Macropad1x5/), to program your own favorite functions and get the most functionality out of the macropad.
+We hope you enjoy your new, self built macropad! As a next step you can check out the [Programming Guide](/programming.html), to program your own favorite functions and get the most functionality out of the macropad.
 
 <Footer/>

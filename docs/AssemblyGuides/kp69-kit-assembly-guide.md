@@ -149,7 +149,7 @@ Celebrate. It's required.
 
 ![](/assets/KP69/PXL_20221017_200953149.jpg)
 
-**Follow the [Pikatea Keyboard KP69 user guide](/PikateaKeyboardKP69/) for instructions on using and programming your keyboard.**
+**Follow the [programming guide](/programming.html) for instructions on using and programming your keyboard.**
 
 ## Troubleshooting
 Please ask on discord or email support if you have any other issues in regards to the assembly process.

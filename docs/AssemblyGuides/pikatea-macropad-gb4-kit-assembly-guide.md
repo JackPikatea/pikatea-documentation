@@ -112,7 +112,7 @@ Attach the included backside cover to the back. **This is extremely important** 
 ## Test the Macropad BEFORE mounting
 This is a very crucial step. The last thing you'd want to do is install your macropad only to realize you forgot to solder all the pins correctly. 
 
-**Follow the [Pikatea Macropad GB4 user guide](/PikateaMacropadGB4/) but mount the device later after you've verified everything functions.**
+**Follow the [programming guide](/programming.html) but mount the device later after you've verified everything functions.**
 
 If everything works, Congrats! You did it!
 

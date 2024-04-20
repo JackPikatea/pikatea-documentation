@@ -67,7 +67,7 @@ The PCB is the most complicated part so we've broken it down into several steps.
 
 Let's start with flashing the firmware onto the included Pro Micro to make sure that is working. Plug it into your computer using a USB-C cable.
 
-We already have a [generic guide for flashing firmware](/DownloadsAndFiles/firmware-download-and-update-guide.html) which is here. Follow that guide and use the Funky60 firmware that matches they layout you plan to use which can be **downloaded from that page**. Since there is no reset button on the Pro Micro, reset the device by connecting the pins RESET and GND with a metal object (a bent paper clip works well). [Download and install Vial](https://get.vial.today) and make sure your computer recognizes the device as a Funky60 before moving on.
+We already have a [generic guide for flashing .hex firmware](/guide/hex-firmware.html). Follow that guide and use the Funky60 firmware that matches they layout you plan to use which can be **downloaded from that page**. Since there is no reset button on the Pro Micro, reset the device by connecting the pins RESET and GND with a metal object (a bent paper clip works well). [Download and install Vial](https://get.vial.today) and make sure your computer recognizes the device as a Funky60 before moving on.
 
 ![](/assets/FinnGus/DSC08955.JPG)
 

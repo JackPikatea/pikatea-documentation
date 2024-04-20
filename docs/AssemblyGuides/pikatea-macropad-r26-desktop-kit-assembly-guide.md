@@ -44,7 +44,7 @@ Now that you have everything you need, lets get started!
 
 You will want to flash the Pro Micro before any soldering to make sure that it works. Plug it into your computer using a USB-C cable.
 
-We already have a [generic guide for flashing firmware](/DownloadsAndFiles/firmware-download-and-update-guide.html) which is here. Follow that guide and use the R26 Desktop firmware which can be downloaded from that page. Since there is no reset button on the Pro Micro, reset the device by connecting the pins RESET and GND with a metal object (a bent paper clip works well). [Download and install Vial](https://get.vial.today) and make sure your computer recognizes the device as a R26 Desktop before moving on. 
+We already have a [generic guide for flashing .hex firmware](/guide/hex-firmware.html). Follow that guide and use the R26 Desktop firmware which can be downloaded from the [Firmware download list](/DownloadsAndFiles/firmware-download-list.html). Since there is no reset button on the Pro Micro, reset the device by connecting the pins RESET and GND with a metal object (a bent paper clip works well). [Download and install Vial](https://get.vial.today) and make sure your computer recognizes the device as a R26 Desktop before moving on. 
 
 ![](/assets/FinnGus/DSC08955.JPG)
 
@@ -167,4 +167,4 @@ Finally, add the keycaps!
 ![](/assets/R26/DSC00184.JPG)
 
 ## Done
-That's it! You've built the R26. Head over to the [R26 user guide](/PikateaMacropadR26/#programming-and-usage) for instructions on programming and usage
+That's it! You've built the R26. Head over to the [programming](/programming.html) for instructions on programming and usage
