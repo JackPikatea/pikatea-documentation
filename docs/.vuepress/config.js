@@ -93,7 +93,7 @@ module.exports = {
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
           ['/generic-guide', 'Regular (MX)'],
-          ['/generic-guide', 'Low-Profile (Choc)'],
+          ['/generic-low-profile-guide', 'Low-Profile (Choc)'],
         ]
       },
       {
