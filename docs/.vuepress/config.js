@@ -124,7 +124,7 @@ module.exports = {
         ]
       },
       {
-        title: '3D Models and Downloads',   // required
+        title: '3D Models and Firmware',   // required
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
