@@ -7,7 +7,7 @@ Here is a video for those that prefer it. (This is for the round 1 version but t
 
 ## Looking for the Round 1 Assembly Guide?
 This assembly guide is for round 2 macropad (shipped in August 2022). If you are looking for round 1 (the R26 without LED support), you can find it here.
-[R26 round 1 guide](/PikateaMacropadR26/pikatea-macropad-r26-desktop-kit-assembly-guide.html)
+[R26 round 1 guide](/AssemblyGuides/pikatea-macropad-r26-desktop-kit-assembly-guide.html)
 
 ## What's in the Box
 ![Image of items](/assets/R26r2/PXL_20220824_221258475.jpg)

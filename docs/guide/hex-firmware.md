@@ -1,7 +1,7 @@
 # Hex Firmware Guide
 
 ## Download .hex file
-Download the right .hex file for your device from the [firmware list]().
+Download the right .hex file for your device from the [firmware list](/DownloadsAndFiles/firmware-download-list.html).
 
 ## Download QMK_Toolbox
 Download the program QMK_toolbox which is used to flash the firmware file on the device. Go to the [download page](https://github.com/qmk/qmk_toolbox/releases) and get latest version located under "Assets".

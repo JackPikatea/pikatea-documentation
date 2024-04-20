@@ -88,7 +88,16 @@ module.exports = {
         ]
       },
       {
-        title: 'Product Assembly Guides',   // required
+        title: 'Universal Assembly Guide',   // required
+        collapsable: true, // optional, defaults to true
+        sidebarDepth: 1,    // optional, defaults to 1
+        children: [
+          ['/generic-guide', 'Regular (MX)'],
+          ['/generic-guide', 'Low-Profile (Choc)'],
+        ]
+      },
+      {
+        title: 'Specific Assembly Guides',   // required
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
