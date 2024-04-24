@@ -5,7 +5,7 @@ Congratulations on receiving your Pikatea Macropad FK1. This guide will walk you
 
 
 
-<div style="background-color: yellow; color: black;">We have updated the microcontroller from what is shown in the video. Please pay special attention to photos provided in this guide. If you have purchased an FK1 kit before December 7th 2023, <a href="/PikateaMacropadFK1/pikatea-macropad-fk1-kit-assembly-guide-pro-micro.html">please follow this guide instead.</a></div>
+<div style="background-color: yellow; color: black;">We have updated the microcontroller from what is shown in the video. Please pay special attention to photos provided in this guide. If you have purchased an FK1 kit before December 7th 2023, <a href="/AssemblyGuides/pikatea-macropad-fk1-kit-assembly-guide-pro-micro.html">please follow this guide instead.</a></div>
 
 Here is a video for those that prefer it. 
 
