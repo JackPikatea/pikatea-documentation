@@ -64,6 +64,7 @@ Firmware files are in either .hex or .uf2 files. View the guide for flashing [.h
 
 #### Pikatea Macropad GB2
 - [Standard Pikatea Firmware (Version 1.2.2 - 2/15/2021)](https://www.mediafire.com/file/ixdowfvxu5u9arz/Pikatea_Macropad_GB2_1.2.2b.hex/file) The firmware that ships with the device. It utilizes the SD card to dictate what each button will do.
+- [Vial (0.7) Compatible Firmware](https://www.mediafire.com/file_premium/agwzykozqgw31bx/pikatea_pikatea_macropad_gb2_vial_%25280.7%2529.hex/file) Firmware that works with at least Vial 0.7
 - [Vial (beta 0.4.1) Compatible firmware](https://www.mediafire.com/file/7jfv6a17mhp7sou/pikatea_macropad_gb2_b_vial%25280.4.1%2529.hex/file) Firmware that works with Vial 0.4
 
 #### Pikatea Macropad GB1
