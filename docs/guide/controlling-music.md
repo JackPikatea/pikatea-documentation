@@ -1,5 +1,5 @@
 # Controlling Music
-By default, most of our macropad are pre-configured to control music on your computer. 
+By default, most of our macropads are pre-configured to control music on your computer. 
 
 Setup buttons to play/pause music, skip to the next song and to go back to the previous song.
 
