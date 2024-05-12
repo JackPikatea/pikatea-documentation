@@ -6,7 +6,7 @@ Setup buttons to play/pause music, skip to the next song and to go back to the p
 ![img](/assets/ExtraTipsAndTricks/music.png)
 
 ## Spotify
-If you use Spotify, you can use these shortcuts to control the entire application.
+If you use Spotify, you can use these shortcuts to control the entire application. You can also use [beatBind](https://github.com/justinknguyen/BeatBind) which allows global spotify shortcuts. 
 
 ![img](/assets/ExtraTipsAndTricks/spotify_shortcuts.png)
 
