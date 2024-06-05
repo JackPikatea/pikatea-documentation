@@ -8,7 +8,7 @@ Use the software from [actualsolution called power mixer](https://actualsolution
 
 ## Method 2 - Midi-Mixer
 
-Use the Midi firmware and "Midi-mixer" together to control software audio independently. Control up to 8 sources with each encoder.
+Use the Midi firmware and "Midi-mixer" together to control software audio independently. Control up to 8 sources with each encoder. Midi firmware can be found on the [Firmware page](/DownloadsAndFiles/firmware-download-list.html) for your macropad or device.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wpA1vrWgPRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
