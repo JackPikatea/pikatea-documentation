@@ -3,8 +3,6 @@
 
 Congratulations on receiving your Pikatea Macropad FK1. This guide will walk you through the assembly process. Please make sure the read through the entire thing before getting started. Please email support or ask on Discord if you have any questions.
 
-
-
 <div style="background-color: yellow; color: black;">We have updated the microcontroller from what is shown in the video. Please pay special attention to photos provided in this guide. If you have purchased an FK1 kit before December 7th 2023, <a href="/AssemblyGuides/pikatea-macropad-fk1-kit-assembly-guide-pro-micro.html">please follow this guide instead.</a></div>
 
 Here is a video for those that prefer it. 
@@ -117,6 +115,8 @@ This is a very crucial step. The last thing you'd want to do is install your mac
 If everything works, Congrats! You did it!
 
 ## Troubleshooting
+Q: The rotatary encoder rotation doesn't work. A: The set of 3 pins on the rotary encoder control the directional/rotational control of the knob. Reflow the set of 3 pins so they have a solid connection.
+
 Please ask on discord or email support if you have any other issues in regards to the assembly process.
 
 <Footer/>
