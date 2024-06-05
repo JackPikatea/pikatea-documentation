@@ -87,20 +87,22 @@ module.exports = {
           ['/guide/twitch', 'Twitch Stream Commands and Guide']
         ]
       },
+      // {
+      //   title: 'Universal Assembly Guide',   // required
+      //   collapsable: true, // optional, defaults to true
+      //   sidebarDepth: 1,    // optional, defaults to 1
+      //   children: [
+      //     ['/generic-guide', 'Regular (MX)'],
+      //     ['/generic-low-profile-guide', 'Low-Profile (Choc)'],
+      //   ]
+      // },
       {
-        title: 'Universal Assembly Guide',   // required
+        title: 'Assembly Guides',   // required
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/generic-guide', 'Regular (MX)'],
-          ['/generic-low-profile-guide', 'Low-Profile (Choc)'],
-        ]
-      },
-      {
-        title: 'Specific Assembly Guides',   // required
-        collapsable: true, // optional, defaults to true
-        sidebarDepth: 1,    // optional, defaults to 1
-        children: [
+          ['/AssemblyGuides/wip', 'Cerberus'],
+          ['/AssemblyGuides/wip', 'Long Boi'],
           ['/AssemblyGuides/sketchy-sketchy-suplimental-guide', 'Sketchy Sketchy'],
           ['/AssemblyGuides/the-richard-macropad-kit-assembly-guide', 'The Richard Macropad'],
           ['/AssemblyGuides/kp69-kit-assembly-guide', 'Pikatea Keyboard KP69'],
