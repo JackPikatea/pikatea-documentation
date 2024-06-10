@@ -16,7 +16,8 @@ These files are released under [Attribution-NonCommercial 4.0 International Linc
 * Plate File ([DXF](https://www.mediafire.com/file_premium/wni4vk2p8hm1b66/Pikatea_KP69_FR4_Plate.dxf/file))
 
 #### The Richard
-* Case ([STLs](https://www.mediafire.com/file_premium/b2qlj2t8hw9ehqj/Richard_STLs.zip/file))
+* Case V2 ([STLs](https://www.mediafire.com/file/0xo31skfbgtmx6t/The+Richard+v2+v7.3mf/file))
+* Case V1 ([STLs](https://www.mediafire.com/file_premium/b2qlj2t8hw9ehqj/Richard_STLs.zip/file))
 
 #### KP17
 * Cases ([STLs](https://www.mediafire.com/file_premium/81eq000r59r10sy/KP17_STLs.zip/file))
