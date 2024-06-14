@@ -101,7 +101,7 @@ module.exports = {
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
-          ['/AssemblyGuides/parametrix-mx', 'Parametric Keyboards and Macropads'],
+          ['/AssemblyGuides/parametric-mx', 'Parametric Keyboards and Macropads'],
           ['/AssemblyGuides/wip', 'Cerberus'],
           ['/AssemblyGuides/wip', 'Long Boi'],
           ['/AssemblyGuides/sketchy-sketchy-suplimental-guide', 'Sketchy Sketchy'],
