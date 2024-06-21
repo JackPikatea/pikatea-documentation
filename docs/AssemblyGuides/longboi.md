@@ -27,14 +27,14 @@ TODO(add photos)
 
 3. With each diode in place, Solder them to be permanently secured.
 
-![](/assets/R26/DSC00112.JPG)
+![](/assets/Longboi/PXL_20240112_212301245.jpg)
 
 4. Bend the diodes legs straight and use flush cuts to them off. Be careful not to scratch the PCB when doing this.
 
 ![](/assets/R26/DSC00113.JPG)
 ![](/assets/R26/DSC00114.JPG)
 ![](/assets/R26/DSC00115.JPG)
-![](/assets/R26/DSC00116.JPG)
+![](/assets/Longboi/PXL_20240112_212304293.jpg)
 
 
 # Stabilizers
@@ -62,12 +62,11 @@ The headers need to be trimmed or the backplate will not fit. This is especially
 
 1. Insert the trimmed headers into the PCB.
 
-![](/assets/Universal/headers-in-pcb.jpg)
+![](/assets/Longboi/PXL_20240112_212503890.jpg)
 
 2. Add the MCU on top. 
 
-![](/assets/Universal/mcu-on-pcb.jpg)
-![](/assets/Universal/mcu-on-pcb2.jpg)
+![](/assets/Longboi/PXL_20240112_212518383.jpg)
 
 3. Use a rubber band to hold everything in place.
 
@@ -115,14 +114,50 @@ oops I missed a switch!
 ![](/assets/KP69/PXL_20221015_201218505.jpg)
 ![](/assets/KP69/PXL_20221015_201227040.jpg)
 
+# Add gaskets
 
+If you are assemblying the acrylic version, you'll add the gaskets to the plate. Otherwise, for the 7ft version, you'll add the gaskets to the backplate.
 
-# Add Keyboard Feet
+TODO images
 
-![](/assets/KP69/PXL_20221017_200509052.jpg)
-![](/assets/KP69/PXL_20221017_200512860.jpg)
+# Assemble The Case
+
+## Acrylic
+1. peal back the plastic on each acrylic peice.
+
+TODO add photo
+
+2. Start with "back layer 3" as shown
+
+3. Add "back layer 2" as shown
+
+4. Add "back layer 1" as shown
+
+5. Insert M3x16mm bolts into each hole
+
+6. Tip assembly on it's side
+
+7. Attach hex standoffs
+
+8. Add remaining hex standoff with M3x10mm bolts
+
+9. Rotate assembly as shown. Add "USB layer 1" (there is a notch which helps to distinguish from another similar layer). You may need to rotate the hex standoffs so it fits. 
+
+10. Add "USB layer 2". 
+
+11. Add "Mid layer 1" and "Mid layer 2" (These peices are the same)
+
+12. Add the PCB/Plate assembly.
+
+13. Add "top plate 1 and 2". These are the same except for one is completely glossy and one has a matte finish. If you'd prefer a glossy finish, you are more than welcome to use that instead.
+
+14. Add final M3x10mm bolts to complete the assembly.
+
+15. Add keyboard feet
 
 # Add keycaps and knobs
+
+todo photo of knobs
 
 # That's it!
 
