@@ -4,7 +4,7 @@
 
 # NOTE This guide is a work in progress
 
-# Flash the MCU
+## Flash the MCU
 
 It's important to flash the MCU before starting to make sure it works.
 
@@ -12,14 +12,14 @@ It's important to flash the MCU before starting to make sure it works.
 2. While holding the boot button, plug the MCU into the computer. 
 3. Drag the .uf2 file into the new drive that shows up. Confirm the device shows up in VIAL after it disconnects and reconnects.
 
-TODO(add photos)
+![](/assets/Longboi/PXL_20240625_150556268.jpg)
 
-# Solder the Diodes
+## Solder the Diodes
 
 1. Bend a diode and insert it into the PCB being careful it is the correct orientation. The black bar on the diode matches with the thicker white bar on the PCB. 
 
-![](/assets/R26/DSC00104.JPG)
-![](/assets/R26/DSC00107.JPG)
+![](/assets/Longboi/PXL_20240625_151611254.jpg)
+![](/assets/Longboi/PXL_20240625_151647797.jpg)
 
 2. After the diode is inserted, bend the leads outwards so it stays in place. Repeat steps 1 and 2 for each diode.
 
@@ -32,12 +32,11 @@ TODO(add photos)
 4. Bend the diodes legs straight and use flush cuts to them off. Be careful not to scratch the PCB when doing this.
 
 ![](/assets/R26/DSC00113.JPG)
-![](/assets/R26/DSC00114.JPG)
-![](/assets/R26/DSC00115.JPG)
+![](/assets/Longboi/PXL_20240625_155744290.jpg)
 ![](/assets/Longboi/PXL_20240112_212304293.jpg)
 
 
-# Stabilizers
+## Stabilizers
 
 1. Install PCB mounted stabilizers. 
 
@@ -46,43 +45,42 @@ They usually screw in but some might clip in. Below are a few links that explain
 - [Stabilizers](https://keyboard.university/100-courses/stabilizers-lcjf2)
 - [Uisng Screw-in Stabilizers](https://keyboard.university/guides/using-screw-in-stabilizers-7nxj6)
 
-![](/assets/FinnGus/DSC08969.JPG)
+![](/assets/Longboi/PXL_20240625_160912815.jpg)
 
-# Trim The Headers
+## Trim The Headers
 
 The headers need to be trimmed or the backplate will not fit. This is especially true for keyboards that have less than 4 rows. We recommend always trimming them. (Different boards will have different MCUs which will have different amounts of headers.)
 
 1. Cut the longer side of the headers in half as shown. It doesn't have to be precise.
 
-![](/assets/R26/DSC00124.JPG)
-![](/assets/R26/DSC00126.JPG)
-![](/assets/R26/DSC00127.JPG)
+![](/assets/Longboi/PXL_20240625_150734085.jpg)
+![](/assets/Longboi/PXL_20240625_150813253.jpg)
 
-# Solder MCU
+## Solder MCU
 
 1. Insert the trimmed headers into the PCB.
 
-![](/assets/Longboi/PXL_20240112_212503890.jpg)
+![](/assets/Longboi/PXL_20240625_151039818.jpg)
 
 2. Add the MCU on top. 
 
-![](/assets/Longboi/PXL_20240112_212518383.jpg)
+![](/assets/Longboi/PXL_20240625_151052133.jpg)
 
 3. Use a rubber band to hold everything in place.
 
-![](/assets/Universal/rubber-band.jpg)
+![](/assets/Longboi/PXL_20240625_162844899.jpg)
 
 4. Solder both sides of the headers to perminently hold everything together.
 
 ![](/assets/Universal/solderd-mcu.jpg)
 
-# Switches and Plate
+## Switches and Plate
 
 The switches and the plate steps go together. It's your preference on the exact way to do it. If you're new to assembling keyboards, we recommend trying the order outlined
 
 1. Install a few switches into the plate.
 
-![](/assets/KP69/PXL_20221015_192144836.jpg)
+![](/assets/Longboi/PXL_20240625_162559952.jpg)
 
 2. Install the plate and switches on the PCB, solder one lead of each switch if it's a soldered board.
 
@@ -92,18 +90,15 @@ The switches and the plate steps go together. It's your preference on the exact 
 
 4. Insert the remaining switches into the plate.
 
-![](/assets/KP69/PXL_20221015_192844074.jpg)
-![](/assets/KP69/PXL_20221015_193859037.jpg)
-
 5. finish soldering all the remaining switches.
 
-![](/assets/R26/DSC00143.JPG)
+![](/assets/Longboi/PXL_20240625_163528461.jpg)
 
-# Rotary Encoders
+## Rotary Encoders
 
 WIP install rotary encoders
 
-# Test the PCB
+## Test the PCB
 
 1. Plug the finished MCU into the computer and open VIAL. Verify that each switch works by using the matrix tester in VIAL.
 
@@ -114,15 +109,17 @@ oops I missed a switch!
 ![](/assets/KP69/PXL_20221015_201218505.jpg)
 ![](/assets/KP69/PXL_20221015_201227040.jpg)
 
-# Add gaskets
+## Add gaskets
 
-If you are assemblying the acrylic version, you'll add the gaskets to the plate. Otherwise, for the 7ft version, you'll add the gaskets to the backplate.
+<div style="background-color: yellow; color: black;">This is where the guide deviates with the acrylic board and the 7ft board. <a href="">Please follow this guide for the 7ft version</a></div>
+
+If you are assemblying the acrylic version, you'll add the gaskets to the plate. 
 
 TODO images
 
-# Assemble The Case
+## Assemble The Case
 
-## Acrylic
+### Acrylic
 1. peal back the plastic on each acrylic peice.
 
 TODO add photo
@@ -155,7 +152,7 @@ TODO add photo
 
 15. Add keyboard feet
 
-# Add keycaps and knobs
+## Add keycaps and knobs
 
 todo photo of knobs
 
