@@ -52,7 +52,7 @@ TODO(add photos)
 They usually screw in but some might clip in. Below are a few links that explain keyboard stabilizers and how to install them. You'll need a stabilizer for each key that is 2u or larger.
 
 - [Stabilizers](https://keyboard.university/100-courses/stabilizers-lcjf2)
-- [Uisng Screw-in Stabilizers](https://keyboard.university/guides/using-screw-in-stabilizers-7nxj6)
+- [Using Screw-in Stabilizers](https://keyboard.university/guides/using-screw-in-stabilizers-7nxj6)
 
 ![](/assets/FinnGus/DSC08969.JPG)
 

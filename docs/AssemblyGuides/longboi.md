@@ -23,7 +23,7 @@ It's important to flash the MCU before starting to make sure it works.
 
 2. After the diode is inserted, bend the leads outwards so it stays in place. Repeat steps 1 and 2 for each diode.
 
-![](/assets/FinnGus/DSC08965.JPG)
+![](/assets/Longboi/PXL_20240625_151709610.jpg)
 
 3. With each diode in place, Solder them to be permanently secured.
 
@@ -31,7 +31,6 @@ It's important to flash the MCU before starting to make sure it works.
 
 4. Bend the diodes legs straight and use flush cuts to them off. Be careful not to scratch the PCB when doing this.
 
-![](/assets/R26/DSC00113.JPG)
 ![](/assets/Longboi/PXL_20240625_155744290.jpg)
 ![](/assets/Longboi/PXL_20240112_212304293.jpg)
 
@@ -43,13 +42,13 @@ It's important to flash the MCU before starting to make sure it works.
 They usually screw in but some might clip in. Below are a few links that explain keyboard stabilizers and how to install them. You'll need a stabilizer for each key that is 2u or larger.
 
 - [Stabilizers](https://keyboard.university/100-courses/stabilizers-lcjf2)
-- [Uisng Screw-in Stabilizers](https://keyboard.university/guides/using-screw-in-stabilizers-7nxj6)
+- [Using Screw-in Stabilizers](https://keyboard.university/guides/using-screw-in-stabilizers-7nxj6)
 
 ![](/assets/Longboi/PXL_20240625_160912815.jpg)
 
 ## Trim The Headers
 
-The headers need to be trimmed or the backplate will not fit. This is especially true for keyboards that have less than 4 rows. We recommend always trimming them. (Different boards will have different MCUs which will have different amounts of headers.)
+The headers need to be trimmed or the backplate will not fit. 
 
 1. Cut the longer side of the headers in half as shown. It doesn't have to be precise.
 
@@ -96,22 +95,43 @@ The switches and the plate steps go together. It's your preference on the exact 
 
 ## Rotary Encoders
 
-WIP install rotary encoders
+Next up is the rotary encoder. Prep the rotary encoder by snipping the mounting tabs with snips/flush cuts. Cut the set of 3 pins shorter so they are flush with the bottom of the rotary encoder. Lastly, bend the set of 2 pins so they are pointing straight out with a slight angle. 
+
+![](/assets/GB3/gb3-assembly-12-encoder.jpg)
+![](/assets/GB3/gb3-assembly-13-encoder.jpg)
+![](/assets/GB3/gb3-assembly-14-encoder.jpg)
+
+Place the rotary encoder in the hole of the top plate and hand tighten the washer and nut to hold it in place for soldering. Don't tighten this with any tools just yet. The washer has a slight bend in it so be careful to place the raised part in the center facing towards the front of the macropad. Use the pictures shown to ensure the correct orientation. 
+
+![](/assets/GB3/gb3-assembly-15-encoder-hardware.jpg)
+
+
+
+<div style="text-align: center">(the image shows our macropads but the process is the same)</div>
+
+![](/assets/GB3/gb3-assembly-16-encoder-hardware.jpg)
+![](/assets/GB3/gb3-assembly-17-encoder-hardware.jpg)
+
+After the rotary encoder is in place, it is time to solder it. The 2 bent pins on the rotary encoder are resting just above the pads were they need to be soldered to, facing toward the switches. The 3 shorter pins on the rotary encoder are placed just to the side of the pads were they need to be soldered to. **They do not go through the small holes.** Take a look at the picture shown for a better explanation. 
+
+![](/assets/longboi/PXL_20240625_151138210.jpg)
 
 ## Test the PCB
 
 1. Plug the finished MCU into the computer and open VIAL. Verify that each switch works by using the matrix tester in VIAL.
 
+<div style="text-align: center">(the images show a different keyboard but the process is the same)</div>
+
 ![](/assets/KP69/PXL_20221015_201135868.jpg)
 
-oops I missed a switch!
+<div style="text-align: center">oops I missed a switch!</div>
 
 ![](/assets/KP69/PXL_20221015_201218505.jpg)
 ![](/assets/KP69/PXL_20221015_201227040.jpg)
 
 ## Add gaskets
 
-<div style="background-color: yellow; color: black;">This is where the guide deviates with the acrylic board and the 7ft board. <a href="">Please follow this guide for the 7ft version</a></div>
+<div style="background-color: yellow; color: black;">This is where the guide deviates with the 26 inch and the 7ft board. <a href="/AssemblyGuides/longboi-7ft">Please follow this guide for the 7ft version</a></div>
 
 If you are assemblying the acrylic version, you'll add the gaskets to the plate. 
 

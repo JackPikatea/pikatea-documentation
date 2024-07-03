@@ -123,7 +123,7 @@ Flip the PCB to the front side facing you. Insert the rotary encoder into the fo
 
 Install the PCB mounted stabilizers. They usually screw in but some might clip in. Below are a few links that explain keyboard stabilizers and how to install them.
 - [Stabilizers](https://keyboard.university/100-courses/stabilizers-lcjf2)
-- [Uisng Screw-in Stabilizers](https://keyboard.university/guides/using-screw-in-stabilizers-7nxj6)
+- [Using Screw-in Stabilizers](https://keyboard.university/guides/using-screw-in-stabilizers-7nxj6)
 
 ![](/assets/FinnGus/DSC08969.JPG)
 
