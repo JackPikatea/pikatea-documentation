@@ -3,6 +3,9 @@
 <!-- <div style="background-color: yellow; color: black;">If your product is listed under the "Assembly Guides" on the left, disregard this universal guide and follow the specific one instead.</div> -->
 
 # NOTE This guide is a work in progress
+ 
+
+<div style="background-color: yellow;">The long boi is printed in PLA plastic which has a low enough glass transition tempurature to deform in a hot environment like a car or outside on a hot sunny day. <br><br><strong>DO NOT LEAVE YOUR PRINTED KEYBOARD IN A HOT, UNCONDITIONED AREA FOR EXTENDED PERIODS OF TIME.</strong></div>
 
 ## Flash the MCU
 
@@ -129,52 +132,9 @@ After the rotary encoder is in place, it is time to solder it. The 2 bent pins o
 ![](/assets/KP69/PXL_20221015_201218505.jpg)
 ![](/assets/KP69/PXL_20221015_201227040.jpg)
 
-## Add gaskets
-
 <div style="background-color: yellow; color: black;">This is where the guide deviates with the 26 inch and the 7ft board. <a href="/AssemblyGuides/longboi-7ft">Please follow this guide for the 7ft version</a></div>
 
-If you are assemblying the acrylic version, you'll add the gaskets to the plate. 
-
-TODO images
-
-## Assemble The Case
-
-### Acrylic
-1. peal back the plastic on each acrylic peice.
-
-TODO add photo
-
-2. Start with "back layer 3" as shown
-
-3. Add "back layer 2" as shown
-
-4. Add "back layer 1" as shown
-
-5. Insert M3x16mm bolts into each hole
-
-6. Tip assembly on it's side
-
-7. Attach hex standoffs
-
-8. Add remaining hex standoff with M3x10mm bolts
-
-9. Rotate assembly as shown. Add "USB layer 1" (there is a notch which helps to distinguish from another similar layer). You may need to rotate the hex standoffs so it fits. 
-
-10. Add "USB layer 2". 
-
-11. Add "Mid layer 1" and "Mid layer 2" (These peices are the same)
-
-12. Add the PCB/Plate assembly.
-
-13. Add "top plate 1 and 2". These are the same except for one is completely glossy and one has a matte finish. If you'd prefer a glossy finish, you are more than welcome to use that instead.
-
-14. Add final M3x10mm bolts to complete the assembly.
-
-15. Add keyboard feet
-
-## Add keycaps and knobs
-
-todo photo of knobs
+The 3D Smaller 3D Printed guide will be written soon.
 
 # That's it!
 
