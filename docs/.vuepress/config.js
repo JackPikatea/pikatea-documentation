@@ -102,8 +102,8 @@ module.exports = {
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
           ['/AssemblyGuides/parametric-mx', 'Parametric Keyboards and Macropads'],
-          ['/AssemblyGuides/wip', 'Cerberus'],
-          ['/AssemblyGuides/longboi', 'Longboi'],
+          ['/AssemblyGuides/cerberus', 'Cerberus'],
+          ['/AssemblyGuides/longboi', 'Long Boi'],
           ['/AssemblyGuides/sketchy-sketchy-suplimental-guide', 'Sketchy Sketchy'],
           ['/AssemblyGuides/the-richard-macropad-kit-assembly-guide', 'The Richard Macropad'],
           ['/AssemblyGuides/kp69-kit-assembly-guide', 'Pikatea Keyboard KP69'],
