@@ -42,7 +42,7 @@ You might notice a few things are different for this stream!
 * 	200	subs -	GB4 Macropad
 * 	211	subs -	Aluminum R26 Macropad
 * 	222	subs -	Switch to scuffed mouse
-* 	233	subs -	Long Boi Keyboard Kit
+* 	233	subs -	Longboi Keyboard Kit
 * 	244	subs -	Scotteroo artisan
 * 	255	subs -	Custom Tea Macropad
 * 	266	subs -	GB4 Macropad
@@ -70,7 +70,7 @@ Here is a list of stuff we have planned. Doesn't mean it will actually happen bu
     * ikki68 with bethany
     * 40% acrylic board
     * F Board
-    * Long Boi
+    * Longboi
     * Ortholinear board
     * Gnar board
 * Mat/place

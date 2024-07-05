@@ -116,7 +116,7 @@ Find the JST connector for your PCB. It should be near the backside of the keybo
 
 Install the PCB mounted stabilizers. They either screw in or clip in. Below are a few links that explain keyboard stabilizers and how to install them.
 - [Stabilizers](https://keyboard.university/100-courses/stabilizers-lcjf2)
-- [Uisng Screw-in Stabilizers](https://keyboard.university/guides/using-screw-in-stabilizers-7nxj6)
+- [Using Screw-in Stabilizers](https://keyboard.university/guides/using-screw-in-stabilizers-7nxj6)
 
 ![](/assets/Funky60/stabilizers.jpg)
 
