@@ -29,6 +29,7 @@ These files are released under [Attribution-NonCommercial 4.0 International Linc
 
 #### Longboi
 * (Round 1 Acrylic and 3D Printing files) ([ALL](https://www.mediafire.com/file_premium/g74qt5srw5s22pz/Long_Boi_CAD.zip/file))
+* (Round 1 Plate) ([STEP](https://www.mediafire.com/file_premium/q1fuerm54mrskwc/Long_Boi_Plate_v11.step/file))
 
 
 
