@@ -109,7 +109,6 @@ Place the rotary encoder in the hole of the top plate and hand tighten the washe
 ![](/assets/GB3/gb3-assembly-15-encoder-hardware.jpg)
 
 
-
 <div style="text-align: center">(the image shows our macropads but the process is the same)</div>
 
 ![](/assets/GB3/gb3-assembly-16-encoder-hardware.jpg)
@@ -134,7 +133,43 @@ After the rotary encoder is in place, it is time to solder it. The 2 bent pins o
 
 <div style="background-color: yellow; color: black;">This is where the guide deviates with the 26 inch and the 7ft board. <a href="/AssemblyGuides/longboi-7ft">Please follow this guide for the 7ft version</a></div>
 
-The 3D Smaller 3D Printed guide will be written soon.
+## Add gaskets
+
+Add gaskets to the tabs of the plate on each side
+
+![](todo image)
+
+## Assemble the Case
+
+1. insert M3 square nuts into top pieces. You will likely need to use something hard and pointy to insert the nuts into the print. They should be a press fit but if they slide out, you can use a soldering iron on the inside edge to help hold them in place. 
+
+![](/assets/longboi/PXL_20240627_195935212.jpg)
+![](/assets/longboi/PXL_20240627_195942392.jpg)
+![](soldering iron image todo)
+
+2. Clean up the bottom peices. Bits of plastic resedue can be left inside the holes. Use a 2mm Allen wrench or similar to push the plastic and clear out the bolt holes. It's best if the bolts can be inserted into the pieces without any resistance.
+
+![](/assets/longboi/PXL_20240710_153748833.jpg)
+![](/assets/longboi/PXL_20240710_153811615.jpg)
+
+3. Attach the bottom middle to both top pieces. Get each bolt started before tighting them down. Even though there are square nuts and they won't strip, it's best to not over tighten. Error on the sie of too loose.
+
+![](/assets/longboi/PXL_20240710_153911585.jpg)
+![](/assets/longboi/PXL_20240710_153920513.jpg)
+![](/assets/longboi/PXL_20240710_154116037.jpg)
+
+4. Attach the side bottom pieces.
+
+![](/assets/longboi/PXL_20240710_154644127.jpg)
+
+Extra. If you are struggling to get the bolts to thread into the square nuts, you can try aligning the square nuts slightly with a small allen wrench.
+
+![](/assets/longboi/PXL_20240717_140545294.jpg)
+![](/assets/longboi/PXL_20240717_140615952.jpg)
+
+## Add the Keyboard Feet and Knob
+
+Add the feet to the bottom of the keyboard and attach the knob the the encoder shaft.
 
 # That's it!
 
