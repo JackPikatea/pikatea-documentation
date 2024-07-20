@@ -27,6 +27,9 @@ These files are released under [Attribution-NonCommercial 4.0 International Linc
 * (Round 1) Shard and Flat cases with brackets ([STLS](https://www.mediafire.com/file/7jjl3shtwmsfsez/Pikatea_R26_R1_STLs.zip/file)) and ([CAD](https://www.mediafire.com/file/2ciq6dtbm1a8ht8/Pikatea_R26_R1_CAD.zip/file))
 * (Round 2) Shard and Flat cases with brackets ([STLS](https://www.mediafire.com/file/ia279q4eryqm4rk/Pikatea_R26_r2_STLs.zip/file)) and ([CAD](https://www.mediafire.com/file/3qj036k9stpmshj/Pikatea_R26_R2_CAD.zip/file))
 
+#### Longboi
+* (Round 1 Acrylic and 3D Printing files) ([ALL](https://www.mediafire.com/file_premium/g74qt5srw5s22pz/Long_Boi_CAD.zip/file))
+
 
 
 
