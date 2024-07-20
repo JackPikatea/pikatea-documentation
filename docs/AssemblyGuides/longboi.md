@@ -5,7 +5,7 @@
 # NOTE This guide is a work in progress
  
 
-<div style="background-color: yellow;">The long boi is printed in PLA plastic which has a low enough glass transition tempurature to deform in a hot environment like a car or outside on a hot sunny day. <br><br><strong>DO NOT LEAVE YOUR PRINTED KEYBOARD IN A HOT, UNCONDITIONED AREA FOR EXTENDED PERIODS OF TIME.</strong></div>
+<div style="background-color: yellow;">PLA/Printed Plastic can deform in high temperature areas like a hot car or unconditioned space.<br><br><strong>PLEASE DO NOT LEAVE YOUR PRINTED PRODUCT OUTSIDE OR IN A HOT, UNCONDITIONED AREA FOR EXTENDED PERIODS OF TIME.</strong></div>
 
 ## Flash the MCU
 

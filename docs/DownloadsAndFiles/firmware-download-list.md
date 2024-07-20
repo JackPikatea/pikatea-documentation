@@ -2,6 +2,9 @@
 
 Firmware files are in either .hex or .uf2 files. View the guide for flashing [.hex files](/guide/hex-firmware.html) and [.uf2 files](/guide/uf2-firmware.html)
 
+#### Longboi Keyboard Kit
+- [Vial Firmware](https://www.mediafire.com/file_premium/vin243cmvqzkyod/pikatea_long_boi_long_boi_v3_vial.zip/file)
+
 #### Silhouette Cerberus Low-Profile Keyboard
 
 - [Vial Firmware](https://www.mediafire.com/file_premium/ru2wsbohg3oqs4b/silhouette_cerberus_vial.uf2/file)
