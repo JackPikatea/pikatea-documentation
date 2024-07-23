@@ -137,7 +137,8 @@ After the rotary encoder is in place, it is time to solder it. The 2 bent pins o
 
 Add gaskets to the tabs of the plate on each side
 
-![](todo image)
+![](/assets/longboi/PXL_20240721_102435158.jpg)
+![](/assets/longboi/PXL_20240721_102443128.jpg)
 
 ## Assemble the Case
 
@@ -145,7 +146,8 @@ Add gaskets to the tabs of the plate on each side
 
 ![](/assets/longboi/PXL_20240627_195935212.jpg)
 ![](/assets/longboi/PXL_20240627_195942392.jpg)
-![](soldering iron image todo)
+![](/assets/longboi/PXL_20240721_102556473.jpg)
+![](/assets/longboi/PXL_20240721_102642624.jpg)
 
 2. Clean up the bottom peices. Bits of plastic resedue can be left inside the holes. Use a 2mm Allen wrench or similar to push the plastic and clear out the bolt holes. It's best if the bolts can be inserted into the pieces without any resistance.
 
@@ -162,7 +164,7 @@ Add gaskets to the tabs of the plate on each side
 
 ![](/assets/longboi/PXL_20240710_154644127.jpg)
 
-Extra. If you are struggling to get the bolts to thread into the square nuts, you can try aligning the square nuts slightly with a small allen wrench.
+<strong>Extra.</strong> If you are struggling to get the bolts to thread into the square nuts, you can try aligning the square nuts slightly with a small allen wrench.
 
 ![](/assets/longboi/PXL_20240717_140545294.jpg)
 ![](/assets/longboi/PXL_20240717_140615952.jpg)
