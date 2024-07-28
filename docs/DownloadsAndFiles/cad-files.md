@@ -31,6 +31,9 @@ These files are released under [Attribution-NonCommercial 4.0 International Linc
 * Acrylic and 3D Printing files ([CAD](https://www.mediafire.com/file_premium/g74qt5srw5s22pz/Long_Boi_CAD.zip/file))
 * Plate ([STEP](https://www.mediafire.com/file_premium/q1fuerm54mrskwc/Long_Boi_Plate_v11.step/file))
 
+#### SFxMK 2024 Macrostab
+* CAD and BOM ([zip](https://www.mediafire.com/file/rtnnrlf51gtyesb/Macrostab+CAD+BOM.zip/file))
+
 
 
 
