@@ -15,6 +15,7 @@ Firmware files are in either .hex or .uf2 files. View the guide for flashing [.h
 #### Pikatea Macropad GB5
 - [Vial (beta 0.7.1) Regular Firmware (with updated lighting profiles)](https://www.mediafire.com/file_premium/tfb26dkm7hkapo7/Pikatea_GB5_Firmware_%2528v2_more_light_profiles%2529.zip/file)
 - [Vial (beta 0.7.1) Midi Firmware](https://www.mediafire.com/file_premium/eb661wv7p94l81d/Pikatea_GB5_Midi_Firmware.zip/file)
+- [Via JSON file](https://github.com/PikateaCompany/vial-qmk/blob/vial/keyboards/pikatea/pikatea_macropad_gb5/keymaps/via/gb5via.json)
 
 #### Pikatea Macro-Numpad KP17
 - [Vial (beta 0.7.1) Compatible Firmware (Numpad)](https://www.mediafire.com/file_premium/qxy7g1rlj6fvd7h/pikatea_kp17_pikatea_macropad_kp17_smd_vial-numpad.uf2/file)
