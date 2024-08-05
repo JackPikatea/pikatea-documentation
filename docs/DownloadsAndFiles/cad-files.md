@@ -32,7 +32,7 @@ These files are released under [Attribution-NonCommercial 4.0 International Linc
 * Plate ([STEP](https://www.mediafire.com/file_premium/q1fuerm54mrskwc/Long_Boi_Plate_v11.step/file))
 
 #### SFxMK 2024 Macrostab
-* CAD and BOM ([zip](https://www.mediafire.com/file/6vx6m7te2703sgs/Macrostab+CAD+and+BOM2.zip/file))
+* CAD and BOM ([zip](https://www.mediafire.com/file/fjcv2pysfj61rm3/Macrostab+CAD+and+BOM3.zip/file))
 
 
 
