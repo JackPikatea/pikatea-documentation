@@ -3,7 +3,7 @@
 Firmware files are in either .hex or .uf2 files. View the guide for flashing [.hex files](/guide/hex-firmware.html) and [.uf2 files](/guide/uf2-firmware.html)
 
 #### SFxMK Macrostab Kit
-- [Vial Firmware](https://www.mediafire.com/file/zjd8yc2x27h99aa/pikatea_macrostab_vial.uf2/file)
+- [Vial Firmware](https://www.mediafire.com/file/i8fljxz1n10jykp/pikatea_macrostab_vial.uf2/file)
 
 #### Longboi Keyboard Kit
 - [Vial Firmware](https://www.mediafire.com/file_premium/vin243cmvqzkyod/pikatea_long_boi_long_boi_v3_vial.zip/file)
