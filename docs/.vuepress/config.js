@@ -103,6 +103,7 @@ module.exports = {
         children: [
           ['/AssemblyGuides/parametric-mx', 'Parametric Keyboards and Macropads'],
           ['/AssemblyGuides/cerberus', 'Cerberus'],
+          ['/AssemblyGuides/macrostab-build-guide', 'Macrostab'],
           ['/AssemblyGuides/longboi', 'Long Boi'],
           ['/AssemblyGuides/sketchy-sketchy-suplimental-guide', 'Sketchy Sketchy'],
           ['/AssemblyGuides/the-richard-macropad-kit-assembly-guide', 'The Richard Macropad'],
