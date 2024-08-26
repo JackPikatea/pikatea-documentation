@@ -40,7 +40,7 @@ Firmware files are in either .hex or .uf2 files. View the guide for flashing [.h
 - [Via compatible firmware](https://www.mediafire.com/file/w3eq5uyhw1z9a55/pikatea_pikatea_macropad_gb3_via.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/dynezbd0hl76s46/gb3via.json/file)
 - [Via compatible Midi Firmware](https://www.mediafire.com/file/ky7gorzadk9vgjw/pikatea_pikatea_macropad_gb3_midi.hex/file) and matching Via keymap [.json file](https://www.mediafire.com/file/dynezbd0hl76s46/gb3via.json/file)
 
-- #### Pikatea Macropad FK1 (POST-December 2023)
+#### Pikatea Macropad FK1 (POST-December 2023)
 - [Vial (beta 0.7.1) Compatible Firmware](https://www.mediafire.com/file_premium/mx4irnd9bgwkmgh/pikatea_macropad_fk1_rp2040_vial.uf2/file)
 
 #### Pikatea Macropad FK1 (PRE-December 2023)
