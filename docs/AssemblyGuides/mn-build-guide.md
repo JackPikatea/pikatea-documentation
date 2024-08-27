@@ -29,14 +29,14 @@ Then solder the MCU to the PCB
 
 1. Install the PCB mounted stabilizers. Not every spot needs a stabilizer, only where you'd like to use a 2u key instead of 1u keys. 
 
-![](/assets/Macrostab/PXL_20240819_234142657.jpg)
+![](/assets/MN/PXL_20240819_234142657.jpg)
 
 They usually screw in but some might clip in. Below are a few links that explain keyboard stabilizers and how to install them. You'll need a stabilizer for each key that is 2u or larger.
 
 - [Stabilizers](https://keyboard.university/100-courses/stabilizers-lcjf2)
 - [Using Screw-in Stabilizers](https://keyboard.university/guides/using-screw-in-stabilizers-7nxj6)
 
-![](/assets/Macrostab/PXL_20240819_235911186.jpg)
+![](/assets/MN/PXL_20240819_235911186.jpg)
 
 # Switches and Plate
 
@@ -46,7 +46,7 @@ The switches and the plate steps go together. It's your preference on the exact 
 
 2. Install the plate and switches on the PCB, solder one lead of each switch if it's a soldered board.
 
-![](/assets/Macrostab/PXL_20240819_235948756.jpg)
+![](/assets/MN/PXL_20240819_235948756.jpg)
 
 3. Verify switches are sitting flush.
 
@@ -54,7 +54,7 @@ The switches and the plate steps go together. It's your preference on the exact 
 
 5. finish soldering all the remaining switches.
 
-![](/assets/Macrostab/PXL_20240819_235954594.jpg)
+![](/assets/MN/PXL_20240819_235954594.jpg)
 
 
 # Finish Assembly
@@ -63,25 +63,23 @@ With the PCB and plate put together, it's time to assemble the remaining compone
 
 1. Insert square nuts into the "Top" peice of the case. You may have to use a small allen key or other sturdy object to push them into place.
 
-![](/assets/Macrostab/PXL_20240820_001242889.jpg)
-![](/assets/Macrostab/PXL_20240820_001258278.jpg)
-![](/assets/Macrostab/PXL_20240820_001333932.jpg)
-![](/assets/Macrostab/PXL_20240824_024914511.jpg)
+![](/assets/MN/PXL_20240820_001242889.jpg)
+![](/assets/MN/PXL_20240820_001258278.jpg)
+![](/assets/MN/PXL_20240820_001333932.jpg)
+![](/assets/MN/PXL_20240824_024914511.jpg)
 
 2. Clear out any holes from the printing process
 
-![](/assets/Macrostab/PXL_20240820_001438600.jpg)
+![](/assets/MN/PXL_20240820_001438600.jpg)
 
 3. Place the Plate and PCB assembly into the "Bottom" piece of the case. 
 
 4. Place the "Top" peice onto the "Bottom" peice. 
 
-![](/assets/Macrostab/PXL_20240805_202143474.jpg)
-
 5. Insert the M3x12mm in the front holes and M3x20mm or M3x25mm, whichever is included, into the the back holes. Tightenm them down pretty good with an allen wrench.
 
-![](/assets/Macrostab/PXL_20240820_001759593.jpg)
-![](/assets/Macrostab/PXL_20240820_001857935.jpg)
+![](/assets/MN/PXL_20240820_001759593.jpg)
+![](/assets/MN/PXL_20240820_001857935.jpg)
 
 **It's possible to have the top piece flipped the wrong way around. If there is a "lip" between the top and bottom case, try rotating the top piece 180 degrees**
 
@@ -94,7 +92,7 @@ With the PCB and plate put together, it's time to assemble the remaining compone
 
 # That's it!
 
-![](/assets/Macrostab/PXL_20240820_002025200.jpg)
+![](/assets/MN/PXL_20240820_002025200.jpg)
 
 1. Celebrate. It's required.
 
