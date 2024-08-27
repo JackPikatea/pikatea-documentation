@@ -102,6 +102,7 @@ module.exports = {
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
           ['/AssemblyGuides/parametric-mx', 'Parametric Keyboards and Macropads'],
+          ['/AssemblyGuides/mn-build-guide', 'Minnesota Macropad'],
           ['/AssemblyGuides/cerberus', 'Cerberus'],
           ['/AssemblyGuides/macrostab-build-guide', 'Macrostab'],
           ['/AssemblyGuides/longboi', 'Long Boi'],
