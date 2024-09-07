@@ -4,6 +4,9 @@ Ready to print **STL** files and modifiabe **CAD** files. If you have a 3D print
 
 These files are released under [Attribution-NonCommercial 4.0 International Lincese (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 
+#### Minnesota Meetup Macropad
+* Case STLs and CAD [zip](https://www.mediafire.com/file_premium/ajx1318tzc1m0nh/MN.zip/file)
+
 #### Generic
 * 1.25u "kurled" knob with setscrew hole ([STLs](https://www.mediafire.com/file/tnvhk3v8h0hcx77/Pikatea_kurled_knobs_STLs.zip/file))
 
