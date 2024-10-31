@@ -1,11 +1,13 @@
 # Longboi Assembly Guide
 
 <!-- <div style="background-color: yellow; color: black;">If your product is listed under the "Assembly Guides" on the left, disregard this universal guide and follow the specific one instead.</div> -->
-
-# NOTE This guide is a work in progress
  
 
 <div style="background-color: yellow;">PLA/Printed Plastic can deform in high temperature areas like a hot car or unconditioned space.<br><br><strong>PLEASE DO NOT LEAVE YOUR PRINTED PRODUCT OUTSIDE OR IN A HOT, UNCONDITIONED AREA FOR EXTENDED PERIODS OF TIME.</strong></div>
+
+<br> <br>
+
+<div style="background-color: yellow;"><strong>Please Verify bolt lengths. </strong> You should only have 14mm and 25mm M3 bolts. We received a message from a customer that they received 30mm length so please double check this. I can ship out the proper bolts if you received the wrong ones. </div>
 
 ## Flash the MCU
 
