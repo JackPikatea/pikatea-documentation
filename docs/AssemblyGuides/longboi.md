@@ -144,6 +144,8 @@ Add gaskets to the tabs of the plate on each side
 
 ## Assemble the Case
 
+<div style="background-color: yellow;"><strong>Please Verify bolt lengths. </strong> You should only have 14mm and 25mm M3 bolts. We received a message from a customer that they received 30mm length so please double check this. I can ship out the proper bolts if you received the wrong ones. </div>
+
 1. insert M3 square nuts into top pieces. You will likely need to use something hard and pointy to insert the nuts into the print. They should be a press fit but if they slide out, you can use a soldering iron on the inside edge to help hold them in place. 
 
 ![](/assets/longboi/PXL_20240627_195935212.jpg)
