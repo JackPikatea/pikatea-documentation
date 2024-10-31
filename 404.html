@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>VuePress</title>
+    <meta name="generator" content="VuePress 1.9.10">
+    <script>
+    const logoUrlChanger = setInterval(function() {
+    //Anchor above the logo image
+    const homeEls = document.getElementsByClassName("home-link");
+    if(homeEls.length > 0) {
+      const homeEl = homeEls[0];
+      homeEl.setAttribute("href", "https://pikatea.com");
+      homeEl.setAttribute("onclick", "document.location='https://pikatea.com';return false;");
+      clearInterval(logoUrlChanger);
+    }
+
+    //Actual logo image
+    const logoEls = document.getElementsByClassName("logo")
+    if(logoEls.length > 0) {
+      const logoEl = logoEls[0]
+      logoEl.setAttribute("onclick", "document.location='https://pikatea.com';return false;");
+      clearInterval(logoUrlChanger);
+    }
+    }, 1000) 
+
+  </script>
+    <meta name="description" content="Documentation for Pikatea products and software">
+    <meta name="theme-color" content="#3eaf7c">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+    <link rel="preload" href="/assets/css/0.styles.c224c752.css" as="style"><link rel="preload" href="/assets/js/app.f36434de.js" as="script"><link rel="preload" href="/assets/js/7.deca3814.js" as="script"><link rel="prefetch" href="/assets/js/1.185b50a8.js"><link rel="prefetch" href="/assets/js/10.b67bc8a6.js"><link rel="prefetch" href="/assets/js/11.0256ff5f.js"><link rel="prefetch" href="/assets/js/12.7bdc8d5d.js"><link rel="prefetch" href="/assets/js/13.786f62b7.js"><link rel="prefetch" href="/assets/js/14.91be0496.js"><link rel="prefetch" href="/assets/js/15.3b92efb8.js"><link rel="prefetch" href="/assets/js/16.47e1d84d.js"><link rel="prefetch" href="/assets/js/17.368b07ea.js"><link rel="prefetch" href="/assets/js/18.8241d824.js"><link rel="prefetch" href="/assets/js/19.56a0d05b.js"><link rel="prefetch" href="/assets/js/2.4470ce03.js"><link rel="prefetch" href="/assets/js/20.87ddadca.js"><link rel="prefetch" href="/assets/js/21.e21ffad3.js"><link rel="prefetch" href="/assets/js/22.49bb533d.js"><link rel="prefetch" href="/assets/js/23.714548bd.js"><link rel="prefetch" href="/assets/js/24.43415d9d.js"><link rel="prefetch" href="/assets/js/25.c59162d0.js"><link rel="prefetch" href="/assets/js/26.00e9c9c9.js"><link rel="prefetch" href="/assets/js/27.dfaf6821.js"><link rel="prefetch" href="/assets/js/28.e252444e.js"><link rel="prefetch" href="/assets/js/29.3da06dd7.js"><link rel="prefetch" href="/assets/js/3.8af8fcbf.js"><link rel="prefetch" href="/assets/js/30.45fdc2d8.js"><link rel="prefetch" href="/assets/js/31.5235366d.js"><link rel="prefetch" href="/assets/js/32.f17330d4.js"><link rel="prefetch" href="/assets/js/33.ce2b85f6.js"><link rel="prefetch" href="/assets/js/34.d27c6dd2.js"><link rel="prefetch" href="/assets/js/35.ae692058.js"><link rel="prefetch" href="/assets/js/36.05d4bd4a.js"><link rel="prefetch" href="/assets/js/37.f26bafe5.js"><link rel="prefetch" href="/assets/js/38.96eb7471.js"><link rel="prefetch" href="/assets/js/39.80b0b785.js"><link rel="prefetch" href="/assets/js/4.0471e9ae.js"><link rel="prefetch" href="/assets/js/40.d494160e.js"><link rel="prefetch" href="/assets/js/41.93a2029c.js"><link rel="prefetch" href="/assets/js/42.6faa238d.js"><link rel="prefetch" href="/assets/js/43.2f89ad4e.js"><link rel="prefetch" href="/assets/js/44.e1e6080f.js"><link rel="prefetch" href="/assets/js/45.62746d6a.js"><link rel="prefetch" href="/assets/js/46.dc8aab8b.js"><link rel="prefetch" href="/assets/js/47.fc2c652e.js"><link rel="prefetch" href="/assets/js/48.ec52bd0f.js"><link rel="prefetch" href="/assets/js/49.da6a194b.js"><link rel="prefetch" href="/assets/js/5.842b4107.js"><link rel="prefetch" href="/assets/js/50.25b8dfab.js"><link rel="prefetch" href="/assets/js/51.154159f8.js"><link rel="prefetch" href="/assets/js/52.3cf64ce0.js"><link rel="prefetch" href="/assets/js/53.803bc72a.js"><link rel="prefetch" href="/assets/js/54.896161ec.js"><link rel="prefetch" href="/assets/js/55.9b30f28c.js"><link rel="prefetch" href="/assets/js/56.ceb1b5d7.js"><link rel="prefetch" href="/assets/js/57.73d5898d.js"><link rel="prefetch" href="/assets/js/58.7d2dbafe.js"><link rel="prefetch" href="/assets/js/59.541054f5.js"><link rel="prefetch" href="/assets/js/6.9f813617.js"><link rel="prefetch" href="/assets/js/60.26e96123.js"><link rel="prefetch" href="/assets/js/61.919638d3.js"><link rel="prefetch" href="/assets/js/62.e4a9adf5.js"><link rel="prefetch" href="/assets/js/63.3fb2f581.js"><link rel="prefetch" href="/assets/js/64.7336964a.js"><link rel="prefetch" href="/assets/js/65.e47789ea.js"><link rel="prefetch" href="/assets/js/66.8978860e.js"><link rel="prefetch" href="/assets/js/67.1d84382b.js"><link rel="prefetch" href="/assets/js/68.432cce85.js"><link rel="prefetch" href="/assets/js/69.5b356476.js"><link rel="prefetch" href="/assets/js/70.bd2c1d77.js"><link rel="prefetch" href="/assets/js/71.7897a40e.js"><link rel="prefetch" href="/assets/js/72.4e19290d.js"><link rel="prefetch" href="/assets/js/73.10c329c7.js"><link rel="prefetch" href="/assets/js/74.ecb6dadb.js"><link rel="prefetch" href="/assets/js/75.072b4fdd.js"><link rel="prefetch" href="/assets/js/76.e33b4522.js"><link rel="prefetch" href="/assets/js/77.f27823af.js"><link rel="prefetch" href="/assets/js/78.4342f7a5.js"><link rel="prefetch" href="/assets/js/79.a3a92354.js"><link rel="prefetch" href="/assets/js/80.9fdd544a.js"><link rel="prefetch" href="/assets/js/81.d16577ad.js"><link rel="prefetch" href="/assets/js/82.4507d7ec.js"><link rel="prefetch" href="/assets/js/83.15bd0b7c.js"><link rel="prefetch" href="/assets/js/vendors~docsearch.a43fb3db.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.c224c752.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><div class="theme-default-content"><h1>404</h1> <blockquote>How did we get here?</blockquote> <a href="/" class="router-link-active">
+      Take me home.
+    </a></div></div><div class="global-ui"></div></div>
+    <script src="/assets/js/app.f36434de.js" defer></script><script src="/assets/js/7.deca3814.js" defer></script>
+  </body>
+</html>
