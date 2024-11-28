@@ -1,4 +1,4 @@
-# Macrostab Assembly Guide
+# Macropad Assembly Guide
 
 <!-- <div style="background-color: yellow; color: black;">If your product is listed under the "Assembly Guides" on the left, disregard this universal guide and follow the specific one instead.</div> -->
 
