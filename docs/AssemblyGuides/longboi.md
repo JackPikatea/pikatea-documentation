@@ -118,7 +118,7 @@ Place the rotary encoder in the hole of the top plate and hand tighten the washe
 
 After the rotary encoder is in place, it is time to solder it. The 2 bent pins on the rotary encoder are resting just above the pads were they need to be soldered to, facing toward the switches. The 3 shorter pins on the rotary encoder are placed just to the side of the pads were they need to be soldered to. **They do not go through the small holes.** Take a look at the picture shown for a better explanation. 
 
-![](/assets/longboi/PXL_20240625_151138210.jpg)
+![](/assets/Longboi/PXL_20240625_151138210.jpg)
 
 ## Test the PCB
 
@@ -139,8 +139,8 @@ After the rotary encoder is in place, it is time to solder it. The 2 bent pins o
 
 Add gaskets to the tabs of the plate on each side
 
-![](/assets/longboi/PXL_20240721_102435158.jpg)
-![](/assets/longboi/PXL_20240721_102443128.jpg)
+![](/assets/Longboi/PXL_20240721_102435158.jpg)
+![](/assets/Longboi/PXL_20240721_102443128.jpg)
 
 ## Assemble the Case
 
@@ -148,30 +148,30 @@ Add gaskets to the tabs of the plate on each side
 
 1. insert M3 square nuts into top pieces. You will likely need to use something hard and pointy to insert the nuts into the print. They should be a press fit but if they slide out, you can use a soldering iron on the inside edge to help hold them in place. 
 
-![](/assets/longboi/PXL_20240627_195935212.jpg)
-![](/assets/longboi/PXL_20240627_195942392.jpg)
-![](/assets/longboi/PXL_20240721_102556473.jpg)
-![](/assets/longboi/PXL_20240721_102642624.jpg)
+![](/assets/Longboi/PXL_20240627_195935212.jpg)
+![](/assets/Longboi/PXL_20240627_195942392.jpg)
+![](/assets/Longboi/PXL_20240721_102556473.jpg)
+![](/assets/Longboi/PXL_20240721_102642624.jpg)
 
 2. Clean up the bottom peices. Bits of plastic resedue can be left inside the holes. Use a 2mm Allen wrench or similar to push the plastic and clear out the bolt holes. It's best if the bolts can be inserted into the pieces without any resistance.
 
-![](/assets/longboi/PXL_20240710_153748833.jpg)
-![](/assets/longboi/PXL_20240710_153811615.jpg)
+![](/assets/Longboi/PXL_20240710_153748833.jpg)
+![](/assets/Longboi/PXL_20240710_153811615.jpg)
 
 3. Attach the bottom middle to both top pieces. Get each bolt started before tighting them down. Even though there are square nuts and they won't strip, it's best to not over tighten. Error on the sie of too loose.
 
-![](/assets/longboi/PXL_20240710_153911585.jpg)
-![](/assets/longboi/PXL_20240710_153920513.jpg)
-![](/assets/longboi/PXL_20240710_154116037.jpg)
+![](/assets/Longboi/PXL_20240710_153911585.jpg)
+![](/assets/Longboi/PXL_20240710_153920513.jpg)
+![](/assets/Longboi/PXL_20240710_154116037.jpg)
 
 4. Attach the side bottom pieces.
 
-![](/assets/longboi/PXL_20240710_154644127.jpg)
+![](/assets/Longboi/PXL_20240710_154644127.jpg)
 
 <strong>Extra.</strong> If you are struggling to get the bolts to thread into the square nuts, you can try aligning the square nuts slightly with a small allen wrench.
 
-![](/assets/longboi/PXL_20240717_140545294.jpg)
-![](/assets/longboi/PXL_20240717_140615952.jpg)
+![](/assets/Longboi/PXL_20240717_140545294.jpg)
+![](/assets/Longboi/PXL_20240717_140615952.jpg)
 
 ## Add the Keyboard Feet and Knob
 
