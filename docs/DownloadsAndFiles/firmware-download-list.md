@@ -9,7 +9,7 @@ Firmware files are in either .hex or .uf2 files. View the guide for flashing [.h
 - [Vial Firmware](https://www.mediafire.com/file/i8fljxz1n10jykp/pikatea_macrostab_vial.uf2/file)
 
 #### Longboi Keyboard Kit
-- [Vial Firmware](https://www.mediafire.com/file_premium/d0yh1272vva2qjx/pikatea_long_boi_long_boi_v3_vial.zip/file)
+- [Vial Firmware](https://www.mediafire.com/file_premium/loc44y9k7eqpdof/pikatea_long_boi_long_boi_v3_vial_fix.zip/file)
 
 #### Silhouette Cerberus Low-Profile Keyboard
 - [Vial Firmware](https://www.mediafire.com/file_premium/ru2wsbohg3oqs4b/silhouette_cerberus_vial.uf2/file)
