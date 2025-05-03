@@ -101,6 +101,7 @@ module.exports = {
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
+          ['/AssemblyGuides/iowa-2025-macropad', 'Iowa 2025 Corn Macropad'],
           ['/AssemblyGuides/parametric-mx', 'Parametric Keyboards and Macropads'],
           ['/AssemblyGuides/mn-build-guide', 'Minnesota Macropad'],
           ['/AssemblyGuides/cerberus', 'Cerberus'],
