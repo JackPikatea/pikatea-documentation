@@ -1,4 +1,4 @@
-# 2025 Iowa Meetup Macropad Assembly Guide
+# 2025 Iowa Keyboard Meetup Corn Macropad Assembly Guide
 
 <!-- <div style="background-color: yellow; color: black;">If your product is listed under the "Assembly Guides" on the left, disregard this universal guide and follow the specific one instead.</div> -->
 
@@ -8,7 +8,7 @@ Thank you for attending the meetup! All the parts you need to build the kit are 
 
 It's important to flash the MCU before starting to make sure it works.
 
-1. Download the .uf2 file for the device from the [firmware list](/DownloadsAndFiles/firmware-download-list.html). 
+1. Download the .uf2 file for the device from here [2025 Iowa Meetup Corn Macropad Firmware](https://www.mediafire.com/file/eb03mmc73fojtdn/pikatea_iowa_corn_macropad_2025_vial.uf2/file). 
 2. While holding the boot button, plug the MCU into the computer.
 3. Drag the .uf2 file into the new drive that shows up. Confirm the device shows up in VIAL after it disconnects and reconnects.
 
