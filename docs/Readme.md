@@ -1,5 +1,7 @@
 # Getting started
-Welcome to the Pikatea Documentation. If you have any questions, don't hesitate to contact support or ask in our [Discord channel](https://www.pikatea.com/discord)! 
+Welcome to the Pikatea Documentation. 
+
+For product support or questions, please email **support (at) pikatea (dot) com** ask in our [Discord channel](https://www.pikatea.com/discord)! 
 
 <!-- # Basic Usage
 
