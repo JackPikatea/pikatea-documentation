@@ -12,6 +12,7 @@ These files are released under [Attribution-NonCommercial 4.0 International Linc
 
 #### GB3, GB4 and FK1
 * 3 key, 5 key, and 7 key plates ([STLs](https://www.mediafire.com/file/7tducy6w4nrtfgn/Pikatea_GB3_and_FK1_Plate_STLs.zip/file))
+* GB5 backside cover ([STLs](https://www.mediafire.com/file_premium/qxee8wevsutmxoo/GB5_backside_cover_v8.3mf/file))
 
 #### KP69
 * Cases and Brackets ([STLs](https://www.mediafire.com/file_premium/g3fm99z76qxccje/KP69_Design_STLs.zip/file))
