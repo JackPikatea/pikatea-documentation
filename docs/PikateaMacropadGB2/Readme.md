@@ -151,14 +151,6 @@ Note: OBS requires an extra delay attached to the end of a configured hotkey. Fo
 
 - **Video Editing** - Program the knob to press the correct keys to move the timeline back and forth for any video editing program.
 
-### Deej Software Usage
-The Pikatea Macropad works with deej. deej is an open-source hardware volume mixer for Windows and Linux PCs. It lets you use real-life sliders (or in this case, your Pikatea Macropad) to seamlessly control the volumes of different apps (such as your music player, the game you're playing and your voice chat session) without having to stop what you're doing.
-
-Important note: deej is a 3rd-party program. The macropad uses a rotary encoder - which isn't officially supported w/ deej - and as such might not interact super-intuitively with config options such as "noise_reduction"
-
-Enable deej mode by changing the configuration from deejmode=false to deejmode=true
-
-Once enabled, button holds will not work as usual. They will instead activate 1 of 5 virtual sliders which can then be adjusted with the knob. If you want to control the program attached to slider 3 for example, hold down button 3 for a moment and then turn the knob. You'll have to find out what port your macropad is connected to your computer with as well. More information on deej setup can be found on the [deej Github](https://github.com/omriharel/deej). Please email Pikatea support if you have questions.
 ### QMK and VIA and VIAL Programming
 The Pikatea Macropad is compatible with QMK, VIA and VIAL firmware.
 
