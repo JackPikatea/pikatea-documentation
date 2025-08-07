@@ -101,6 +101,7 @@ module.exports = {
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1,    // optional, defaults to 1
         children: [
+          ['/AssemblyGuides/funky60-l', 'Funky60L 3D Printed'],
           ['/AssemblyGuides/iowa-2025-macropad', 'Iowa 2025 Corn Macropad'],
           ['/AssemblyGuides/parametric-mx', 'Parametric Keyboards and Macropads'],
           ['/AssemblyGuides/mn-build-guide', 'Minnesota Macropad'],
@@ -113,7 +114,7 @@ module.exports = {
           ['/AssemblyGuides/pikatea-macropad-r26-led-desktop-kit-assembly-guide', 'Pikatea Macropad R26'],
           ['/AssemblyGuides/pikatea-macropad-fk1-kit-assembly-guide', 'Pikatea Macropad FK1'],
           ['/AssemblyGuides/pikatea-macropad-gb4-kit-assembly-guide', 'Pikatea Macropad GB4'],
-          ['/AssemblyGuides/funky60-build-guide', 'Funky60'],
+          ['/AssemblyGuides/funky60-build-guide', 'Funky60 Aluminum'],
           ['/AssemblyGuides/finngus-kit-assembly-guide', 'Pikatea Keyboard FinnGus'],
           ['/AssemblyGuides/pikatea-macropad-gb3-kit-assembly-guide', 'Pikatea Macropad GB3'],
           ['/AssemblyGuides/macropad1x5-kit-assembly-guide', 'Macropad5x1'],
